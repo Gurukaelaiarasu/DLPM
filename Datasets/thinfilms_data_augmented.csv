@@ -1,0 +1,2001 @@
+ID,Material,Film_Thickness_nm,Deposition_Method,Substrate,Refractive_Index,Bandgap_eV,Surface_Roughness_nm,Electrical_Conductivity_S_cm,Optical_Transmittance_%,Application,Source
+1802_A0,ITO,137.8,ALD,Quartz,2.55,1.63,4.57,58.549375,74.77,Sensors,S24
+1191_A1,SnO2,60.0,CVD,Quartz,2.27,1.26,1.02,61.215559,78.03,Solar Cells,S2
+1818_A2,TiO2,83.6,ALD,Quartz,2.54,1.64,0.89,59.020091,73.76,Optoelectronics,S14
+252_A3,SiO2,98.8,ALD,Quartz,2.49,2.35,4.03,23.39358,74.71,Sensors,S16
+2506_A4,TiO2,111.1,Thermal Evaporation,Silicon Wafer,2.2,2.56,4.07,20.643239,92.0,Transparent Conductors,S8
+1118_A5,SiO2,144.2,Thermal Evaporation,Glass,2.85,1.13,2.25,73.375643,92.98,Sensors,S9
+1412_A6,TiO2,102.8,Thermal Evaporation,Glass,1.6,3.69,0.46,35.65338,88.23,Optoelectronics,S25
+2114_A7,Al2O3,84.4,Thermal Evaporation,PET,2.44,1.91,2.87,78.065161,77.06,Solar Cells,S21
+409_A8,SiO2,137.7,ALD,Silicon Wafer,2.82,1.63,5.02,13.534138,78.42,Transparent Conductors,S21
+2580_A9,SiO2,93.5,Spin Coating,Glass,2.5,2.41,4.11,32.937829,78.78,Optoelectronics,S19
+2255_A10,ITO,82.8,Thermal Evaporation,Silicon Wafer,2.64,1.31,4.77,89.889579,91.5,Sensors,S23
+53_A11,ITO,88.1,CVD,PET,2.84,1.91,0.55,26.070872,79.79,Sensors,S13
+645_A12,ZnO,16.6,CVD,PET,1.96,4.06,4.01,24.701781,89.26,Solar Cells,S16
+1764_A13,SiO2,84.6,CVD,PET,2.02,1.64,3.22,60.356187,80.02,Solar Cells,S8
+2777_A14,MoS2,92.5,ALD,Quartz,2.57,3.61,3.55,79.766554,78.77,Solar Cells,S16
+901_A15,TiO2,120.6,Spin Coating,Silicon Wafer,2.05,2.49,4.08,51.345565,87.25,Transparent Conductors,S14
+1074_A16,Al2O3,97.9,Spin Coating,Silicon Wafer,2.5,1.99,3.97,46.338701,77.2,Transparent Conductors,S3
+473_A17,ZnO,108.1,Spin Coating,Quartz,2.3,2.3,3.3,93.133698,77.08,Sensors,S1
+2739_A18,SiO2,123.0,ALD,Silicon Wafer,2.27,2.92,4.53,47.467356,79.33,Transparent Conductors,S8
+2547_A19,TiO2,118.8,ALD,Quartz,2.02,1.72,2.12,89.354793,88.25,Optoelectronics,S17
+45_A20,ZnO,155.6,CVD,PET,2.57,1.89,2.76,30.261058,81.14,Transparent Conductors,S3
+290_A21,ITO,102.2,Sputtering,Glass,2.63,3.62,4.84,85.131616,78.71,Solar Cells,S24
+913_A22,MoS2,123.3,Sputtering,PET,2.55,1.62,4.44,71.191804,88.97,Solar Cells,S11
+2084_A23,Al2O3,130.5,ALD,PET,2.86,2.52,4.47,21.440441,93.51,Sensors,S23
+1361_A24,ITO,74.0,Sputtering,Glass,2.48,2.98,3.61,7.495497,81.33,Optoelectronics,S6
+2896_A25,SiO2,64.7,Thermal Evaporation,Quartz,2.81,2.72,3.56,29.086767,76.66,Optoelectronics,S23
+2604_A26,SiO2,97.7,Sputtering,Quartz,2.7,3.01,2.5,31.213474,72.22,Sensors,S13
+1227_A27,Al2O3,104.5,Thermal Evaporation,PET,2.66,2.7,2.89,18.641832,73.54,Optoelectronics,S20
+297_A28,SnO2,126.7,Thermal Evaporation,Glass,2.68,1.25,2.62,13.347,90.77,Solar Cells,S23
+1242_A29,Graphene,119.5,Thermal Evaporation,Glass,2.44,1.04,3.4,55.102142,93.94,Transparent Conductors,S7
+1006_A30,MoS2,106.6,Thermal Evaporation,Quartz,2.03,1.72,3.67,49.116563,86.1,Sensors,S2
+1666_A31,SiO2,131.1,ALD,Silicon Wafer,2.88,2.71,0.91,26.89467,81.73,Optoelectronics,S14
+747_A32,ZnO,72.0,CVD,Quartz,1.87,1.24,1.26,96.05515,80.53,Optoelectronics,S16
+2852_A33,MoS2,78.9,CVD,Quartz,2.14,2.76,3.74,82.649416,92.36,Sensors,S22
+292_A34,Graphene,94.9,ALD,Silicon Wafer,1.55,0.99,3.27,78.473847,71.94,Solar Cells,S24
+782_A35,Al2O3,121.9,CVD,Quartz,2.2,3.61,4.79,49.0134,75.27,Sensors,S10
+2145_A36,Graphene,127.0,Spin Coating,PET,2.52,2.61,0.63,49.182385,82.1,Optoelectronics,S14
+323_A37,ITO,71.0,ALD,Quartz,2.89,2.82,4.96,70.087502,78.61,Transparent Conductors,S17
+299_A38,MoS2,113.7,Sputtering,PET,2.37,3.39,3.64,34.761124,89.38,Solar Cells,S21
+1299_A39,TiO2,150.6,Sputtering,Quartz,2.69,3.15,1.51,31.369987,74.9,Transparent Conductors,S24
+195_A40,MoS2,115.4,Sputtering,Silicon Wafer,2.01,1.91,1.63,85.554057,96.08,Sensors,S13
+64_A41,SiO2,111.7,Sputtering,Silicon Wafer,2.2,1.37,1.69,24.911054,87.49,Transparent Conductors,S22
+394_A42,MoS2,161.5,Spin Coating,Silicon Wafer,2.23,2.26,2.4,96.162107,72.66,Sensors,S11
+728_A43,ZnO,73.9,Spin Coating,Quartz,2.84,1.43,2.46,30.393733,78.18,Optoelectronics,S24
+1584_A44,Graphene,88.6,ALD,Quartz,2.11,1.87,0.57,46.346371,88.54,Optoelectronics,S13
+1548_A45,Al2O3,111.8,Sputtering,Silicon Wafer,1.98,3.11,2.07,66.852732,79.07,Sensors,S6
+2426_A46,SiO2,157.5,CVD,PET,2.48,2.03,4.31,10.851994,78.95,Transparent Conductors,S16
+15_A47,TiO2,111.7,Thermal Evaporation,PET,1.73,1.97,2.65,75.65318,85.52,Solar Cells,S8
+2568_A48,Al2O3,62.6,CVD,Glass,2.02,3.25,4.42,44.075398,78.27,Sensors,S25
+1601_A49,Graphene,112.8,Thermal Evaporation,Glass,1.66,2.98,1.64,74.069722,72.61,Transparent Conductors,S2
+1091_A50,Al2O3,116.6,CVD,Silicon Wafer,2.77,4.03,3.0,91.825295,87.22,Optoelectronics,S1
+2112_A51,TiO2,113.2,ALD,PET,1.98,2.58,1.21,72.491788,95.74,Solar Cells,S14
+204_A52,SnO2,92.0,CVD,Silicon Wafer,1.76,1.34,1.56,12.761707,78.03,Solar Cells,S13
+2419_A53,ITO,79.8,Spin Coating,PET,2.09,1.15,2.03,57.186624,74.61,Sensors,S22
+153_A54,ZnO,129.2,CVD,PET,1.96,2.12,0.87,73.502937,87.61,Sensors,S18
+2902_A55,TiO2,57.4,Sputtering,Silicon Wafer,2.26,3.62,0.57,80.933751,79.65,Optoelectronics,S19
+1360_A56,Graphene,137.2,Spin Coating,Glass,1.89,1.83,2.39,105.736011,83.49,Sensors,S3
+773_A57,SnO2,54.1,CVD,Quartz,2.34,3.1,3.93,52.260038,76.13,Optoelectronics,S12
+2679_A58,Al2O3,68.0,CVD,PET,2.3,3.44,3.02,48.581875,94.58,Transparent Conductors,S8
+1002_A59,TiO2,147.7,CVD,Silicon Wafer,2.51,3.99,1.81,3.14591,81.64,Sensors,S12
+719_A60,ITO,94.8,Sputtering,PET,2.36,2.51,2.64,89.884732,86.8,Optoelectronics,S8
+613_A61,Al2O3,106.3,Thermal Evaporation,Glass,1.81,3.66,4.35,43.099256,70.67,Transparent Conductors,S9
+843_A62,Graphene,110.2,ALD,PET,1.71,2.58,2.13,77.679871,81.99,Solar Cells,S17
+267_A63,ZnO,59.7,Spin Coating,Quartz,2.87,3.4,4.48,54.352106,70.62,Sensors,S12
+52_A64,ITO,77.4,Spin Coating,PET,1.75,2.66,1.37,69.090488,78.3,Sensors,S22
+1196_A65,MoS2,137.4,CVD,PET,2.76,3.9,2.84,48.890115,77.28,Transparent Conductors,S22
+1271_A66,MoS2,93.1,Spin Coating,Glass,2.54,1.84,0.83,67.851547,96.1,Transparent Conductors,S6
+1492_A67,ITO,79.5,Thermal Evaporation,Glass,2.12,1.22,3.25,102.390507,78.94,Optoelectronics,S24
+1583_A68,Graphene,86.6,CVD,Glass,2.21,1.74,1.05,49.312652,90.53,Optoelectronics,S18
+522_A69,SnO2,130.6,Sputtering,PET,2.85,1.86,1.19,60.21032,89.83,Solar Cells,S2
+1695_A70,ZnO,109.1,Thermal Evaporation,Glass,1.92,2.64,2.74,91.359812,77.82,Sensors,S18
+2664_A71,TiO2,87.4,Spin Coating,PET,1.65,3.31,4.64,102.408125,72.01,Solar Cells,S21
+2749_A72,ITO,81.2,Thermal Evaporation,Glass,2.52,2.1,1.33,36.863632,75.98,Sensors,S3
+1922_A73,MoS2,144.7,CVD,Silicon Wafer,2.66,1.93,3.64,12.482382,76.72,Optoelectronics,S12
+103_A74,MoS2,101.5,Spin Coating,Glass,2.06,1.77,1.43,24.125256,86.66,Optoelectronics,S20
+696_A75,TiO2,81.5,CVD,Glass,2.66,3.04,4.22,72.453364,79.98,Sensors,S9
+2333_A76,Graphene,90.5,Thermal Evaporation,PET,3.02,1.4,1.72,54.344462,77.01,Optoelectronics,S15
+2725_A77,TiO2,99.5,CVD,Quartz,1.77,1.29,2.25,43.286979,80.33,Transparent Conductors,S25
+2273_A78,ZnO,128.4,Spin Coating,Quartz,2.55,2.2,3.1,61.571651,84.96,Optoelectronics,S16
+2483_A79,Graphene,82.7,Thermal Evaporation,Quartz,1.79,3.19,4.48,0.628299,96.58,Transparent Conductors,S11
+1843_A80,Graphene,110.9,Sputtering,Glass,1.58,2.98,1.93,7.539463,71.71,Solar Cells,S16
+1831_A81,Al2O3,129.9,Thermal Evaporation,Silicon Wafer,2.93,1.7,4.51,66.551438,92.16,Transparent Conductors,S20
+795_A82,Graphene,77.8,Thermal Evaporation,Silicon Wafer,1.74,3.88,2.97,69.44279,70.18,Solar Cells,S2
+1821_A83,TiO2,113.0,ALD,Glass,2.05,1.66,1.75,3.374221,81.64,Sensors,S2
+2002_A84,SnO2,131.1,Sputtering,Glass,2.34,2.85,4.29,101.297977,78.73,Solar Cells,S24
+145_A85,SiO2,103.5,Spin Coating,Quartz,1.67,1.56,0.77,71.58689,90.15,Sensors,S4
+2526_A86,Al2O3,83.6,CVD,PET,1.68,2.85,4.44,83.840396,79.33,Transparent Conductors,S9
+1331_A87,SnO2,49.4,ALD,Glass,2.83,2.67,3.31,30.792758,85.87,Sensors,S5
+2478_A88,MoS2,110.8,Sputtering,Quartz,2.24,3.55,2.66,54.417559,96.78,Optoelectronics,S17
+2882_A89,Al2O3,88.5,CVD,Quartz,2.08,3.72,4.11,49.665751,75.53,Transparent Conductors,S7
+322_A90,Al2O3,50.9,Spin Coating,Silicon Wafer,2.86,1.72,0.91,45.279469,94.19,Solar Cells,S5
+1262_A91,SnO2,112.9,ALD,Silicon Wafer,2.24,2.91,3.07,86.897181,84.46,Solar Cells,S16
+2415_A92,Al2O3,106.8,Spin Coating,Glass,1.56,1.85,3.67,38.88948,80.13,Sensors,S25
+1270_A93,ITO,88.5,Spin Coating,PET,2.62,1.01,1.95,51.841321,76.22,Solar Cells,S24
+1761_A94,TiO2,84.7,Sputtering,PET,1.59,3.42,2.94,93.596392,84.08,Transparent Conductors,S16
+417_A95,Graphene,95.3,Thermal Evaporation,Quartz,2.7,2.4,3.59,87.782475,91.6,Transparent Conductors,S3
+2632_A96,SiO2,134.5,Spin Coating,Glass,2.04,2.39,3.97,47.63917,72.12,Transparent Conductors,S5
+2292_A97,SnO2,135.7,Sputtering,Silicon Wafer,2.49,1.36,3.23,56.849369,92.57,Solar Cells,S15
+175_A98,SnO2,65.9,Sputtering,Quartz,2.93,3.15,3.19,17.481541,82.64,Sensors,S10
+1726_A99,SnO2,95.0,Thermal Evaporation,Quartz,1.88,2.81,2.04,9.918579,92.28,Transparent Conductors,S16
+2176_A100,MoS2,121.9,Spin Coating,Quartz,2.6,1.23,1.98,69.34171,76.61,Transparent Conductors,S8
+46_A101,TiO2,156.1,Spin Coating,PET,2.01,1.27,0.57,32.906973,81.11,Transparent Conductors,S22
+686_A102,Graphene,87.5,Sputtering,Silicon Wafer,1.83,2.65,2.66,43.649153,71.6,Solar Cells,S5
+1608_A103,MoS2,84.3,ALD,Silicon Wafer,1.99,2.42,1.23,24.003592,83.86,Solar Cells,S11
+1232_A104,TiO2,90.8,CVD,Glass,2.88,3.87,4.8,3.218211,78.87,Sensors,S22
+863_A105,TiO2,141.1,Sputtering,PET,1.93,3.76,4.47,65.744412,84.57,Optoelectronics,S20
+1966_A106,Graphene,131.0,Sputtering,PET,2.06,0.99,1.12,71.646013,93.03,Optoelectronics,S7
+332_A107,MoS2,32.1,Sputtering,PET,1.89,3.17,2.83,61.120093,74.52,Sensors,S21
+94_A108,SnO2,109.0,Sputtering,Quartz,1.55,4.0,3.32,12.563381,88.16,Sensors,S3
+1642_A109,SnO2,43.6,CVD,Silicon Wafer,1.69,2.09,3.48,66.419822,90.43,Sensors,S10
+2987_A110,SiO2,98.8,CVD,Glass,2.45,1.13,2.49,96.327673,89.97,Optoelectronics,S4
+507_A111,SnO2,99.2,ALD,Silicon Wafer,1.85,1.82,3.08,7.586231,89.75,Optoelectronics,S23
+2910_A112,TiO2,98.8,Sputtering,PET,3.03,2.15,4.9,38.958164,83.22,Solar Cells,S24
+2046_A113,SnO2,58.0,Sputtering,Glass,2.91,1.69,0.84,42.357144,85.78,Solar Cells,S6
+496_A114,Al2O3,63.0,ALD,Silicon Wafer,2.14,3.43,3.67,59.443247,85.44,Solar Cells,S5
+2133_A115,Graphene,120.6,Thermal Evaporation,Silicon Wafer,2.77,2.33,3.88,21.915063,85.14,Sensors,S24
+1_A116,Graphene,127.2,CVD,Glass,1.65,3.56,3.86,55.088549,84.23,Optoelectronics,S8
+315_A117,TiO2,102.9,CVD,Quartz,2.81,3.11,3.9,97.864953,84.33,Transparent Conductors,S11
+1273_A118,MoS2,74.2,Spin Coating,Silicon Wafer,2.6,2.48,0.75,80.809763,71.35,Optoelectronics,S22
+1942_A119,MoS2,122.2,Spin Coating,Quartz,2.51,1.72,3.61,74.632808,88.21,Optoelectronics,S19
+2968_A120,MoS2,78.8,Sputtering,Glass,2.2,1.77,0.98,92.602075,75.21,Sensors,S13
+1317_A121,ZnO,53.5,ALD,Glass,2.41,3.58,1.06,44.696002,71.84,Solar Cells,S15
+756_A122,SiO2,84.7,CVD,Glass,2.06,3.75,4.23,39.029756,90.06,Solar Cells,S1
+1771_A123,ZnO,51.2,Sputtering,Glass,2.79,2.85,4.71,69.953275,77.6,Optoelectronics,S10
+1201_A124,ITO,90.3,ALD,Glass,2.56,2.47,1.62,13.561837,76.65,Solar Cells,S2
+2175_A125,Al2O3,104.3,Spin Coating,Silicon Wafer,1.55,4.0,2.73,70.278883,74.18,Optoelectronics,S19
+1992_A126,SiO2,113.9,ALD,Silicon Wafer,2.72,3.63,4.32,72.983167,86.37,Optoelectronics,S5
+880_A127,Al2O3,45.4,Thermal Evaporation,PET,2.45,2.73,4.1,58.447026,89.99,Solar Cells,S17
+766_A128,MoS2,155.1,Spin Coating,Glass,2.51,3.27,1.66,43.432111,89.23,Solar Cells,S11
+928_A129,TiO2,52.8,Thermal Evaporation,Silicon Wafer,2.09,1.06,2.18,18.523405,85.78,Transparent Conductors,S16
+2378_A130,ZnO,72.4,CVD,Glass,1.5,3.2,4.39,34.621713,75.55,Sensors,S10
+1375_A131,Al2O3,59.5,CVD,Quartz,1.82,3.61,1.53,29.3332,91.9,Transparent Conductors,S4
+1815_A132,SiO2,114.5,Sputtering,Glass,1.72,1.69,3.7,59.491008,73.1,Sensors,S1
+1799_A133,ITO,125.3,ALD,Glass,2.64,3.26,1.87,86.299097,81.41,Solar Cells,S16
+930_A134,Al2O3,100.0,Sputtering,Quartz,2.0,3.72,0.65,45.168471,72.01,Transparent Conductors,S20
+437_A135,SnO2,108.6,ALD,PET,2.21,1.29,0.76,91.379074,83.56,Sensors,S5
+197_A136,SnO2,70.4,Spin Coating,PET,1.96,3.39,1.36,8.17456,85.18,Optoelectronics,S9
+1763_A137,Graphene,109.9,Spin Coating,Silicon Wafer,1.77,2.96,4.37,10.343881,71.96,Sensors,S11
+1065_A138,ZnO,118.9,Spin Coating,Quartz,2.37,3.47,5.02,86.522312,70.18,Optoelectronics,S12
+2343_A139,Al2O3,123.5,Spin Coating,Quartz,2.98,1.02,4.3,26.895277,78.39,Sensors,S3
+2529_A140,TiO2,139.1,ALD,Silicon Wafer,2.88,2.13,3.47,83.075912,83.28,Sensors,S21
+1269_A141,ZnO,127.6,Thermal Evaporation,PET,2.16,1.4,2.71,25.25447,78.19,Solar Cells,S8
+2324_A142,Graphene,111.7,Sputtering,Silicon Wafer,2.37,2.13,3.14,69.978053,83.29,Optoelectronics,S2
+2780_A143,Graphene,147.9,ALD,Silicon Wafer,2.58,1.0,1.1,21.837447,88.71,Optoelectronics,S25
+2226_A144,MoS2,84.8,CVD,PET,2.29,2.82,2.27,29.280829,86.9,Transparent Conductors,S3
+451_A145,Al2O3,108.8,Spin Coating,PET,2.47,3.23,1.53,23.618227,94.76,Transparent Conductors,S22
+2165_A146,SiO2,123.1,Sputtering,Quartz,2.03,3.49,1.77,8.420202,77.32,Transparent Conductors,S6
+2373_A147,Al2O3,79.0,Thermal Evaporation,PET,2.61,1.48,3.36,67.712135,84.39,Transparent Conductors,S23
+2013_A148,Al2O3,87.3,Spin Coating,Glass,2.13,1.44,1.2,51.880861,74.35,Optoelectronics,S10
+271_A149,SiO2,130.6,Thermal Evaporation,Glass,1.87,3.0,3.72,49.489133,92.66,Optoelectronics,S19
+1841_A150,SiO2,69.0,ALD,Glass,2.28,3.75,3.09,71.659977,86.87,Solar Cells,S1
+2935_A151,Al2O3,107.1,Sputtering,Silicon Wafer,1.93,2.67,0.52,49.312928,82.43,Solar Cells,S19
+979_A152,ITO,159.1,Thermal Evaporation,PET,2.92,1.09,2.79,26.557835,71.06,Solar Cells,S3
+2167_A153,Graphene,80.7,Sputtering,Silicon Wafer,2.73,3.96,4.1,32.358331,79.03,Solar Cells,S11
+355_A154,MoS2,108.9,Spin Coating,Glass,2.25,2.21,2.05,13.590738,85.41,Solar Cells,S4
+1877_A155,TiO2,73.9,CVD,Quartz,1.64,2.18,2.77,12.090995,83.33,Solar Cells,S15
+185_A156,MoS2,123.2,Sputtering,Quartz,1.85,2.47,1.69,28.763267,74.17,Sensors,S5
+2745_A157,SnO2,155.6,Sputtering,PET,2.23,1.58,1.97,94.382469,75.68,Solar Cells,S20
+1615_A158,Graphene,102.8,Thermal Evaporation,Glass,1.56,3.92,3.6,34.59175,79.9,Transparent Conductors,S1
+2760_A159,SiO2,91.6,Spin Coating,Glass,2.49,3.51,4.36,78.694577,82.92,Solar Cells,S7
+1707_A160,Graphene,69.0,Spin Coating,Silicon Wafer,1.94,2.23,2.23,7.777862,77.77,Optoelectronics,S1
+1862_A161,SnO2,113.3,CVD,Quartz,1.66,2.16,4.54,64.422646,94.88,Solar Cells,S14
+247_A162,SiO2,83.3,Thermal Evaporation,PET,1.87,2.86,2.59,96.836597,89.72,Sensors,S9
+556_A163,Al2O3,91.6,ALD,Silicon Wafer,2.62,1.38,1.39,38.728489,83.28,Optoelectronics,S12
+1753_A164,SiO2,114.4,CVD,PET,2.57,2.36,3.18,13.27009,92.31,Transparent Conductors,S19
+1365_A165,ITO,142.4,Sputtering,Quartz,1.92,3.44,0.85,31.946927,76.89,Sensors,S25
+68_A166,MoS2,109.0,Thermal Evaporation,Glass,2.21,2.92,2.56,26.079339,78.69,Transparent Conductors,S10
+2619_A167,Graphene,130.4,Spin Coating,Quartz,2.45,2.88,2.35,1.018906,89.02,Solar Cells,S17
+2285_A168,ZnO,106.9,Thermal Evaporation,Silicon Wafer,2.61,1.69,2.8,34.453106,71.92,Optoelectronics,S24
+533_A169,SnO2,43.1,ALD,Silicon Wafer,2.87,3.11,2.9,24.421613,86.76,Solar Cells,S12
+2874_A170,SiO2,109.8,CVD,PET,1.99,3.66,1.25,33.321939,71.22,Solar Cells,S4
+2706_A171,MoS2,128.9,Spin Coating,Quartz,2.02,1.2,1.89,52.079523,91.14,Sensors,S6
+1503_A172,TiO2,66.0,Sputtering,Quartz,2.27,0.92,2.17,79.524295,70.09,Optoelectronics,S25
+762_A173,TiO2,144.8,Spin Coating,Glass,2.86,3.58,3.96,87.520741,93.07,Solar Cells,S10
+2753_A174,Graphene,53.9,ALD,Quartz,2.06,2.71,0.6,4.641903,89.59,Solar Cells,S17
+1212_A175,TiO2,100.0,CVD,PET,2.72,1.88,2.41,15.033298,87.75,Transparent Conductors,S2
+2244_A176,Al2O3,133.0,Sputtering,PET,2.24,2.58,2.71,3.704115,87.77,Optoelectronics,S8
+1794_A177,ZnO,83.7,ALD,Quartz,1.6,1.01,1.51,57.885219,85.57,Sensors,S12
+536_A178,SnO2,111.0,ALD,PET,2.09,2.51,2.66,14.825058,76.25,Solar Cells,S9
+1747_A179,Al2O3,120.8,CVD,Quartz,2.04,2.83,4.03,33.568968,87.76,Sensors,S11
+464_A180,Al2O3,123.4,ALD,Glass,1.91,2.96,1.37,37.24817,75.24,Sensors,S15
+2678_A181,MoS2,90.0,ALD,Silicon Wafer,1.83,2.1,0.8,36.310833,74.5,Transparent Conductors,S4
+1840_A182,ITO,92.8,ALD,Silicon Wafer,1.59,1.19,4.08,98.90803,84.74,Transparent Conductors,S17
+2863_A183,MoS2,75.7,ALD,Glass,2.22,3.71,1.22,11.142996,93.28,Optoelectronics,S5
+125_A184,SiO2,81.8,ALD,Silicon Wafer,2.08,2.97,3.03,14.557017,73.55,Transparent Conductors,S19
+179_A185,Al2O3,91.1,CVD,Glass,1.81,2.79,1.02,47.849224,91.49,Solar Cells,S19
+193_A186,MoS2,59.9,Sputtering,Quartz,3.02,2.59,0.92,70.168637,77.21,Optoelectronics,S7
+2308_A187,SnO2,110.9,CVD,PET,2.44,4.02,3.25,41.649996,88.81,Solar Cells,S14
+1430_A188,ZnO,81.8,ALD,Silicon Wafer,2.85,3.71,3.0,96.940706,85.77,Optoelectronics,S10
+1692_A189,Al2O3,56.6,CVD,Quartz,1.84,3.79,0.56,17.470867,85.01,Transparent Conductors,S13
+742_A190,ITO,77.2,CVD,Glass,1.55,2.71,4.21,47.921377,80.96,Optoelectronics,S15
+1035_A191,ZnO,106.5,ALD,Quartz,1.64,2.4,1.43,80.196057,93.18,Solar Cells,S5
+1967_A192,Graphene,74.9,Sputtering,PET,2.83,2.09,2.52,0.433962,85.04,Solar Cells,S9
+479_A193,ITO,91.7,Spin Coating,PET,1.57,1.71,2.96,38.338046,92.14,Transparent Conductors,S10
+1028_A194,SiO2,93.5,ALD,Silicon Wafer,1.6,1.1,3.06,44.526507,82.57,Solar Cells,S8
+2602_A195,TiO2,97.5,CVD,PET,2.11,1.36,0.89,63.899833,89.68,Optoelectronics,S14
+369_A196,Al2O3,90.5,Sputtering,PET,2.53,2.98,3.74,6.747942,84.75,Solar Cells,S21
+2524_A197,SiO2,82.1,Sputtering,Silicon Wafer,1.91,2.58,4.03,105.327301,78.87,Optoelectronics,S15
+846_A198,ZnO,88.3,CVD,Silicon Wafer,2.3,1.3,2.0,53.826476,89.8,Sensors,S17
+257_A199,SiO2,122.4,Sputtering,Quartz,2.02,1.7,4.46,51.505112,73.28,Transparent Conductors,S16
+1223_A200,ITO,114.4,Spin Coating,Quartz,2.68,1.87,3.08,25.567545,95.3,Sensors,S3
+1993_A201,ZnO,84.1,Sputtering,Silicon Wafer,1.72,1.65,2.93,95.8779,91.53,Solar Cells,S6
+212_A202,ZnO,94.2,Thermal Evaporation,Silicon Wafer,1.99,3.9,0.83,7.432697,77.95,Solar Cells,S6
+2690_A203,Al2O3,149.1,ALD,Glass,2.12,3.47,3.42,32.708578,74.48,Optoelectronics,S20
+1950_A204,SiO2,105.0,Sputtering,Glass,2.51,1.13,3.61,39.827669,82.27,Optoelectronics,S25
+1363_A205,SnO2,112.7,CVD,Quartz,1.67,2.73,1.55,98.103553,77.21,Optoelectronics,S2
+2152_A206,TiO2,115.4,CVD,PET,2.04,1.98,4.11,0.646788,90.55,Transparent Conductors,S10
+2154_A207,ZnO,47.7,Spin Coating,Silicon Wafer,1.95,1.25,4.63,46.237025,72.54,Optoelectronics,S18
+568_A208,TiO2,100.5,Spin Coating,PET,1.81,2.68,2.37,88.387222,79.37,Transparent Conductors,S20
+2207_A209,MoS2,89.8,ALD,PET,1.87,3.02,0.63,79.726433,92.98,Transparent Conductors,S18
+2094_A210,Graphene,76.1,Thermal Evaporation,Glass,1.79,2.35,3.18,59.210241,87.85,Solar Cells,S4
+1711_A211,SnO2,66.7,Sputtering,Glass,2.83,3.69,3.74,4.019728,70.02,Transparent Conductors,S15
+1264_A212,Al2O3,95.6,Spin Coating,PET,2.07,1.95,1.62,9.24757,87.99,Sensors,S17
+2124_A213,SnO2,108.1,Sputtering,PET,2.48,2.87,3.61,56.280147,74.05,Sensors,S19
+799_A214,SnO2,136.3,ALD,Glass,2.64,2.03,3.38,41.666688,88.55,Solar Cells,S3
+81_A215,MoS2,103.9,ALD,PET,2.32,1.18,1.86,33.272946,92.74,Transparent Conductors,S4
+33_A216,ITO,100.7,Thermal Evaporation,Silicon Wafer,2.92,1.26,0.99,10.260747,74.43,Sensors,S14
+415_A217,MoS2,100.4,Thermal Evaporation,Silicon Wafer,1.61,1.56,5.04,99.479531,74.08,Transparent Conductors,S17
+1805_A218,SnO2,60.6,Thermal Evaporation,Quartz,2.72,1.86,1.25,26.042453,77.8,Optoelectronics,S8
+2214_A219,ZnO,84.3,ALD,PET,2.76,1.15,1.54,65.950498,86.31,Solar Cells,S1
+1322_A220,SnO2,127.0,Spin Coating,Glass,1.84,2.67,1.44,19.006361,78.1,Sensors,S16
+1568_A221,TiO2,102.2,CVD,Glass,1.62,1.9,3.85,12.10845,80.12,Sensors,S22
+784_A222,TiO2,113.1,CVD,Quartz,2.89,1.92,1.2,11.156845,71.05,Sensors,S22
+2992_A223,MoS2,142.0,Thermal Evaporation,Quartz,2.2,1.81,0.89,61.160481,77.07,Transparent Conductors,S6
+1413_A224,Al2O3,102.7,Spin Coating,Quartz,1.56,1.59,1.96,56.561342,71.5,Transparent Conductors,S24
+458_A225,MoS2,81.2,Spin Coating,Silicon Wafer,1.99,3.9,4.41,1.737312,85.17,Transparent Conductors,S2
+140_A226,MoS2,105.9,Spin Coating,Glass,2.93,3.3,1.13,35.897682,87.36,Transparent Conductors,S17
+2231_A227,TiO2,98.9,ALD,Glass,2.1,2.96,4.48,17.608449,82.86,Sensors,S13
+1026_A228,ITO,119.2,Sputtering,Glass,2.6,3.62,3.59,17.895418,91.25,Transparent Conductors,S8
+89_A229,SnO2,52.3,Spin Coating,Glass,1.76,3.65,1.56,71.297982,82.78,Optoelectronics,S21
+1443_A230,Graphene,140.6,Spin Coating,PET,1.86,1.9,1.42,30.558448,89.97,Transparent Conductors,S12
+1832_A231,MoS2,84.7,Sputtering,Quartz,2.12,3.79,3.41,35.009231,89.68,Optoelectronics,S25
+2577_A232,SnO2,95.3,ALD,Glass,2.44,2.22,1.78,90.148398,96.5,Optoelectronics,S3
+255_A233,ZnO,80.7,ALD,PET,2.79,2.28,1.85,42.133306,92.76,Transparent Conductors,S16
+606_A234,SiO2,100.2,CVD,Glass,2.83,3.36,2.43,93.615952,83.2,Transparent Conductors,S7
+1045_A235,SiO2,81.5,Thermal Evaporation,Quartz,2.89,3.89,3.76,28.477906,86.16,Transparent Conductors,S14
+569_A236,Graphene,81.6,CVD,Glass,2.19,1.24,1.4,56.641337,88.68,Optoelectronics,S12
+1733_A237,SiO2,129.0,Spin Coating,PET,3.01,2.71,3.4,73.368973,80.05,Solar Cells,S3
+2543_A238,MoS2,83.5,Spin Coating,PET,2.76,1.31,3.0,82.969409,84.4,Transparent Conductors,S16
+858_A239,MoS2,66.6,CVD,Quartz,1.89,1.09,3.73,0.541957,80.72,Transparent Conductors,S12
+2473_A240,SiO2,132.9,ALD,Silicon Wafer,1.73,1.63,0.68,50.850272,72.88,Optoelectronics,S20
+818_A241,Al2O3,150.9,CVD,Glass,2.4,1.87,2.76,25.536106,74.96,Sensors,S4
+2031_A242,SnO2,132.0,Spin Coating,Quartz,2.35,1.29,2.67,2.321211,74.22,Sensors,S15
+1878_A243,TiO2,90.1,Sputtering,Silicon Wafer,2.68,3.42,4.07,71.915199,81.27,Optoelectronics,S17
+142_A244,TiO2,99.2,Thermal Evaporation,PET,2.54,2.42,4.32,71.720219,71.56,Transparent Conductors,S17
+444_A245,TiO2,35.4,ALD,Silicon Wafer,2.92,1.49,1.18,43.261277,73.94,Sensors,S19
+1175_A246,Al2O3,125.2,Sputtering,PET,1.82,1.52,2.65,100.1362,88.48,Transparent Conductors,S2
+487_A247,MoS2,52.9,Sputtering,Glass,1.53,2.68,0.54,9.577672,72.45,Sensors,S16
+882_A248,Al2O3,71.6,Spin Coating,Silicon Wafer,2.66,3.16,4.18,77.664422,81.38,Solar Cells,S7
+2565_A249,Graphene,106.2,Sputtering,PET,2.68,3.1,0.99,19.715503,74.06,Optoelectronics,S15
+1085_A250,ITO,134.6,Sputtering,Quartz,1.91,3.24,4.04,38.09229,79.22,Sensors,S20
+1300_A251,SiO2,99.5,ALD,PET,1.56,2.28,3.53,15.909868,73.48,Solar Cells,S24
+176_A252,SiO2,115.8,Thermal Evaporation,Silicon Wafer,2.88,1.09,2.67,62.579751,74.55,Transparent Conductors,S24
+1095_A253,ZnO,101.0,Sputtering,Glass,1.57,2.39,3.42,31.847495,73.23,Solar Cells,S23
+2701_A254,MoS2,72.7,Sputtering,PET,1.86,2.12,2.57,89.371865,87.37,Optoelectronics,S9
+2847_A255,ITO,160.3,Spin Coating,Silicon Wafer,2.6,3.86,2.13,31.182718,77.26,Solar Cells,S4
+1964_A256,Al2O3,104.3,Thermal Evaporation,Silicon Wafer,2.06,2.8,3.74,28.090343,92.84,Sensors,S25
+2682_A257,MoS2,64.3,Thermal Evaporation,Glass,2.28,1.09,1.23,84.340989,71.39,Solar Cells,S13
+2098_A258,ITO,80.6,Spin Coating,Silicon Wafer,2.15,1.44,3.0,47.185729,83.21,Solar Cells,S9
+2156_A259,Graphene,68.8,Sputtering,Glass,2.77,3.71,4.34,52.184256,71.12,Sensors,S13
+1557_A260,ZnO,144.7,Sputtering,PET,2.65,2.3,2.09,58.92099,84.03,Solar Cells,S14
+1671_A261,SnO2,98.0,CVD,PET,2.9,3.45,3.11,3.932994,75.72,Sensors,S10
+178_A262,TiO2,141.1,Thermal Evaporation,Silicon Wafer,2.92,3.68,0.84,43.377795,94.81,Optoelectronics,S14
+1079_A263,ZnO,121.8,ALD,Glass,2.54,4.04,1.55,56.80454,93.2,Sensors,S17
+599_A264,SiO2,34.3,Spin Coating,PET,1.57,3.17,0.99,32.954184,90.59,Transparent Conductors,S6
+2191_A265,ITO,78.4,ALD,Quartz,2.12,3.16,3.77,33.881949,71.13,Transparent Conductors,S20
+2532_A266,MoS2,89.5,Spin Coating,PET,2.57,2.2,1.92,83.405356,93.03,Sensors,S23
+2668_A267,ITO,56.1,Sputtering,Quartz,2.46,2.13,4.04,39.844684,78.69,Solar Cells,S20
+2787_A268,Graphene,109.1,CVD,Glass,1.79,2.06,3.21,94.293932,92.42,Sensors,S17
+480_A269,ZnO,83.8,Sputtering,PET,2.05,3.83,1.54,15.669146,72.66,Transparent Conductors,S17
+1968_A270,ZnO,114.4,Spin Coating,PET,1.86,3.45,2.81,28.699885,69.47,Solar Cells,S5
+1058_A271,ZnO,58.2,ALD,Glass,2.51,3.98,3.9,31.155597,76.57,Transparent Conductors,S14
+2269_A272,Al2O3,92.9,Spin Coating,Glass,2.44,2.18,3.51,95.48936,89.54,Transparent Conductors,S13
+534_A273,MoS2,114.4,ALD,Glass,2.3,2.8,2.68,66.170664,77.28,Sensors,S21
+1104_A274,ZnO,140.8,CVD,Silicon Wafer,1.73,1.14,0.62,25.112906,84.78,Solar Cells,S1
+1107_A275,Al2O3,65.8,CVD,Quartz,2.49,1.09,3.92,28.344096,72.04,Solar Cells,S25
+2928_A276,Al2O3,146.5,ALD,PET,2.43,1.16,4.63,46.018011,76.23,Sensors,S25
+1124_A277,MoS2,82.6,CVD,PET,2.08,3.38,1.39,108.246119,81.14,Transparent Conductors,S3
+943_A278,MoS2,50.5,Sputtering,Quartz,2.49,3.81,5.13,25.015651,94.46,Solar Cells,S25
+163_A279,TiO2,110.6,CVD,Silicon Wafer,2.03,1.39,3.01,64.233234,92.33,Sensors,S6
+1552_A280,SiO2,118.3,Sputtering,PET,2.47,1.44,4.16,69.148114,73.92,Optoelectronics,S13
+966_A281,SiO2,90.7,Spin Coating,PET,2.89,3.73,0.83,87.925092,86.94,Optoelectronics,S9
+472_A282,SiO2,64.9,ALD,Quartz,2.65,1.52,0.59,5.89098,74.19,Sensors,S4
+845_A283,ITO,96.7,Spin Coating,Quartz,2.5,1.02,3.28,3.843287,82.06,Optoelectronics,S8
+999_A284,SiO2,119.3,Spin Coating,Glass,2.16,1.72,3.85,23.802668,94.99,Optoelectronics,S1
+1905_A285,ITO,118.1,Sputtering,PET,2.33,1.42,3.59,9.909723,73.96,Transparent Conductors,S1
+31_A286,MoS2,129.8,Thermal Evaporation,Glass,2.77,1.91,1.72,81.629042,82.81,Transparent Conductors,S6
+2891_A287,SiO2,60.4,Thermal Evaporation,Quartz,2.07,2.91,5.02,1.055452,82.79,Sensors,S24
+424_A288,SnO2,104.4,Thermal Evaporation,PET,2.54,3.75,3.35,12.837924,79.17,Optoelectronics,S4
+512_A289,ITO,103.5,ALD,Quartz,2.64,3.57,2.53,90.868098,90.29,Solar Cells,S6
+2759_A290,ITO,58.4,ALD,PET,2.73,1.55,1.77,89.784219,81.28,Transparent Conductors,S6
+2738_A291,SiO2,94.2,Thermal Evaporation,PET,2.76,1.24,1.16,81.118617,85.46,Optoelectronics,S19
+1394_A292,Al2O3,128.0,ALD,Quartz,2.53,3.56,0.68,51.770038,76.93,Solar Cells,S6
+1587_A293,Graphene,111.0,Thermal Evaporation,Silicon Wafer,1.88,3.64,0.79,67.289072,80.24,Transparent Conductors,S20
+1930_A294,ZnO,154.1,CVD,Glass,2.79,2.63,4.57,86.459857,85.55,Sensors,S5
+2498_A295,ITO,83.8,Thermal Evaporation,Glass,2.05,3.37,0.58,18.933309,87.07,Transparent Conductors,S3
+788_A296,TiO2,127.4,Sputtering,Quartz,1.95,1.85,5.3,14.42584,92.6,Transparent Conductors,S2
+2637_A297,SiO2,102.1,CVD,Silicon Wafer,1.63,1.76,2.24,30.668067,87.08,Transparent Conductors,S17
+2539_A298,SiO2,126.4,Sputtering,Silicon Wafer,2.76,1.28,2.1,47.733526,94.05,Transparent Conductors,S4
+403_A299,TiO2,146.1,ALD,Silicon Wafer,2.52,3.02,4.03,1.739439,92.64,Solar Cells,S10
+434_A300,TiO2,88.0,Spin Coating,Silicon Wafer,2.29,2.91,2.57,70.751534,81.7,Optoelectronics,S4
+1152_A301,Graphene,149.1,Thermal Evaporation,Silicon Wafer,2.26,2.71,3.94,53.880326,80.19,Optoelectronics,S1
+74_A302,TiO2,98.1,CVD,PET,1.91,1.96,3.11,90.878834,92.58,Optoelectronics,S13
+1537_A303,Graphene,76.5,CVD,Silicon Wafer,2.25,3.36,0.59,76.409206,83.58,Optoelectronics,S16
+2710_A304,MoS2,130.3,Sputtering,PET,2.57,2.62,3.78,14.514346,80.82,Sensors,S22
+622_A305,ITO,114.1,CVD,Quartz,2.79,3.56,2.7,22.889808,84.79,Sensors,S5
+1438_A306,Graphene,77.8,ALD,PET,2.69,3.96,4.36,12.006122,83.11,Transparent Conductors,S11
+1560_A307,ZnO,94.2,Spin Coating,Silicon Wafer,1.99,3.24,1.77,3.706243,85.5,Sensors,S10
+1567_A308,Al2O3,101.9,Spin Coating,Silicon Wafer,1.99,0.99,4.47,30.110864,90.4,Solar Cells,S7
+325_A309,ZnO,108.6,Thermal Evaporation,Glass,2.72,3.6,0.67,51.273272,85.72,Solar Cells,S18
+333_A310,SnO2,57.9,Thermal Evaporation,Silicon Wafer,1.7,3.77,3.21,65.278527,83.53,Optoelectronics,S2
+1393_A311,ITO,110.6,Thermal Evaporation,Silicon Wafer,1.53,4.01,3.22,6.250373,91.31,Solar Cells,S21
+651_A312,SnO2,124.8,ALD,Glass,1.52,1.86,2.25,22.778846,78.19,Solar Cells,S24
+2237_A313,SiO2,104.0,Sputtering,Quartz,1.71,1.18,3.49,3.709899,73.14,Transparent Conductors,S21
+1534_A314,SiO2,103.3,CVD,PET,2.03,3.52,2.02,35.156456,78.65,Transparent Conductors,S23
+2164_A315,ITO,112.8,Sputtering,Quartz,2.48,1.84,1.82,87.578526,89.06,Transparent Conductors,S5
+544_A316,TiO2,82.3,Thermal Evaporation,Glass,2.13,1.65,4.61,103.172595,86.75,Solar Cells,S24
+2959_A317,Graphene,157.7,Thermal Evaporation,Quartz,2.27,3.33,0.56,37.423742,74.31,Solar Cells,S22
+1819_A318,ITO,92.5,ALD,Silicon Wafer,1.68,3.14,2.14,66.272768,81.0,Solar Cells,S3
+1625_A319,ZnO,100.4,Sputtering,Quartz,2.13,2.43,2.39,83.09977,70.49,Solar Cells,S11
+1178_A320,Al2O3,109.5,CVD,Quartz,2.24,3.2,4.15,49.142153,87.98,Sensors,S16
+680_A321,SnO2,73.8,Spin Coating,Silicon Wafer,2.74,4.07,2.75,25.35238,90.9,Transparent Conductors,S7
+2097_A322,SiO2,46.8,Spin Coating,PET,2.88,2.88,2.1,82.40677,93.9,Solar Cells,S11
+2030_A323,MoS2,89.6,ALD,PET,1.71,1.72,2.73,6.892339,96.76,Sensors,S14
+1660_A324,TiO2,106.9,Spin Coating,Silicon Wafer,3.0,1.38,3.27,55.603567,94.13,Transparent Conductors,S4
+1638_A325,SiO2,46.9,Thermal Evaporation,PET,1.81,3.77,0.52,25.904355,72.83,Optoelectronics,S23
+240_A326,SnO2,126.6,Sputtering,Silicon Wafer,1.55,1.4,4.86,32.254925,93.28,Solar Cells,S16
+2125_A327,SiO2,63.2,ALD,Silicon Wafer,2.56,3.37,0.97,19.980366,70.22,Optoelectronics,S25
+2620_A328,ZnO,103.3,ALD,Quartz,2.65,1.97,2.11,100.019568,94.7,Solar Cells,S22
+2291_A329,Graphene,164.0,Spin Coating,Quartz,2.76,2.48,3.91,10.990549,85.36,Optoelectronics,S22
+765_A330,SiO2,111.6,Thermal Evaporation,PET,1.47,1.72,0.86,70.927695,80.09,Sensors,S16
+1129_A331,Al2O3,81.0,ALD,Silicon Wafer,2.32,1.0,3.93,60.242834,81.44,Transparent Conductors,S7
+1886_A332,ZnO,84.3,ALD,Quartz,2.95,2.36,3.18,87.322016,88.71,Sensors,S17
+1117_A333,ZnO,88.3,ALD,Glass,1.63,2.49,2.23,20.319847,84.85,Solar Cells,S5
+1103_A334,SnO2,87.3,ALD,Quartz,2.39,2.23,2.6,72.849772,82.77,Solar Cells,S12
+2848_A335,MoS2,118.7,Thermal Evaporation,Glass,1.94,2.91,2.25,30.332542,73.43,Transparent Conductors,S14
+2331_A336,MoS2,93.4,Spin Coating,PET,2.79,1.69,1.83,89.542897,74.01,Optoelectronics,S14
+1362_A337,Al2O3,126.8,Thermal Evaporation,PET,1.89,3.61,5.03,19.50129,86.31,Sensors,S24
+2317_A338,MoS2,130.6,Sputtering,PET,2.26,3.91,4.43,33.80892,79.03,Optoelectronics,S16
+1408_A339,SnO2,105.8,Sputtering,Glass,2.9,2.71,1.32,50.086028,80.57,Transparent Conductors,S15
+2530_A340,ZnO,97.1,CVD,Silicon Wafer,1.53,0.96,0.55,2.665609,96.82,Sensors,S21
+344_A341,TiO2,77.5,CVD,Glass,1.77,1.48,2.77,30.058126,71.01,Transparent Conductors,S17
+1106_A342,SnO2,99.2,Spin Coating,Silicon Wafer,1.52,3.62,1.18,46.700458,89.08,Transparent Conductors,S13
+2593_A343,SiO2,113.7,Thermal Evaporation,Silicon Wafer,2.13,2.04,3.48,62.96277,87.61,Sensors,S25
+558_A344,Al2O3,116.3,ALD,Quartz,2.51,1.88,0.93,90.707029,92.49,Sensors,S1
+1476_A345,Graphene,79.3,Spin Coating,Glass,2.72,2.72,2.45,17.762928,76.6,Solar Cells,S22
+2704_A346,SiO2,99.7,Spin Coating,PET,1.9,1.38,5.03,99.4585,80.61,Sensors,S4
+595_A347,SnO2,55.4,Sputtering,Silicon Wafer,2.12,3.12,0.58,84.038938,87.68,Transparent Conductors,S5
+1558_A348,ZnO,129.3,ALD,Glass,2.05,2.98,4.49,40.11424,69.06,Sensors,S2
+412_A349,MoS2,80.8,CVD,Silicon Wafer,2.93,2.74,3.92,65.015936,87.71,Solar Cells,S21
+1056_A350,ITO,67.1,Spin Coating,Silicon Wafer,2.54,3.34,2.22,25.583492,74.2,Transparent Conductors,S2
+2474_A351,SnO2,42.6,Sputtering,PET,2.82,1.17,1.01,99.789193,80.4,Transparent Conductors,S15
+109_A352,TiO2,134.3,CVD,Silicon Wafer,2.68,3.29,1.51,70.768788,90.56,Transparent Conductors,S22
+2026_A353,Al2O3,97.3,ALD,PET,1.72,1.04,4.88,23.807178,79.76,Optoelectronics,S6
+2707_A354,SnO2,112.9,Spin Coating,Silicon Wafer,1.64,1.36,3.64,91.470612,87.7,Transparent Conductors,S15
+319_A355,SnO2,96.4,ALD,PET,1.61,2.79,2.95,58.332992,96.41,Sensors,S3
+2719_A356,Graphene,85.0,ALD,Glass,2.47,1.96,1.3,45.258073,92.1,Transparent Conductors,S5
+841_A357,TiO2,48.9,Spin Coating,Quartz,2.58,3.26,2.11,27.754479,88.17,Solar Cells,S7
+2958_A358,MoS2,73.1,Thermal Evaporation,Silicon Wafer,2.37,2.79,2.4,13.879279,93.71,Sensors,S12
+1352_A359,Al2O3,45.6,CVD,Glass,1.8,2.63,2.4,36.676497,80.59,Solar Cells,S19
+2826_A360,Al2O3,117.0,ALD,PET,1.57,2.05,2.11,13.160666,89.66,Solar Cells,S17
+2367_A361,TiO2,101.9,Spin Coating,Quartz,2.57,2.11,3.96,43.987662,73.79,Sensors,S23
+1883_A362,SiO2,33.9,Sputtering,Silicon Wafer,1.75,1.4,2.77,10.585843,94.4,Sensors,S5
+681_A363,ZnO,108.7,ALD,Glass,2.88,2.9,3.8,96.934145,79.13,Optoelectronics,S7
+730_A364,ITO,123.3,Spin Coating,PET,1.84,1.22,4.61,43.047224,76.34,Optoelectronics,S13
+790_A365,SnO2,49.5,CVD,Quartz,2.02,2.06,1.48,2.970682,73.99,Transparent Conductors,S13
+1814_A366,SiO2,103.2,Spin Coating,Silicon Wafer,1.86,3.35,2.84,32.400222,87.54,Optoelectronics,S11
+1346_A367,SiO2,109.7,Sputtering,PET,1.9,3.11,2.29,63.80425,75.81,Solar Cells,S10
+1869_A368,SnO2,95.0,CVD,Silicon Wafer,2.12,2.78,1.36,2.6152,81.21,Sensors,S12
+2070_A369,ITO,80.9,ALD,Quartz,1.95,1.87,1.33,63.092153,68.59,Optoelectronics,S1
+433_A370,Graphene,150.1,Sputtering,Glass,2.04,1.53,1.71,16.666268,89.04,Sensors,S3
+565_A371,SnO2,108.6,Sputtering,Quartz,2.34,2.49,2.2,7.040726,83.96,Optoelectronics,S23
+1749_A372,Graphene,76.5,CVD,Quartz,1.82,3.42,3.83,32.1362,86.43,Optoelectronics,S9
+1777_A373,SnO2,118.0,Spin Coating,Silicon Wafer,2.73,2.98,3.73,33.945833,83.57,Sensors,S20
+71_A374,SnO2,117.9,Thermal Evaporation,PET,2.76,3.75,2.23,39.211333,78.36,Transparent Conductors,S19
+1789_A375,Graphene,118.8,Thermal Evaporation,Glass,1.78,1.61,2.46,34.777596,95.75,Optoelectronics,S24
+1230_A376,Graphene,123.2,CVD,Glass,1.82,3.4,3.13,45.439793,84.73,Optoelectronics,S21
+1513_A377,TiO2,89.4,Sputtering,Silicon Wafer,2.74,3.21,5.29,63.47778,86.3,Optoelectronics,S21
+57_A378,Graphene,95.9,Sputtering,Quartz,2.2,1.91,2.79,78.695648,73.99,Optoelectronics,S14
+1602_A379,Al2O3,98.6,ALD,Quartz,1.49,2.52,3.71,76.844959,73.53,Optoelectronics,S2
+652_A380,Graphene,123.4,CVD,Quartz,2.83,2.26,0.65,83.536488,73.56,Sensors,S10
+2177_A381,MoS2,88.7,Spin Coating,PET,2.39,3.05,1.18,8.715173,72.88,Optoelectronics,S6
+898_A382,SiO2,77.7,Sputtering,PET,2.12,3.19,2.95,89.544149,93.69,Sensors,S21
+786_A383,ITO,55.0,Spin Coating,Glass,1.76,3.65,1.99,31.034053,87.52,Transparent Conductors,S15
+310_A384,MoS2,110.2,Thermal Evaporation,Glass,1.74,1.11,1.44,27.135164,94.06,Transparent Conductors,S2
+2405_A385,ITO,72.3,Spin Coating,Quartz,1.61,1.35,1.96,88.038635,75.74,Optoelectronics,S17
+1742_A386,TiO2,108.7,Thermal Evaporation,PET,1.81,1.74,1.9,87.170196,83.18,Optoelectronics,S5
+908_A387,Al2O3,117.1,Spin Coating,Silicon Wafer,2.26,3.23,2.5,100.118666,72.55,Optoelectronics,S20
+603_A388,MoS2,108.6,Sputtering,Silicon Wafer,2.56,3.81,2.09,57.603153,72.62,Solar Cells,S19
+1179_A389,ZnO,160.8,CVD,Silicon Wafer,2.92,3.26,4.29,93.868468,71.27,Optoelectronics,S22
+2298_A390,Al2O3,117.9,Sputtering,PET,2.79,2.69,3.02,90.711805,74.92,Optoelectronics,S4
+1746_A391,MoS2,86.8,Sputtering,Glass,2.76,2.89,3.56,76.872439,94.15,Solar Cells,S18
+1162_A392,MoS2,73.7,Thermal Evaporation,Quartz,2.66,1.28,1.35,66.777871,96.7,Transparent Conductors,S17
+1510_A393,Graphene,78.6,Thermal Evaporation,Glass,2.08,3.47,5.05,1.630818,73.39,Solar Cells,S20
+2096_A394,TiO2,8.5,ALD,PET,1.9,2.2,2.83,101.991159,72.21,Sensors,S18
+1578_A395,ZnO,117.7,Sputtering,PET,2.36,3.11,1.27,8.573371,84.35,Sensors,S10
+573_A396,TiO2,72.5,Spin Coating,Quartz,1.59,3.04,3.34,18.901801,76.25,Optoelectronics,S15
+555_A397,SiO2,145.3,Spin Coating,Silicon Wafer,2.06,2.47,1.18,64.637756,83.06,Optoelectronics,S2
+946_A398,Al2O3,111.1,CVD,Glass,2.94,3.99,3.5,9.674746,84.9,Transparent Conductors,S9
+2997_A399,Al2O3,97.2,Thermal Evaporation,PET,2.87,3.26,3.36,37.567651,89.19,Sensors,S18
+875_A400,ZnO,94.5,Thermal Evaporation,PET,2.4,3.94,1.32,53.164222,87.3,Solar Cells,S16
+2995_A401,SnO2,96.1,Sputtering,Silicon Wafer,2.89,1.99,1.87,73.530286,85.19,Solar Cells,S5
+1570_A402,MoS2,76.8,ALD,PET,1.87,1.28,0.84,78.213731,76.06,Sensors,S3
+2669_A403,ZnO,122.7,Thermal Evaporation,Silicon Wafer,1.81,2.56,0.67,15.69371,76.38,Optoelectronics,S15
+2628_A404,Graphene,74.3,CVD,PET,1.67,3.47,1.06,103.860817,76.58,Transparent Conductors,S22
+1554_A405,MoS2,125.5,ALD,Silicon Wafer,2.57,3.44,4.13,50.579077,80.8,Solar Cells,S22
+121_A406,ZnO,82.3,CVD,Glass,2.31,1.71,4.23,85.911988,88.62,Transparent Conductors,S17
+2660_A407,TiO2,71.0,Spin Coating,Quartz,2.24,1.93,4.79,32.870566,88.79,Sensors,S2
+810_A408,Graphene,117.8,CVD,Quartz,2.92,1.99,3.39,102.631046,91.38,Solar Cells,S6
+2187_A409,Al2O3,141.6,Thermal Evaporation,Quartz,2.17,3.86,1.2,70.828421,91.07,Sensors,S9
+1619_A410,TiO2,68.1,Spin Coating,PET,2.58,2.04,4.45,81.457958,83.16,Solar Cells,S7
+314_A411,Graphene,119.0,Sputtering,Glass,2.01,2.14,2.03,26.189182,91.96,Sensors,S2
+1563_A412,TiO2,98.0,Sputtering,Quartz,2.42,1.49,2.68,73.919275,79.99,Solar Cells,S3
+234_A413,ITO,76.9,Spin Coating,Quartz,2.14,3.88,1.06,4.319531,86.22,Sensors,S12
+508_A414,SnO2,94.5,Thermal Evaporation,Quartz,2.88,1.3,1.09,32.042603,96.58,Transparent Conductors,S23
+1337_A415,MoS2,92.4,CVD,PET,1.99,2.89,1.78,53.922607,88.76,Optoelectronics,S5
+1386_A416,TiO2,67.8,Sputtering,PET,2.14,1.59,4.51,33.634582,87.89,Optoelectronics,S3
+112_A417,ZnO,60.5,Spin Coating,Glass,2.3,2.31,0.6,86.252799,82.46,Solar Cells,S25
+1579_A418,ZnO,116.6,ALD,Glass,2.86,2.73,3.09,18.154273,90.3,Solar Cells,S23
+411_A419,ZnO,69.1,CVD,Quartz,2.21,1.56,0.67,99.018674,88.37,Transparent Conductors,S23
+219_A420,SiO2,84.0,ALD,PET,2.78,2.57,0.89,58.725789,78.22,Sensors,S18
+2115_A421,MoS2,133.8,Sputtering,Silicon Wafer,1.72,2.75,3.24,69.930825,83.69,Solar Cells,S14
+1308_A422,MoS2,104.2,Sputtering,Silicon Wafer,1.7,1.02,2.7,7.818848,79.48,Optoelectronics,S12
+1081_A423,MoS2,103.2,ALD,Quartz,2.87,1.2,0.59,62.106965,82.89,Solar Cells,S5
+760_A424,ZnO,76.2,Sputtering,Silicon Wafer,1.81,2.95,1.87,14.042075,74.18,Optoelectronics,S4
+912_A425,ZnO,137.8,Sputtering,PET,1.56,3.07,3.54,65.444891,68.87,Sensors,S19
+808_A426,Al2O3,129.7,Thermal Evaporation,Silicon Wafer,2.48,1.93,0.73,28.326187,79.82,Sensors,S9
+440_A427,SiO2,90.1,Spin Coating,Silicon Wafer,2.82,2.76,0.6,66.816612,79.46,Solar Cells,S3
+545_A428,SnO2,79.4,Sputtering,Silicon Wafer,2.25,2.22,1.57,12.687179,88.95,Transparent Conductors,S10
+486_A429,TiO2,79.9,Sputtering,Quartz,2.94,3.16,1.48,78.170094,90.03,Solar Cells,S7
+2476_A430,SiO2,143.8,ALD,Quartz,1.84,1.37,2.17,35.415049,91.75,Solar Cells,S20
+388_A431,Al2O3,115.3,CVD,Glass,2.32,1.54,2.21,88.468114,70.59,Optoelectronics,S19
+2917_A432,MoS2,115.9,Spin Coating,Glass,1.52,3.31,2.87,17.510711,78.24,Sensors,S19
+1193_A433,SnO2,86.3,ALD,Quartz,2.28,3.72,1.74,27.408989,71.17,Sensors,S10
+1231_A434,ITO,98.9,Thermal Evaporation,Glass,1.8,2.8,1.81,82.682811,82.71,Solar Cells,S14
+1211_A435,SiO2,138.6,Sputtering,Quartz,1.75,1.7,0.98,103.801062,88.55,Transparent Conductors,S10
+1274_A436,Graphene,129.2,Thermal Evaporation,Quartz,1.52,2.05,3.78,10.494795,79.3,Sensors,S25
+1940_A437,Graphene,114.4,Spin Coating,Quartz,1.94,3.58,3.15,25.582385,78.33,Transparent Conductors,S5
+2304_A438,Al2O3,155.9,Spin Coating,Quartz,2.55,3.39,2.08,101.528593,82.26,Optoelectronics,S2
+931_A439,SnO2,121.5,CVD,Quartz,2.55,2.79,0.68,20.070084,80.26,Transparent Conductors,S19
+136_A440,Graphene,91.5,Sputtering,Glass,2.57,3.3,2.52,0.091165,82.41,Transparent Conductors,S23
+1781_A441,ZnO,81.6,Thermal Evaporation,Quartz,2.96,3.5,4.21,12.534043,86.83,Optoelectronics,S2
+2168_A442,SnO2,84.9,Sputtering,Quartz,1.74,2.71,4.07,28.310219,71.93,Solar Cells,S10
+1498_A443,MoS2,99.7,Thermal Evaporation,Quartz,1.79,1.28,2.69,21.109689,73.28,Sensors,S18
+2257_A444,Al2O3,101.6,CVD,PET,1.95,2.86,2.64,77.313045,85.28,Sensors,S13
+367_A445,Graphene,119.6,Thermal Evaporation,PET,1.58,3.47,4.4,78.884505,93.81,Optoelectronics,S11
+2025_A446,TiO2,65.2,Sputtering,Quartz,2.1,2.72,2.57,75.217494,75.61,Transparent Conductors,S12
+2898_A447,TiO2,94.1,ALD,Glass,2.59,3.66,2.31,53.678741,68.86,Solar Cells,S3
+30_A448,MoS2,68.0,Spin Coating,PET,2.77,2.2,4.22,19.581662,78.77,Solar Cells,S25
+2502_A449,SiO2,147.6,Spin Coating,Glass,1.76,1.07,4.54,17.463411,87.39,Solar Cells,S9
+2969_A450,ZnO,61.2,Thermal Evaporation,Silicon Wafer,1.93,3.45,1.7,10.608619,93.49,Transparent Conductors,S2
+1048_A451,TiO2,91.6,Sputtering,Quartz,1.9,2.72,4.42,0.186603,77.91,Solar Cells,S16
+2888_A452,Graphene,90.3,Sputtering,Quartz,1.51,2.39,3.95,13.449881,89.14,Optoelectronics,S25
+1422_A453,SnO2,91.5,Spin Coating,Quartz,2.9,3.17,2.23,95.586104,95.56,Optoelectronics,S16
+1489_A454,ZnO,84.8,Spin Coating,Glass,2.88,2.43,2.99,59.756184,72.09,Sensors,S10
+184_A455,ZnO,112.6,Sputtering,PET,2.64,2.75,3.59,13.355795,88.2,Transparent Conductors,S8
+1135_A456,ITO,98.8,Thermal Evaporation,Silicon Wafer,2.61,2.57,2.77,43.46113,90.02,Sensors,S13
+189_A457,SiO2,121.7,Sputtering,Silicon Wafer,1.61,0.98,3.99,32.39483,83.3,Solar Cells,S13
+421_A458,TiO2,109.4,ALD,PET,2.48,4.0,4.71,19.996821,72.4,Optoelectronics,S23
+171_A459,Al2O3,42.2,ALD,Glass,2.88,1.17,1.24,78.400757,94.66,Transparent Conductors,S24
+1378_A460,SnO2,102.6,Thermal Evaporation,Silicon Wafer,1.92,3.6,2.89,51.872217,80.15,Transparent Conductors,S16
+461_A461,MoS2,147.8,ALD,Silicon Wafer,2.82,3.33,5.06,51.395772,89.44,Transparent Conductors,S16
+44_A462,TiO2,105.2,ALD,Quartz,1.62,1.45,2.09,8.540346,94.03,Transparent Conductors,S17
+88_A463,ZnO,152.9,Spin Coating,Quartz,2.4,3.87,1.1,75.824056,78.95,Sensors,S25
+1323_A464,Al2O3,137.9,Spin Coating,Glass,1.62,2.71,2.04,3.004243,79.92,Transparent Conductors,S11
+1741_A465,MoS2,107.7,Spin Coating,Glass,2.11,2.61,2.79,75.571146,78.48,Transparent Conductors,S3
+706_A466,Al2O3,90.4,Spin Coating,Glass,2.47,1.9,0.85,55.317488,83.54,Sensors,S7
+904_A467,ZnO,124.7,Spin Coating,Quartz,1.61,2.26,2.28,22.708812,88.31,Solar Cells,S17
+283_A468,MoS2,126.9,ALD,Silicon Wafer,2.31,2.85,3.08,32.548796,89.73,Transparent Conductors,S15
+2459_A469,SiO2,93.2,Sputtering,Silicon Wafer,1.91,2.89,2.78,28.088371,93.73,Sensors,S16
+694_A470,ZnO,82.0,ALD,Silicon Wafer,2.52,3.47,2.21,56.843313,92.35,Transparent Conductors,S8
+2090_A471,SnO2,98.0,Sputtering,Silicon Wafer,2.2,1.84,2.76,30.889471,75.64,Solar Cells,S4
+2067_A472,TiO2,133.5,ALD,Quartz,2.4,2.67,1.37,91.271984,82.28,Solar Cells,S22
+258_A473,SiO2,41.1,ALD,Quartz,2.27,2.69,2.64,71.955768,75.52,Sensors,S22
+2645_A474,Graphene,93.7,Spin Coating,Silicon Wafer,2.48,3.91,2.66,72.763606,79.32,Transparent Conductors,S1
+2595_A475,Al2O3,131.4,CVD,Quartz,1.64,2.51,4.41,63.902598,91.41,Optoelectronics,S3
+2443_A476,ZnO,100.3,Spin Coating,Quartz,2.91,1.25,2.97,9.216575,83.8,Solar Cells,S12
+2884_A477,ZnO,79.4,Spin Coating,Quartz,1.79,1.88,4.22,27.620217,88.44,Transparent Conductors,S4
+1217_A478,MoS2,105.7,Thermal Evaporation,Glass,2.41,1.93,1.71,28.802414,83.46,Transparent Conductors,S19
+1042_A479,SiO2,68.4,Thermal Evaporation,PET,2.1,2.48,2.33,84.007991,81.33,Transparent Conductors,S7
+2454_A480,ITO,46.5,ALD,Quartz,2.96,2.22,2.99,89.974311,94.21,Solar Cells,S3
+150_A481,SiO2,51.3,Thermal Evaporation,Glass,2.07,3.59,3.02,83.884764,87.49,Transparent Conductors,S5
+1737_A482,Al2O3,122.5,ALD,Quartz,2.33,3.56,4.2,3.683123,74.68,Sensors,S6
+2359_A483,SnO2,80.4,Sputtering,Silicon Wafer,2.96,1.85,1.11,34.695083,76.6,Transparent Conductors,S11
+2393_A484,ITO,122.7,Thermal Evaporation,Quartz,2.65,1.62,3.88,19.524477,84.12,Transparent Conductors,S11
+2442_A485,Al2O3,90.5,Spin Coating,Silicon Wafer,2.84,2.81,2.58,36.465171,72.41,Transparent Conductors,S11
+2113_A486,ITO,108.6,Thermal Evaporation,PET,1.79,3.28,2.2,74.340996,85.8,Sensors,S10
+2418_A487,SiO2,138.4,Spin Coating,Quartz,2.21,1.51,3.12,32.454593,90.49,Solar Cells,S8
+135_A488,SiO2,25.5,ALD,Silicon Wafer,2.31,3.4,2.14,14.105235,80.44,Sensors,S18
+2931_A489,Graphene,103.6,Thermal Evaporation,PET,2.93,3.69,2.15,29.481152,87.31,Optoelectronics,S3
+832_A490,Graphene,118.0,CVD,Glass,1.53,2.81,3.63,11.573042,81.69,Solar Cells,S5
+1801_A491,ITO,134.9,Spin Coating,Glass,2.69,1.17,2.59,75.757908,87.72,Solar Cells,S20
+2930_A492,Graphene,77.4,Spin Coating,Glass,3.0,3.58,1.69,37.26405,71.24,Sensors,S3
+2989_A493,SiO2,65.5,CVD,PET,2.83,2.16,1.07,107.249814,86.61,Transparent Conductors,S9
+1899_A494,ITO,37.6,Thermal Evaporation,Silicon Wafer,2.21,1.73,2.47,103.019213,76.69,Transparent Conductors,S17
+865_A495,TiO2,62.4,Sputtering,PET,1.95,3.33,3.06,35.101923,84.66,Solar Cells,S18
+529_A496,Graphene,81.3,Sputtering,Quartz,2.63,3.28,4.79,45.279869,93.15,Solar Cells,S24
+2220_A497,ITO,123.2,Sputtering,PET,2.04,1.63,3.35,16.207557,82.89,Sensors,S24
+431_A498,SiO2,124.3,ALD,Silicon Wafer,2.95,1.21,1.6,36.42348,80.85,Solar Cells,S16
+2744_A499,ZnO,138.5,Thermal Evaporation,Silicon Wafer,1.74,2.14,4.28,39.785615,74.09,Optoelectronics,S19
+1745_A500,Graphene,109.8,Spin Coating,Silicon Wafer,2.01,3.31,2.16,1.351452,93.88,Transparent Conductors,S25
+611_A501,Al2O3,105.4,Spin Coating,Glass,1.78,1.42,4.91,59.196145,90.69,Optoelectronics,S23
+950_A502,ZnO,103.7,Spin Coating,Glass,1.59,3.75,2.47,41.445656,84.88,Optoelectronics,S23
+2812_A503,SiO2,106.4,CVD,Silicon Wafer,2.66,2.53,2.32,64.948446,89.24,Sensors,S5
+222_A504,ZnO,101.9,CVD,Glass,1.61,2.8,4.4,34.236127,88.76,Sensors,S14
+1916_A505,Graphene,87.9,Spin Coating,Quartz,2.8,3.87,4.01,51.190518,84.23,Optoelectronics,S19
+2412_A506,TiO2,113.4,Spin Coating,Quartz,2.24,1.83,1.42,90.313171,78.06,Solar Cells,S10
+1037_A507,Graphene,69.2,Spin Coating,Silicon Wafer,2.95,1.92,2.67,75.043731,82.99,Optoelectronics,S6
+2646_A508,TiO2,0.2,Thermal Evaporation,PET,2.81,1.81,1.03,56.407308,95.17,Optoelectronics,S9
+933_A509,MoS2,117.0,Thermal Evaporation,Glass,2.53,1.54,1.52,9.666382,89.04,Solar Cells,S9
+2556_A510,MoS2,111.1,Sputtering,Quartz,2.11,2.07,3.31,78.700186,86.55,Solar Cells,S5
+174_A511,SnO2,112.9,ALD,Glass,2.85,1.27,4.85,51.839465,84.34,Solar Cells,S3
+566_A512,SiO2,86.8,Spin Coating,Quartz,1.8,3.12,2.26,96.235157,84.61,Optoelectronics,S10
+1961_A513,MoS2,72.6,Spin Coating,Quartz,1.9,1.34,2.0,46.888992,90.87,Optoelectronics,S13
+813_A514,ITO,37.0,ALD,Quartz,2.83,1.64,3.98,31.492793,75.51,Sensors,S24
+2688_A515,MoS2,132.4,CVD,Quartz,2.65,2.95,1.83,18.845919,79.48,Optoelectronics,S5
+959_A516,SnO2,73.3,Thermal Evaporation,Silicon Wafer,2.24,3.35,0.55,28.65834,80.9,Sensors,S5
+528_A517,ZnO,28.7,Sputtering,Silicon Wafer,1.57,3.8,1.06,97.700962,92.9,Solar Cells,S8
+1414_A518,TiO2,100.1,Thermal Evaporation,PET,1.66,2.6,3.91,67.752965,89.81,Optoelectronics,S21
+1612_A519,MoS2,95.4,CVD,Quartz,2.78,2.05,4.47,48.899294,84.13,Optoelectronics,S19
+273_A520,ITO,109.6,ALD,Glass,2.32,1.33,2.15,13.313496,85.39,Optoelectronics,S15
+927_A521,SnO2,112.4,CVD,Glass,2.83,3.09,2.87,22.845851,76.71,Optoelectronics,S9
+1740_A522,MoS2,68.2,Thermal Evaporation,Quartz,2.38,3.63,3.8,10.616255,94.47,Transparent Conductors,S19
+848_A523,Al2O3,58.2,Spin Coating,PET,1.9,1.88,3.3,55.494025,89.25,Transparent Conductors,S2
+953_A524,ZnO,88.0,ALD,PET,2.7,1.82,4.99,58.428299,91.17,Sensors,S24
+1621_A525,MoS2,48.4,ALD,Glass,2.14,2.11,3.41,28.46426,80.43,Solar Cells,S5
+3000_A526,ITO,34.0,Spin Coating,Quartz,1.86,1.28,3.47,37.083356,74.67,Solar Cells,S3
+2316_A527,Al2O3,133.5,ALD,Glass,1.61,1.85,4.59,13.410775,84.6,Transparent Conductors,S18
+1913_A528,Graphene,51.5,CVD,PET,1.63,3.88,2.36,72.451844,94.46,Solar Cells,S17
+2594_A529,ITO,106.1,ALD,Quartz,1.72,3.07,2.82,93.340353,77.76,Solar Cells,S5
+2032_A530,Al2O3,99.3,Thermal Evaporation,Silicon Wafer,2.08,1.77,1.71,80.645044,95.08,Solar Cells,S20
+1101_A531,SnO2,148.7,ALD,Quartz,2.11,3.02,2.24,3.913855,82.95,Optoelectronics,S11
+1293_A532,TiO2,106.4,Sputtering,Quartz,1.91,1.96,2.25,37.201872,91.64,Transparent Conductors,S8
+2876_A533,Graphene,117.3,CVD,Silicon Wafer,2.87,1.06,3.46,102.492157,91.39,Optoelectronics,S23
+169_A534,SnO2,74.1,CVD,Glass,2.1,3.47,1.68,30.707406,74.33,Sensors,S17
+2377_A535,ZnO,114.2,CVD,Silicon Wafer,2.72,2.16,4.33,9.116582,76.74,Transparent Conductors,S20
+1468_A536,MoS2,75.2,ALD,Glass,2.77,1.8,3.65,40.185533,77.08,Optoelectronics,S4
+2767_A537,TiO2,157.9,Sputtering,Quartz,1.65,2.25,3.36,27.16761,72.84,Solar Cells,S1
+1399_A538,ITO,65.7,Sputtering,Quartz,2.25,1.03,4.74,93.77702,79.59,Optoelectronics,S10
+1229_A539,SiO2,117.9,CVD,Silicon Wafer,1.58,3.13,5.15,24.902372,87.55,Optoelectronics,S7
+2235_A540,Al2O3,121.1,ALD,Quartz,2.57,1.82,2.67,51.762713,84.28,Solar Cells,S1
+1739_A541,ZnO,27.7,ALD,Glass,2.75,1.66,2.27,40.519139,74.55,Transparent Conductors,S12
+368_A542,Graphene,60.4,Spin Coating,Glass,2.61,1.11,3.85,16.444824,86.77,Transparent Conductors,S4
+2276_A543,SnO2,122.9,Thermal Evaporation,Quartz,2.57,1.0,2.28,36.985138,80.67,Solar Cells,S5
+868_A544,Graphene,173.6,Thermal Evaporation,PET,2.99,1.11,3.94,14.372693,91.77,Optoelectronics,S2
+1303_A545,ITO,105.6,Thermal Evaporation,PET,1.53,1.2,2.98,10.588994,86.8,Optoelectronics,S21
+352_A546,TiO2,87.5,Sputtering,Silicon Wafer,1.96,2.08,1.74,61.828963,73.14,Sensors,S11
+2395_A547,TiO2,63.6,CVD,Quartz,2.61,3.81,2.11,15.265454,80.82,Solar Cells,S10
+2504_A548,Graphene,101.5,Thermal Evaporation,Silicon Wafer,1.58,2.02,3.92,34.077675,71.71,Optoelectronics,S18
+980_A549,SiO2,71.9,Sputtering,Quartz,2.37,1.81,2.05,23.482517,92.25,Solar Cells,S10
+1848_A550,SiO2,115.1,ALD,PET,2.62,2.63,3.94,47.711701,84.83,Optoelectronics,S14
+2371_A551,MoS2,129.6,CVD,Glass,2.17,3.58,2.17,88.013739,71.78,Sensors,S11
+499_A552,Al2O3,129.8,ALD,PET,1.51,2.98,3.9,98.963971,91.82,Sensors,S10
+1629_A553,MoS2,153.5,Thermal Evaporation,Glass,1.95,1.85,2.87,63.102327,85.87,Transparent Conductors,S23
+211_A554,MoS2,119.1,Thermal Evaporation,Quartz,2.94,1.89,3.92,62.373926,89.17,Solar Cells,S16
+2471_A555,MoS2,93.5,ALD,Silicon Wafer,2.46,3.55,5.29,65.902618,90.8,Transparent Conductors,S19
+602_A556,Al2O3,89.6,CVD,PET,2.63,2.71,4.37,60.658514,87.31,Optoelectronics,S24
+228_A557,TiO2,82.2,Spin Coating,Glass,1.76,1.63,0.85,17.149645,72.58,Transparent Conductors,S4
+366_A558,SiO2,86.1,Spin Coating,PET,1.59,1.15,1.13,61.779198,73.94,Transparent Conductors,S11
+582_A559,Graphene,102.0,Thermal Evaporation,Glass,2.83,1.81,4.07,90.464294,81.55,Optoelectronics,S14
+2856_A560,TiO2,61.7,Sputtering,Quartz,2.28,2.71,4.33,19.976325,77.31,Sensors,S7
+2179_A561,TiO2,70.3,Spin Coating,PET,2.91,3.04,4.64,46.11853,77.5,Transparent Conductors,S13
+2019_A562,SnO2,89.1,Sputtering,PET,2.37,3.31,1.4,57.881484,78.02,Sensors,S14
+860_A563,MoS2,51.4,ALD,PET,1.96,3.46,0.68,11.772318,73.24,Transparent Conductors,S14
+408_A564,ZnO,134.3,ALD,Silicon Wafer,2.18,2.56,1.54,68.121781,76.76,Transparent Conductors,S19
+1921_A565,MoS2,67.9,Thermal Evaporation,Glass,2.4,3.84,0.77,23.407804,81.4,Transparent Conductors,S7
+1614_A566,SiO2,117.6,Spin Coating,Quartz,2.86,1.3,1.05,88.321134,80.16,Transparent Conductors,S3
+679_A567,Graphene,130.3,ALD,Silicon Wafer,1.64,0.97,4.25,51.237673,90.48,Solar Cells,S15
+1265_A568,TiO2,117.2,Sputtering,Glass,2.87,3.14,4.44,55.147618,70.94,Optoelectronics,S21
+2408_A569,TiO2,116.0,CVD,Glass,1.9,1.25,4.51,70.48628,93.36,Transparent Conductors,S2
+692_A570,ZnO,95.0,Spin Coating,Quartz,2.37,1.89,0.68,29.677303,82.9,Transparent Conductors,S15
+8_A571,TiO2,184.1,CVD,Glass,1.98,2.77,1.19,80.325452,79.35,Optoelectronics,S24
+2868_A572,ITO,110.4,Sputtering,Quartz,2.58,2.16,0.73,62.375805,86.82,Optoelectronics,S8
+1205_A573,SiO2,94.9,Thermal Evaporation,Glass,1.98,2.6,4.68,13.218918,75.63,Solar Cells,S25
+2234_A574,SnO2,161.0,ALD,PET,1.57,2.54,3.08,27.560775,70.43,Sensors,S6
+416_A575,SiO2,118.5,CVD,PET,2.76,2.04,3.81,4.289713,77.14,Optoelectronics,S19
+671_A576,TiO2,94.1,ALD,Quartz,2.5,1.88,4.68,75.201275,87.23,Optoelectronics,S14
+811_A577,SiO2,110.4,ALD,Glass,2.87,2.51,1.79,31.157081,73.95,Solar Cells,S19
+1090_A578,TiO2,93.0,Spin Coating,PET,1.73,1.77,4.23,49.941067,87.2,Sensors,S3
+200_A579,MoS2,79.7,ALD,Glass,2.43,2.73,4.43,19.139389,74.47,Solar Cells,S5
+284_A580,ZnO,102.5,Sputtering,Silicon Wafer,2.77,2.7,4.48,40.622142,85.46,Solar Cells,S20
+232_A581,Al2O3,100.7,Thermal Evaporation,Glass,1.68,3.37,2.95,64.273864,95.45,Transparent Conductors,S19
+2731_A582,SiO2,104.8,Thermal Evaporation,Quartz,1.58,2.3,2.39,63.605124,72.58,Optoelectronics,S4
+2862_A583,SnO2,139.5,Spin Coating,PET,1.93,2.23,4.24,80.269586,88.55,Sensors,S18
+97_A584,Graphene,131.6,CVD,Glass,2.81,1.68,3.5,31.566046,89.89,Sensors,S1
+1588_A585,TiO2,118.4,Spin Coating,Silicon Wafer,2.52,3.36,4.36,21.787916,91.03,Solar Cells,S2
+2570_A586,TiO2,170.6,ALD,PET,1.71,1.73,2.76,29.099747,92.59,Solar Cells,S5
+1607_A587,SiO2,166.0,CVD,Silicon Wafer,2.96,3.96,2.63,95.461727,71.4,Sensors,S12
+677_A588,SiO2,75.0,Thermal Evaporation,Quartz,2.15,2.21,1.38,90.683078,82.02,Solar Cells,S9
+1861_A589,Al2O3,137.7,CVD,Quartz,2.07,1.81,0.61,35.069285,86.68,Transparent Conductors,S6
+2782_A590,Graphene,80.7,CVD,Glass,2.46,3.1,4.37,16.427658,78.9,Optoelectronics,S11
+2864_A591,MoS2,147.9,CVD,Glass,2.76,2.87,3.04,87.871041,72.65,Sensors,S25
+2588_A592,Graphene,56.0,CVD,Silicon Wafer,2.88,1.05,1.3,14.232349,94.96,Optoelectronics,S13
+1400_A593,ZnO,100.7,Thermal Evaporation,PET,2.93,2.63,1.45,42.761833,74.57,Sensors,S23
+1371_A594,Al2O3,59.3,Spin Coating,Glass,2.0,3.68,4.18,18.645117,89.72,Sensors,S3
+105_A595,SiO2,107.4,CVD,PET,2.84,2.32,1.81,15.155689,74.2,Solar Cells,S19
+2088_A596,Graphene,118.5,Spin Coating,Glass,2.29,2.24,4.33,59.718189,72.91,Optoelectronics,S9
+600_A597,TiO2,119.9,Spin Coating,Glass,2.6,2.97,4.07,54.489785,74.17,Sensors,S16
+1757_A598,Graphene,104.6,CVD,PET,2.43,3.79,3.25,10.789937,88.47,Sensors,S18
+1324_A599,ITO,76.9,Spin Coating,Quartz,2.54,3.36,2.58,79.854002,74.6,Sensors,S13
+643_A600,TiO2,87.2,Thermal Evaporation,Glass,2.95,1.23,0.85,13.037194,72.22,Optoelectronics,S24
+701_A601,ZnO,91.1,Sputtering,PET,2.59,2.01,1.41,4.128364,68.6,Solar Cells,S7
+227_A602,ZnO,110.7,Thermal Evaporation,Silicon Wafer,1.56,1.79,3.55,18.840804,74.28,Solar Cells,S17
+1698_A603,SnO2,101.9,CVD,Silicon Wafer,2.52,1.01,3.73,0.194818,88.81,Solar Cells,S5
+1011_A604,ZnO,74.9,Spin Coating,PET,2.68,3.48,1.95,12.352982,78.38,Solar Cells,S21
+1573_A605,SnO2,102.2,Spin Coating,Glass,2.12,1.49,1.64,30.416526,93.73,Sensors,S19
+777_A606,Graphene,145.7,Spin Coating,Silicon Wafer,1.81,2.42,4.27,68.954947,81.11,Optoelectronics,S18
+1731_A607,SiO2,124.2,Thermal Evaporation,Silicon Wafer,1.61,1.27,1.01,30.927185,75.19,Optoelectronics,S23
+2827_A608,SiO2,57.1,Spin Coating,PET,2.17,1.06,0.72,68.960164,86.13,Transparent Conductors,S10
+2229_A609,SnO2,137.4,Sputtering,Silicon Wafer,1.86,2.93,4.35,8.309354,92.7,Sensors,S24
+2795_A610,Al2O3,126.6,CVD,Silicon Wafer,1.87,3.27,2.76,95.185001,87.3,Solar Cells,S22
+465_A611,Graphene,82.2,Spin Coating,Silicon Wafer,2.81,1.51,0.53,80.815352,94.72,Sensors,S3
+2652_A612,TiO2,135.0,ALD,Glass,2.74,3.78,2.22,1.98046,76.36,Transparent Conductors,S20
+1094_A613,SiO2,139.8,Sputtering,PET,2.04,2.56,2.69,41.423206,77.02,Sensors,S12
+1272_A614,TiO2,108.4,Spin Coating,PET,2.34,3.38,1.64,29.330012,73.67,Solar Cells,S14
+2924_A615,Graphene,80.8,Spin Coating,PET,2.74,3.04,4.58,72.421263,90.96,Transparent Conductors,S4
+1581_A616,MoS2,116.4,Thermal Evaporation,PET,2.03,3.46,4.85,4.510275,80.49,Optoelectronics,S21
+1208_A617,TiO2,115.0,CVD,Glass,2.36,2.38,4.68,51.402068,81.9,Optoelectronics,S15
+213_A618,Al2O3,82.6,Thermal Evaporation,Glass,1.89,2.65,1.18,16.301168,90.58,Sensors,S22
+13_A619,MoS2,85.7,CVD,PET,2.87,2.65,2.16,7.776985,82.68,Solar Cells,S10
+2973_A620,ITO,78.7,Spin Coating,Glass,1.98,1.84,5.21,72.638239,79.44,Sensors,S8
+423_A621,ZnO,118.0,Spin Coating,Quartz,1.58,3.14,1.79,101.316671,95.94,Optoelectronics,S24
+1689_A622,SnO2,99.8,ALD,PET,2.81,3.84,0.82,22.153872,72.67,Optoelectronics,S9
+1780_A623,Al2O3,113.9,Spin Coating,PET,1.66,2.95,4.09,43.234716,86.57,Optoelectronics,S22
+2640_A624,SiO2,102.9,Sputtering,Silicon Wafer,1.66,3.37,3.62,61.807286,87.94,Sensors,S23
+2320_A625,SiO2,56.4,Spin Coating,Glass,1.6,2.72,2.99,68.672798,80.01,Transparent Conductors,S23
+638_A626,Al2O3,91.0,ALD,PET,1.65,0.94,4.96,94.569098,75.17,Solar Cells,S2
+1279_A627,Graphene,149.3,Spin Coating,Quartz,2.56,1.42,2.63,26.390926,69.41,Optoelectronics,S21
+1641_A628,SnO2,118.7,Thermal Evaporation,Quartz,2.28,3.95,1.64,65.17593,79.29,Sensors,S14
+510_A629,ITO,134.4,ALD,PET,2.62,2.75,1.18,15.49058,81.04,Solar Cells,S23
+598_A630,SiO2,163.7,Sputtering,Glass,1.75,1.08,3.7,82.874073,91.4,Sensors,S24
+2713_A631,Graphene,101.8,CVD,Silicon Wafer,1.67,1.37,1.99,3.364232,81.33,Transparent Conductors,S4
+2635_A632,Graphene,106.4,Thermal Evaporation,Glass,2.24,2.74,0.8,8.798732,81.16,Sensors,S14
+2365_A633,SiO2,76.8,Sputtering,Glass,2.67,3.95,3.87,78.315418,86.06,Sensors,S23
+2644_A634,Graphene,107.3,Spin Coating,Glass,2.99,2.79,4.27,66.514923,74.37,Transparent Conductors,S25
+519_A635,MoS2,78.4,Spin Coating,PET,2.34,2.59,3.41,96.097271,81.42,Solar Cells,S15
+2794_A636,ITO,63.9,Spin Coating,PET,2.86,3.25,1.11,64.920009,84.27,Sensors,S24
+574_A637,SnO2,143.4,CVD,Silicon Wafer,2.88,3.36,3.44,9.492492,89.41,Optoelectronics,S19
+2726_A638,SiO2,112.2,Thermal Evaporation,Glass,2.46,1.01,1.06,29.58922,89.0,Optoelectronics,S6
+1098_A639,Graphene,80.9,CVD,Quartz,2.13,1.3,4.89,50.865175,89.33,Transparent Conductors,S18
+1948_A640,ITO,117.8,ALD,Quartz,2.22,3.06,3.24,30.962314,68.8,Transparent Conductors,S3
+1449_A641,ZnO,58.8,ALD,PET,2.33,2.9,5.2,67.432978,77.45,Solar Cells,S21
+1585_A642,MoS2,65.5,ALD,Glass,1.97,2.91,1.82,47.952353,80.02,Transparent Conductors,S7
+2597_A643,ZnO,144.9,ALD,Glass,2.31,2.14,0.99,78.860053,90.97,Solar Cells,S18
+965_A644,SiO2,124.0,CVD,Glass,1.91,2.08,1.25,8.555452,72.15,Transparent Conductors,S13
+1019_A645,SnO2,113.2,Sputtering,PET,2.92,3.09,4.81,36.009493,88.01,Transparent Conductors,S15
+2909_A646,Graphene,98.9,Sputtering,Silicon Wafer,1.48,3.17,2.11,9.22108,94.97,Sensors,S21
+359_A647,Al2O3,54.6,CVD,Glass,2.03,4.02,1.84,20.024627,78.18,Optoelectronics,S23
+737_A648,MoS2,117.5,Sputtering,Glass,1.92,2.7,2.28,70.614628,71.25,Sensors,S12
+1785_A649,Graphene,93.1,ALD,Silicon Wafer,1.89,2.59,0.92,78.774044,82.9,Transparent Conductors,S9
+1609_A650,SiO2,98.9,ALD,Glass,2.12,2.44,4.89,59.668159,84.04,Sensors,S2
+260_A651,ZnO,97.3,ALD,Silicon Wafer,2.65,3.47,3.83,92.85763,73.3,Solar Cells,S7
+2772_A652,ITO,113.3,Sputtering,PET,2.35,3.54,1.23,7.314501,70.84,Optoelectronics,S6
+2643_A653,MoS2,91.5,CVD,Silicon Wafer,2.4,1.34,1.65,85.637125,81.89,Sensors,S2
+2743_A654,TiO2,143.5,ALD,PET,2.86,2.0,3.67,93.271574,92.28,Optoelectronics,S19
+2384_A655,MoS2,116.3,ALD,PET,1.69,1.23,3.54,67.038539,87.79,Transparent Conductors,S8
+1030_A656,TiO2,79.5,Sputtering,Quartz,2.55,3.32,3.86,23.383016,85.23,Transparent Conductors,S24
+2409_A657,TiO2,178.2,Sputtering,Silicon Wafer,2.32,2.26,4.11,46.996108,90.56,Sensors,S24
+970_A658,Graphene,95.1,Sputtering,PET,1.95,2.13,1.26,60.816548,72.21,Solar Cells,S5
+2991_A659,ITO,57.0,Spin Coating,Quartz,2.06,1.34,4.07,11.567644,89.38,Optoelectronics,S10
+820_A660,ITO,80.5,Sputtering,Silicon Wafer,2.97,1.71,3.96,5.168707,92.27,Sensors,S15
+2717_A661,MoS2,146.3,CVD,Silicon Wafer,2.48,3.04,0.73,16.697287,79.28,Sensors,S1
+2326_A662,ITO,100.3,Thermal Evaporation,Quartz,1.59,2.05,3.35,1.298924,87.95,Transparent Conductors,S17
+457_A663,TiO2,135.7,CVD,PET,1.9,1.73,1.08,88.681807,89.86,Optoelectronics,S13
+463_A664,SiO2,92.2,ALD,Quartz,2.11,1.38,1.51,40.740105,75.88,Optoelectronics,S16
+2345_A665,SiO2,93.3,Thermal Evaporation,Silicon Wafer,2.82,1.67,3.35,74.93269,74.23,Sensors,S3
+2689_A666,ZnO,75.8,Spin Coating,PET,1.88,2.75,4.36,8.248134,95.06,Sensors,S14
+382_A667,TiO2,84.8,ALD,Quartz,2.17,3.17,4.09,81.21244,87.54,Sensors,S12
+1892_A668,SnO2,109.7,CVD,Quartz,2.6,1.07,2.75,81.391611,75.68,Sensors,S13
+1833_A669,SiO2,117.0,Thermal Evaporation,Silicon Wafer,2.44,3.07,2.83,59.938445,91.6,Solar Cells,S12
+2309_A670,SiO2,107.2,CVD,Silicon Wafer,2.22,3.47,4.08,74.99006,80.39,Transparent Conductors,S12
+1507_A671,SnO2,145.5,Sputtering,PET,2.17,2.49,1.89,14.061032,77.23,Solar Cells,S4
+806_A672,ZnO,77.3,Sputtering,Silicon Wafer,2.88,1.64,3.32,68.569396,82.75,Transparent Conductors,S20
+2439_A673,Al2O3,147.3,Thermal Evaporation,PET,2.58,1.92,2.29,4.658447,79.93,Solar Cells,S4
+757_A674,SiO2,142.2,Sputtering,Silicon Wafer,2.86,2.39,3.91,88.077003,76.99,Transparent Conductors,S16
+2516_A675,SnO2,99.1,CVD,Quartz,2.09,1.36,4.15,0.908472,95.25,Transparent Conductors,S3
+1254_A676,Al2O3,95.2,Sputtering,PET,2.67,3.65,2.09,57.578847,84.99,Sensors,S3
+870_A677,Graphene,85.3,Spin Coating,Silicon Wafer,2.76,2.24,2.75,24.374716,75.03,Transparent Conductors,S24
+2065_A678,ITO,134.6,Spin Coating,Glass,2.7,2.12,3.14,104.226806,95.19,Solar Cells,S14
+1411_A679,ITO,74.6,Thermal Evaporation,Glass,2.04,3.78,4.93,49.589988,77.89,Transparent Conductors,S20
+2361_A680,TiO2,74.5,ALD,Glass,2.11,1.81,3.4,44.548962,90.33,Transparent Conductors,S8
+2288_A681,Graphene,82.3,Thermal Evaporation,Silicon Wafer,2.02,2.31,2.91,104.481206,79.07,Solar Cells,S6
+2859_A682,SnO2,36.2,Spin Coating,Glass,2.8,3.26,3.1,84.700896,87.77,Solar Cells,S12
+1174_A683,Al2O3,92.3,CVD,Glass,2.7,1.7,0.58,50.988698,85.12,Solar Cells,S14
+543_A684,SnO2,118.4,Spin Coating,Silicon Wafer,2.14,2.31,3.76,57.818784,71.74,Optoelectronics,S10
+2105_A685,ITO,62.5,Spin Coating,Silicon Wafer,2.25,3.16,2.12,40.790307,72.53,Optoelectronics,S17
+1256_A686,ZnO,115.0,Thermal Evaporation,Glass,2.39,3.09,3.05,59.536557,83.23,Solar Cells,S13
+1767_A687,ITO,112.0,ALD,Quartz,1.81,1.16,1.18,22.740439,83.76,Sensors,S19
+1766_A688,SiO2,63.0,Thermal Evaporation,PET,2.46,2.25,4.32,77.616576,93.52,Solar Cells,S9
+1290_A689,SnO2,117.8,Sputtering,Glass,2.88,2.35,3.44,42.004414,97.63,Sensors,S8
+2422_A690,SiO2,117.6,Spin Coating,Quartz,2.03,2.87,1.19,37.182822,72.26,Optoelectronics,S13
+2528_A691,Graphene,111.2,Spin Coating,Glass,2.3,1.2,5.32,27.793608,75.04,Solar Cells,S16
+1344_A692,TiO2,93.2,Spin Coating,PET,2.36,1.74,4.71,70.265892,72.48,Transparent Conductors,S24
+1526_A693,Al2O3,47.4,Sputtering,Silicon Wafer,2.65,1.83,4.45,37.076584,74.29,Optoelectronics,S8
+2895_A694,ZnO,46.3,CVD,Silicon Wafer,2.75,1.84,1.57,32.942512,79.69,Optoelectronics,S9
+2687_A695,Al2O3,165.9,Sputtering,Glass,2.71,2.65,4.58,7.37582,72.31,Sensors,S19
+2195_A696,ITO,76.0,Sputtering,Quartz,2.54,3.68,2.62,40.756887,88.8,Optoelectronics,S16
+2421_A697,ITO,115.8,Spin Coating,Glass,2.48,2.96,4.47,24.309268,78.14,Solar Cells,S18
+1678_A698,TiO2,103.8,Spin Coating,Quartz,1.98,2.75,3.03,65.96454,78.03,Solar Cells,S23
+1287_A699,ITO,70.7,Thermal Evaporation,Silicon Wafer,1.76,2.59,2.46,34.241541,80.74,Transparent Conductors,S14
+436_A700,ITO,98.7,Spin Coating,Silicon Wafer,2.74,2.49,3.4,9.902103,70.87,Sensors,S10
+1728_A701,Al2O3,114.7,ALD,Silicon Wafer,2.54,3.31,4.62,71.26944,85.01,Solar Cells,S23
+238_A702,TiO2,90.7,Spin Coating,PET,2.63,3.91,0.77,25.171562,75.97,Transparent Conductors,S2
+2348_A703,ZnO,88.3,Thermal Evaporation,Glass,2.99,1.55,1.63,67.05117,89.09,Optoelectronics,S21
+110_A704,Graphene,79.4,Spin Coating,PET,2.32,2.13,1.36,63.461728,76.5,Sensors,S16
+2275_A705,Graphene,127.6,CVD,Silicon Wafer,1.91,3.49,4.87,24.396943,82.14,Solar Cells,S16
+164_A706,SiO2,77.5,Thermal Evaporation,PET,2.73,3.28,2.7,97.755826,73.66,Transparent Conductors,S18
+289_A707,Al2O3,139.6,Thermal Evaporation,Silicon Wafer,2.22,3.8,3.8,31.037827,87.67,Optoelectronics,S14
+253_A708,MoS2,84.0,Thermal Evaporation,Silicon Wafer,1.7,3.81,2.47,85.458416,82.84,Transparent Conductors,S10
+2584_A709,SiO2,136.9,CVD,Silicon Wafer,2.83,2.14,2.49,78.915006,74.77,Solar Cells,S9
+1965_A710,ITO,83.0,CVD,Silicon Wafer,2.55,3.86,1.05,90.932599,78.22,Solar Cells,S16
+1289_A711,SiO2,95.5,CVD,Quartz,1.61,1.84,0.66,97.286808,80.65,Sensors,S10
+745_A712,ZnO,68.1,Thermal Evaporation,Glass,2.17,3.06,2.22,62.836876,80.67,Solar Cells,S17
+1207_A713,Al2O3,147.3,Sputtering,Quartz,2.94,1.91,2.85,47.850993,77.47,Solar Cells,S6
+2420_A714,SnO2,69.0,Spin Coating,Quartz,2.81,1.29,3.9,28.94929,92.23,Transparent Conductors,S17
+1392_A715,TiO2,120.2,Spin Coating,Silicon Wafer,1.87,2.28,2.96,16.753718,78.5,Optoelectronics,S12
+2334_A716,ZnO,130.1,ALD,Quartz,3.0,2.3,2.41,2.607625,93.75,Transparent Conductors,S8
+991_A717,MoS2,153.8,Sputtering,Glass,1.68,3.27,3.24,93.161629,79.33,Sensors,S14
+840_A718,ZnO,110.1,Thermal Evaporation,Glass,2.07,2.35,2.26,62.179557,90.08,Solar Cells,S10
+1150_A719,Graphene,117.0,Thermal Evaporation,PET,1.83,2.0,4.45,58.940981,86.35,Solar Cells,S2
+1222_A720,ZnO,113.1,Spin Coating,Silicon Wafer,2.3,3.0,3.28,81.500044,90.48,Optoelectronics,S9
+1744_A721,ZnO,116.3,Thermal Evaporation,Silicon Wafer,2.04,3.12,4.35,25.923351,88.01,Sensors,S21
+2401_A722,ZnO,80.1,Spin Coating,Quartz,2.48,2.49,1.16,94.970746,76.39,Optoelectronics,S14
+462_A723,ZnO,101.3,Sputtering,Silicon Wafer,2.3,2.5,2.6,93.795457,72.4,Sensors,S18
+1310_A724,SiO2,144.9,ALD,Quartz,1.7,1.24,2.28,101.287706,70.7,Optoelectronics,S10
+1436_A725,Graphene,138.8,Sputtering,Glass,1.66,3.03,1.04,78.293233,94.01,Sensors,S7
+158_A726,SnO2,104.2,ALD,Silicon Wafer,2.71,2.1,2.26,5.843955,97.02,Optoelectronics,S14
+1912_A727,MoS2,82.9,Spin Coating,PET,2.24,3.66,3.79,12.642917,88.6,Optoelectronics,S9
+2360_A728,Graphene,126.2,Sputtering,Quartz,1.93,3.53,2.95,63.074982,71.68,Transparent Conductors,S7
+678_A729,ITO,112.7,CVD,Glass,2.53,1.35,2.66,57.818375,80.45,Optoelectronics,S12
+2849_A730,SiO2,160.8,ALD,Quartz,3.0,3.27,1.93,14.408179,84.15,Solar Cells,S16
+1873_A731,ZnO,127.4,Spin Coating,PET,2.13,2.47,2.84,7.694501,87.15,Optoelectronics,S22
+239_A732,MoS2,110.8,CVD,PET,1.66,2.95,0.54,19.014908,95.64,Solar Cells,S3
+2918_A733,TiO2,97.3,ALD,PET,1.7,3.76,1.22,85.342117,72.15,Transparent Conductors,S4
+1092_A734,ZnO,172.8,CVD,Silicon Wafer,2.92,1.56,0.83,82.907766,81.65,Optoelectronics,S4
+2871_A735,Al2O3,87.8,CVD,Glass,1.71,2.99,2.3,21.390067,87.0,Transparent Conductors,S12
+101_A736,TiO2,61.1,Spin Coating,Quartz,2.68,2.35,1.29,3.218547,94.3,Optoelectronics,S2
+316_A737,Al2O3,166.1,Thermal Evaporation,PET,1.55,3.51,3.33,52.113996,83.56,Optoelectronics,S17
+1024_A738,SnO2,67.7,Spin Coating,Silicon Wafer,2.18,1.54,4.25,52.82548,73.3,Solar Cells,S21
+2747_A739,SnO2,104.0,Sputtering,PET,1.82,1.83,3.32,0.068049,93.65,Transparent Conductors,S25
+768_A740,MoS2,143.9,CVD,Glass,1.9,3.56,0.69,69.050984,89.08,Solar Cells,S20
+1345_A741,MoS2,95.0,ALD,Silicon Wafer,1.61,3.44,1.49,30.041456,79.93,Optoelectronics,S12
+262_A742,SnO2,68.6,Thermal Evaporation,Quartz,1.64,2.08,1.78,39.794364,81.35,Transparent Conductors,S22
+1452_A743,ITO,114.7,CVD,Quartz,2.2,1.72,2.17,0.77698,90.41,Optoelectronics,S17
+2835_A744,Graphene,70.2,Sputtering,PET,2.91,2.34,2.93,69.338728,86.07,Sensors,S7
+196_A745,MoS2,127.9,Sputtering,Glass,2.17,2.92,4.43,30.219857,82.94,Solar Cells,S14
+1776_A746,ITO,114.3,Spin Coating,Quartz,1.6,2.67,2.35,67.94097,85.84,Transparent Conductors,S12
+2842_A747,TiO2,108.4,Spin Coating,Glass,2.83,2.86,3.73,66.543228,88.93,Sensors,S9
+1736_A748,MoS2,96.1,ALD,Silicon Wafer,2.95,1.9,1.62,32.226817,79.26,Optoelectronics,S24
+180_A749,MoS2,82.7,CVD,PET,2.69,3.68,3.07,20.709177,83.8,Sensors,S8
+2923_A750,Graphene,164.6,ALD,Quartz,1.68,3.7,1.25,50.302663,88.1,Optoelectronics,S23
+341_A751,Al2O3,88.8,Thermal Evaporation,Glass,1.98,1.55,3.53,55.227609,82.26,Solar Cells,S14
+1100_A752,SnO2,93.6,ALD,Quartz,2.3,1.64,4.34,7.041677,76.56,Transparent Conductors,S19
+1544_A753,MoS2,127.6,CVD,PET,2.01,1.37,2.2,20.958655,85.65,Transparent Conductors,S22
+749_A754,ITO,150.2,CVD,PET,2.61,2.9,2.18,42.646252,71.19,Solar Cells,S13
+2756_A755,Al2O3,81.0,ALD,PET,2.26,1.72,2.13,44.107354,73.46,Optoelectronics,S21
+663_A756,ITO,81.1,ALD,Silicon Wafer,2.67,2.18,3.95,89.605075,95.66,Solar Cells,S5
+481_A757,ZnO,128.0,Spin Coating,PET,1.99,1.68,4.57,72.741711,87.33,Sensors,S4
+2139_A758,MoS2,81.1,Sputtering,Silicon Wafer,3.0,2.01,5.0,57.834349,82.32,Transparent Conductors,S13
+872_A759,Al2O3,73.8,Spin Coating,PET,2.5,3.74,4.8,100.959964,84.39,Transparent Conductors,S17
+1454_A760,Graphene,39.3,Thermal Evaporation,Silicon Wafer,1.91,1.78,3.97,39.164246,90.7,Solar Cells,S21
+2953_A761,TiO2,72.4,ALD,Quartz,1.93,1.98,2.08,91.672495,93.3,Transparent Conductors,S11
+550_A762,SnO2,128.3,ALD,PET,2.05,2.79,0.93,91.310488,69.32,Solar Cells,S7
+2021_A763,ITO,99.2,Sputtering,PET,2.78,1.18,1.67,67.44318,73.52,Sensors,S2
+2709_A764,SnO2,80.8,Thermal Evaporation,Glass,2.38,1.58,1.06,37.633023,87.09,Sensors,S18
+743_A765,Graphene,74.4,Thermal Evaporation,Quartz,2.34,1.33,1.16,68.218396,84.38,Optoelectronics,S15
+2416_A766,TiO2,78.1,ALD,Quartz,2.11,4.02,4.5,41.412347,76.45,Solar Cells,S17
+2638_A767,SnO2,50.6,Sputtering,PET,2.91,3.56,2.0,57.700992,96.7,Transparent Conductors,S1
+2567_A768,MoS2,34.3,Sputtering,Silicon Wafer,2.45,3.2,2.42,38.739666,80.71,Optoelectronics,S14
+2293_A769,Graphene,115.4,CVD,Quartz,2.71,2.64,3.46,57.369607,79.75,Sensors,S20
+1910_A770,SiO2,69.6,Sputtering,PET,2.05,2.49,2.89,49.076456,84.71,Sensors,S2
+791_A771,SiO2,96.3,Sputtering,Glass,2.59,1.13,3.86,49.602166,79.29,Optoelectronics,S12
+2121_A772,SnO2,43.9,Thermal Evaporation,Glass,2.65,3.45,3.54,16.782864,91.38,Optoelectronics,S9
+1447_A773,MoS2,127.8,CVD,Silicon Wafer,2.16,1.0,4.19,92.790613,81.29,Solar Cells,S9
+248_A774,Al2O3,90.9,Spin Coating,PET,2.58,2.05,1.72,67.007038,83.51,Transparent Conductors,S16
+830_A775,TiO2,32.8,Thermal Evaporation,PET,2.94,3.48,2.17,71.535076,71.91,Solar Cells,S16
+1125_A776,SnO2,87.3,ALD,PET,1.96,2.65,3.55,56.596699,84.4,Transparent Conductors,S10
+2721_A777,MoS2,98.5,ALD,PET,1.88,2.71,0.62,61.802301,91.21,Transparent Conductors,S21
+627_A778,Al2O3,78.9,ALD,PET,2.5,2.35,0.91,18.546155,72.87,Transparent Conductors,S2
+348_A779,Graphene,98.8,ALD,PET,2.65,1.76,4.27,90.275422,79.45,Solar Cells,S12
+279_A780,ITO,81.1,Spin Coating,PET,1.62,3.71,2.99,12.355721,78.06,Transparent Conductors,S25
+1784_A781,ITO,108.8,CVD,Silicon Wafer,2.5,2.57,3.9,31.545564,82.56,Solar Cells,S19
+2281_A782,Graphene,86.1,Sputtering,Glass,2.93,1.58,2.78,59.447252,91.05,Optoelectronics,S3
+656_A783,ITO,62.6,Spin Coating,Quartz,2.7,3.66,3.0,58.477581,78.81,Transparent Conductors,S3
+1214_A784,MoS2,77.0,Thermal Evaporation,Glass,2.83,1.71,3.91,54.0929,74.87,Optoelectronics,S15
+839_A785,SnO2,90.7,Sputtering,Glass,2.02,1.63,0.78,83.901479,87.04,Optoelectronics,S18
+2625_A786,SnO2,118.6,CVD,PET,1.53,3.1,2.4,5.539415,76.08,Transparent Conductors,S3
+2589_A787,ITO,103.6,Thermal Evaporation,PET,2.41,3.47,3.18,29.154182,92.45,Sensors,S2
+2351_A788,MoS2,68.1,Thermal Evaporation,Quartz,2.66,3.09,1.27,27.198724,72.89,Transparent Conductors,S17
+1710_A789,ITO,62.9,Sputtering,PET,2.0,2.04,1.11,76.086185,91.11,Sensors,S18
+2024_A790,Al2O3,82.5,Spin Coating,Quartz,2.53,1.05,1.51,81.19865,92.41,Solar Cells,S1
+977_A791,SiO2,91.0,Spin Coating,Silicon Wafer,2.09,3.72,2.97,64.875384,76.38,Sensors,S4
+446_A792,Graphene,91.8,Spin Coating,Glass,2.99,2.61,1.02,87.963212,92.33,Solar Cells,S24
+618_A793,TiO2,119.0,Sputtering,Silicon Wafer,1.91,2.32,4.39,50.501034,81.44,Sensors,S25
+1475_A794,Graphene,71.2,Thermal Evaporation,Silicon Wafer,1.64,3.29,1.46,80.429658,86.58,Solar Cells,S5
+1779_A795,ZnO,116.6,Spin Coating,Glass,2.49,3.35,0.93,83.284754,88.56,Optoelectronics,S2
+2518_A796,Graphene,134.9,Sputtering,PET,1.8,2.5,1.36,27.158636,79.74,Solar Cells,S22
+1245_A797,Graphene,119.2,CVD,PET,2.55,3.88,3.1,49.722359,75.17,Optoelectronics,S13
+2996_A798,ITO,119.2,Sputtering,PET,2.28,1.36,3.29,20.210457,83.37,Solar Cells,S21
+2553_A799,SnO2,79.0,Spin Coating,Glass,1.67,2.72,1.61,76.136427,80.3,Optoelectronics,S8
+548_A800,SiO2,96.7,Thermal Evaporation,Glass,2.16,1.2,1.75,56.088561,77.93,Transparent Conductors,S1
+2211_A801,SnO2,110.3,Thermal Evaporation,Silicon Wafer,2.14,1.76,3.22,34.533224,86.34,Sensors,S15
+1624_A802,MoS2,91.4,ALD,Quartz,1.9,1.46,2.99,81.880553,86.34,Sensors,S8
+264_A803,MoS2,102.9,Sputtering,Quartz,2.82,2.29,2.57,40.184218,90.03,Optoelectronics,S15
+1398_A804,SnO2,53.2,Sputtering,Silicon Wafer,2.99,3.76,3.49,14.470387,92.07,Optoelectronics,S22
+2354_A805,SnO2,73.1,Thermal Evaporation,Quartz,1.88,2.55,2.79,56.706905,76.08,Solar Cells,S1
+1816_A806,TiO2,70.4,Thermal Evaporation,Silicon Wafer,1.66,3.52,2.84,40.389377,72.6,Sensors,S23
+354_A807,SnO2,147.5,Spin Coating,PET,1.67,3.97,2.29,3.746647,86.85,Sensors,S14
+1076_A808,SnO2,149.6,Thermal Evaporation,PET,2.32,2.22,3.58,79.04961,90.18,Sensors,S22
+209_A809,ZnO,90.4,ALD,Silicon Wafer,1.77,1.27,3.65,68.122962,85.56,Solar Cells,S5
+614_A810,SiO2,71.8,Sputtering,Silicon Wafer,2.3,3.18,1.96,92.599059,73.61,Transparent Conductors,S16
+2091_A811,Al2O3,85.7,ALD,Glass,1.79,1.63,1.72,100.719553,76.56,Transparent Conductors,S21
+2100_A812,MoS2,103.2,Spin Coating,Silicon Wafer,2.22,2.52,1.85,22.196783,82.87,Optoelectronics,S7
+1499_A813,ZnO,142.1,ALD,Glass,1.58,3.58,2.79,91.134421,71.08,Optoelectronics,S8
+1136_A814,Graphene,52.0,CVD,PET,2.02,1.76,2.19,71.13239,70.29,Solar Cells,S23
+2881_A815,TiO2,113.7,ALD,PET,2.91,1.26,1.11,25.888725,89.21,Sensors,S11
+2079_A816,Graphene,88.2,Sputtering,Silicon Wafer,1.88,1.02,1.82,29.201292,92.58,Sensors,S2
+58_A817,TiO2,132.5,Sputtering,Silicon Wafer,2.24,2.08,2.3,83.2559,76.65,Transparent Conductors,S19
+2484_A818,ITO,112.8,ALD,Quartz,1.77,1.19,4.03,11.122137,83.92,Sensors,S21
+812_A819,ZnO,89.9,Sputtering,Silicon Wafer,1.53,3.0,2.73,5.296252,72.5,Solar Cells,S24
+2196_A820,Graphene,76.0,Spin Coating,PET,2.59,3.28,2.7,47.536703,75.89,Optoelectronics,S23
+562_A821,TiO2,69.7,Sputtering,Glass,1.87,2.05,4.82,34.995461,89.23,Transparent Conductors,S8
+2944_A822,TiO2,88.1,Spin Coating,Silicon Wafer,1.53,1.58,3.09,72.864068,93.86,Optoelectronics,S20
+230_A823,ZnO,31.8,ALD,Silicon Wafer,1.85,1.1,0.81,81.455078,71.97,Solar Cells,S16
+2510_A824,ZnO,155.5,Spin Coating,Silicon Wafer,2.13,3.75,1.99,38.224895,85.94,Transparent Conductors,S9
+1722_A825,TiO2,117.4,ALD,Glass,2.1,3.38,3.15,8.039741,91.34,Transparent Conductors,S20
+2180_A826,SiO2,94.9,ALD,Glass,1.86,2.81,2.41,70.491737,75.59,Optoelectronics,S25
+1451_A827,SiO2,103.6,ALD,PET,2.92,3.38,3.02,48.284167,79.81,Solar Cells,S20
+1235_A828,Graphene,107.8,Spin Coating,Quartz,2.48,3.05,0.52,96.406855,93.01,Sensors,S5
+1072_A829,MoS2,109.2,CVD,Quartz,1.9,3.8,2.32,50.642622,87.65,Sensors,S17
+2850_A830,SnO2,104.6,Thermal Evaporation,Glass,2.85,1.82,0.92,77.696756,75.89,Optoelectronics,S8
+1038_A831,ITO,164.5,Thermal Evaporation,Silicon Wafer,2.53,1.95,2.75,65.748047,71.57,Solar Cells,S15
+890_A832,MoS2,131.2,Spin Coating,Glass,1.94,3.19,4.56,9.390621,86.54,Transparent Conductors,S17
+1054_A833,SiO2,115.1,Sputtering,Quartz,1.73,2.65,3.01,84.476411,69.91,Transparent Conductors,S2
+708_A834,TiO2,116.0,CVD,Quartz,2.28,1.83,1.01,18.626576,91.46,Solar Cells,S3
+425_A835,SnO2,104.2,CVD,Quartz,1.52,1.77,2.4,63.740904,81.72,Solar Cells,S21
+70_A836,ITO,106.3,ALD,Quartz,1.85,2.89,4.86,53.11323,77.35,Optoelectronics,S22
+2250_A837,TiO2,61.5,ALD,Silicon Wafer,2.46,1.94,4.6,45.082642,81.14,Solar Cells,S1
+2536_A838,TiO2,132.2,CVD,Silicon Wafer,2.45,1.21,1.54,34.117825,86.21,Solar Cells,S22
+2840_A839,SnO2,67.8,Thermal Evaporation,Silicon Wafer,2.62,3.28,3.37,93.016629,73.04,Optoelectronics,S23
+2407_A840,ZnO,117.3,Spin Coating,PET,2.58,2.72,1.37,53.633236,81.2,Sensors,S18
+2964_A841,ZnO,98.0,ALD,Silicon Wafer,2.48,3.58,1.97,85.49407,72.65,Transparent Conductors,S16
+2582_A842,Al2O3,105.6,Thermal Evaporation,Silicon Wafer,1.88,2.64,4.1,57.659839,91.37,Transparent Conductors,S1
+2093_A843,SiO2,100.8,Sputtering,Silicon Wafer,2.1,2.83,2.74,43.823442,91.46,Solar Cells,S6
+941_A844,SnO2,145.9,Spin Coating,PET,2.19,3.26,2.79,39.522039,86.66,Optoelectronics,S7
+621_A845,TiO2,83.3,Thermal Evaporation,PET,1.84,2.77,1.15,9.427498,88.96,Optoelectronics,S13
+2520_A846,TiO2,192.0,Sputtering,PET,2.56,1.77,3.21,7.75408,72.47,Solar Cells,S4
+1197_A847,ZnO,131.8,Spin Coating,Silicon Wafer,2.78,3.77,4.3,15.686153,84.72,Optoelectronics,S13
+2068_A848,TiO2,33.2,Sputtering,PET,2.1,1.17,1.73,1.965833,87.25,Transparent Conductors,S8
+1033_A849,ITO,34.6,Thermal Evaporation,Glass,3.02,2.3,3.53,25.551091,72.29,Optoelectronics,S20
+1506_A850,SnO2,146.0,Thermal Evaporation,Glass,2.91,3.77,3.28,59.047364,91.56,Transparent Conductors,S2
+1577_A851,SnO2,140.3,ALD,PET,2.85,1.59,2.05,63.074363,86.05,Transparent Conductors,S19
+2131_A852,SnO2,88.9,CVD,Silicon Wafer,2.96,3.48,4.54,6.200322,78.59,Optoelectronics,S19
+2045_A853,TiO2,101.0,Spin Coating,Silicon Wafer,2.26,1.79,2.76,21.699169,71.26,Transparent Conductors,S22
+1396_A854,ITO,138.8,CVD,Quartz,1.65,2.76,3.21,80.808869,79.1,Transparent Conductors,S22
+280_A855,ZnO,49.7,Spin Coating,Silicon Wafer,1.5,1.44,1.3,45.338857,70.13,Transparent Conductors,S19
+1466_A856,Graphene,104.5,Spin Coating,Glass,2.34,2.51,4.44,5.114619,80.36,Optoelectronics,S8
+1504_A857,TiO2,97.6,Thermal Evaporation,Quartz,1.98,1.43,1.84,23.009926,81.94,Sensors,S6
+2283_A858,Al2O3,123.6,Sputtering,PET,2.79,1.53,1.21,98.832491,69.64,Sensors,S7
+2839_A859,SiO2,79.2,CVD,Glass,2.26,1.2,1.09,71.849774,76.41,Optoelectronics,S3
+2724_A860,Graphene,158.3,Spin Coating,Quartz,2.89,2.21,0.61,31.714862,87.77,Transparent Conductors,S3
+554_A861,Al2O3,130.5,Spin Coating,PET,2.87,1.06,3.84,44.016742,74.08,Optoelectronics,S14
+835_A862,ZnO,142.7,Thermal Evaporation,Glass,1.57,3.85,3.45,40.029179,89.91,Sensors,S10
+963_A863,MoS2,134.2,Spin Coating,Glass,2.04,1.43,3.7,36.391336,77.72,Optoelectronics,S15
+597_A864,SiO2,88.3,Sputtering,PET,2.89,3.16,1.57,2.406544,88.34,Transparent Conductors,S11
+2452_A865,TiO2,134.0,ALD,Glass,2.44,2.87,1.87,104.335681,87.89,Transparent Conductors,S7
+803_A866,MoS2,107.0,Thermal Evaporation,Glass,1.51,3.34,2.21,75.675528,93.07,Transparent Conductors,S16
+2137_A867,Al2O3,99.4,Spin Coating,PET,1.91,3.15,0.78,34.004102,91.22,Transparent Conductors,S20
+2986_A868,MoS2,66.7,CVD,Quartz,2.64,0.93,4.54,76.780363,90.69,Transparent Conductors,S1
+2720_A869,Al2O3,113.4,Sputtering,Quartz,2.29,1.4,4.38,1.395163,78.47,Solar Cells,S21
+441_A870,ZnO,88.3,CVD,Glass,2.13,4.05,2.27,40.813687,87.34,Transparent Conductors,S7
+509_A871,MoS2,120.6,CVD,Quartz,2.55,1.47,3.14,40.150666,69.77,Solar Cells,S22
+77_A872,ZnO,79.3,Thermal Evaporation,Glass,1.6,2.27,3.39,4.76332,90.61,Optoelectronics,S14
+2482_A873,Graphene,65.6,CVD,Quartz,1.68,1.29,4.64,57.214947,88.67,Transparent Conductors,S7
+650_A874,ITO,146.1,Thermal Evaporation,Quartz,1.91,2.7,0.69,80.804534,81.53,Transparent Conductors,S10
+523_A875,TiO2,135.8,CVD,Glass,2.96,2.82,0.78,61.994733,87.73,Solar Cells,S6
+1488_A876,Graphene,67.0,CVD,Quartz,1.69,2.81,3.1,82.720182,71.11,Transparent Conductors,S23
+2209_A877,ITO,149.1,ALD,Quartz,2.15,1.76,4.57,62.340775,88.48,Solar Cells,S12
+1495_A878,Al2O3,102.6,Thermal Evaporation,Silicon Wafer,2.61,3.09,4.88,44.551076,93.05,Optoelectronics,S19
+655_A879,SnO2,89.2,CVD,Quartz,2.05,2.91,1.49,9.708189,71.71,Sensors,S13
+2817_A880,TiO2,130.7,Spin Coating,Glass,2.15,2.62,1.72,90.562729,87.65,Solar Cells,S21
+1539_A881,Al2O3,81.7,ALD,PET,1.91,3.93,5.42,36.722775,75.9,Transparent Conductors,S23
+1424_A882,ZnO,144.2,CVD,Quartz,1.61,3.74,2.48,57.91515,75.87,Transparent Conductors,S2
+1652_A883,TiO2,173.7,ALD,Silicon Wafer,2.38,2.16,2.58,73.730481,88.05,Transparent Conductors,S25
+631_A884,SiO2,101.6,ALD,Silicon Wafer,1.72,2.81,4.57,78.698397,82.56,Sensors,S20
+2542_A885,Graphene,100.3,Spin Coating,Quartz,2.18,2.67,2.41,61.875926,78.82,Sensors,S24
+1508_A886,Al2O3,163.1,Sputtering,Glass,3.01,2.32,3.3,28.461284,77.68,Sensors,S18
+2942_A887,TiO2,41.7,Spin Coating,Quartz,2.58,2.69,4.21,89.419523,85.87,Solar Cells,S24
+483_A888,TiO2,85.3,CVD,Quartz,2.75,3.53,1.9,67.911635,71.02,Transparent Conductors,S15
+1928_A889,Graphene,88.3,CVD,PET,1.78,2.34,3.52,94.211025,91.31,Transparent Conductors,S2
+1114_A890,TiO2,68.0,Sputtering,Quartz,2.98,2.89,4.36,45.017884,80.76,Sensors,S8
+2564_A891,MoS2,72.8,Sputtering,Glass,2.02,3.06,3.65,10.732392,90.47,Sensors,S24
+1089_A892,ZnO,62.0,ALD,PET,1.64,3.61,1.2,24.799319,70.71,Solar Cells,S20
+439_A893,MoS2,52.9,Spin Coating,PET,2.21,3.63,1.17,70.506926,75.03,Optoelectronics,S13
+1718_A894,Al2O3,76.8,Spin Coating,Glass,2.07,1.8,1.66,8.590403,85.27,Optoelectronics,S25
+2444_A895,SiO2,103.8,Thermal Evaporation,Glass,1.62,2.29,1.12,89.728822,71.11,Sensors,S6
+857_A896,Al2O3,111.0,ALD,Silicon Wafer,2.38,1.66,4.36,9.948324,81.19,Optoelectronics,S7
+1984_A897,ZnO,114.5,ALD,PET,2.74,2.37,1.9,84.52996,86.19,Sensors,S16
+167_A898,Al2O3,32.8,Thermal Evaporation,Quartz,2.35,1.95,1.58,37.178083,84.29,Sensors,S18
+60_A899,SnO2,110.7,Sputtering,Silicon Wafer,2.18,1.65,2.73,88.391567,73.57,Optoelectronics,S20
+612_A900,SnO2,78.1,CVD,PET,1.83,3.07,2.74,76.209885,83.09,Sensors,S13
+531_A901,TiO2,106.8,ALD,Silicon Wafer,1.91,3.15,4.39,29.88932,85.32,Optoelectronics,S25
+2788_A902,Al2O3,115.5,Thermal Evaporation,Quartz,1.76,1.82,2.26,25.71165,84.79,Solar Cells,S19
+50_A903,Graphene,118.6,CVD,Quartz,1.97,1.63,4.13,66.724784,73.63,Optoelectronics,S25
+1884_A904,ITO,108.0,Sputtering,Quartz,1.78,3.83,1.37,30.096518,84.33,Solar Cells,S17
+1012_A905,TiO2,95.9,Sputtering,Glass,2.02,3.28,5.14,33.787584,87.13,Sensors,S16
+859_A906,SiO2,100.2,CVD,Quartz,2.7,1.68,0.53,31.747298,75.85,Transparent Conductors,S16
+1018_A907,SiO2,97.5,CVD,Glass,2.49,3.95,3.33,62.333931,94.71,Optoelectronics,S19
+49_A908,TiO2,133.1,CVD,Silicon Wafer,2.81,3.35,0.74,2.605209,76.11,Solar Cells,S3
+720_A909,SnO2,44.2,Sputtering,Glass,1.5,3.02,4.32,61.032593,92.37,Optoelectronics,S3
+2391_A910,Al2O3,83.3,Thermal Evaporation,Quartz,1.73,3.44,2.58,1.95599,79.98,Sensors,S12
+2653_A911,ITO,106.6,CVD,Quartz,2.98,3.14,1.37,58.555634,78.18,Optoelectronics,S18
+2247_A912,SiO2,146.4,Thermal Evaporation,Glass,2.28,3.43,2.97,74.536357,76.45,Optoelectronics,S20
+1160_A913,ITO,67.3,Sputtering,Quartz,1.76,2.88,1.41,67.671585,84.29,Sensors,S18
+633_A914,TiO2,69.8,Thermal Evaporation,Silicon Wafer,1.62,2.13,4.05,0.640865,73.74,Solar Cells,S11
+1339_A915,ITO,85.8,Spin Coating,Silicon Wafer,2.94,2.67,1.4,73.502162,92.72,Optoelectronics,S5
+2128_A916,Graphene,27.7,ALD,Silicon Wafer,2.43,1.27,3.73,14.860854,86.84,Solar Cells,S16
+2603_A917,SnO2,112.3,CVD,Silicon Wafer,1.53,3.2,2.67,46.002532,85.32,Transparent Conductors,S14
+1437_A918,MoS2,104.5,Thermal Evaporation,PET,2.96,3.36,0.55,27.672479,91.92,Transparent Conductors,S14
+26_A919,SiO2,96.4,CVD,PET,2.99,1.9,3.35,32.506256,93.48,Transparent Conductors,S6
+2966_A920,Graphene,128.1,Sputtering,Quartz,2.39,1.7,0.82,75.468045,90.12,Optoelectronics,S19
+220_A921,Al2O3,121.2,Sputtering,Quartz,1.97,2.95,1.77,15.488056,82.96,Sensors,S13
+2819_A922,Al2O3,121.6,Spin Coating,PET,1.9,3.46,3.53,2.865843,91.12,Solar Cells,S16
+277_A923,ZnO,96.0,CVD,Glass,1.85,1.62,2.68,84.014305,77.84,Sensors,S16
+2158_A924,MoS2,140.2,CVD,PET,1.74,3.04,2.54,27.983921,77.61,Sensors,S15
+1481_A925,Al2O3,69.8,Sputtering,Silicon Wafer,2.32,1.1,4.55,10.011042,81.8,Transparent Conductors,S4
+1236_A926,ITO,114.3,CVD,Silicon Wafer,1.96,3.7,3.55,21.748808,70.16,Optoelectronics,S2
+1594_A927,Graphene,122.7,Sputtering,Silicon Wafer,1.51,2.89,4.25,79.424787,77.59,Optoelectronics,S10
+1000_A928,SnO2,103.8,Thermal Evaporation,Quartz,1.87,3.11,0.54,81.416363,73.04,Sensors,S13
+2141_A929,Al2O3,82.6,Thermal Evaporation,Silicon Wafer,2.67,3.15,4.6,86.7744,92.72,Optoelectronics,S8
+362_A930,MoS2,111.5,Spin Coating,PET,2.32,1.23,3.37,15.16106,82.38,Transparent Conductors,S11
+1458_A931,Graphene,136.9,ALD,PET,1.6,2.66,1.77,53.100543,91.61,Solar Cells,S12
+1994_A932,MoS2,64.8,CVD,Silicon Wafer,1.83,1.45,3.66,60.882998,68.45,Optoelectronics,S4
+1672_A933,ZnO,115.7,CVD,Quartz,1.54,2.09,2.51,54.626482,74.28,Solar Cells,S2
+2335_A934,SiO2,147.3,CVD,PET,2.57,3.9,3.38,1.306647,85.1,Optoelectronics,S1
+1651_A935,Graphene,96.0,Sputtering,PET,1.94,2.09,0.84,29.46574,91.46,Optoelectronics,S14
+1836_A936,SnO2,77.8,CVD,Glass,1.78,4.02,2.93,16.346051,89.1,Optoelectronics,S24
+1115_A937,Graphene,128.6,Sputtering,Silicon Wafer,1.59,1.26,1.16,21.529724,88.35,Optoelectronics,S8
+1847_A938,TiO2,75.5,CVD,PET,2.26,1.34,1.58,20.290726,74.37,Transparent Conductors,S5
+1318_A939,ZnO,132.4,Thermal Evaporation,Quartz,2.73,3.32,3.1,23.121557,83.57,Optoelectronics,S24
+2630_A940,Graphene,130.9,Spin Coating,Quartz,2.84,3.41,3.18,87.772161,91.57,Transparent Conductors,S4
+298_A941,TiO2,118.3,Spin Coating,Glass,2.27,1.32,1.46,53.163446,78.95,Solar Cells,S10
+1314_A942,SnO2,99.0,Thermal Evaporation,Quartz,2.53,2.85,0.82,20.191059,90.74,Solar Cells,S18
+938_A943,Al2O3,160.1,ALD,PET,2.45,3.26,2.09,6.623195,86.04,Sensors,S9
+241_A944,MoS2,106.6,Spin Coating,Glass,1.68,3.74,3.7,27.045888,87.27,Transparent Conductors,S4
+1433_A945,ITO,101.4,CVD,Quartz,2.72,2.51,1.42,66.856247,74.92,Sensors,S8
+583_A946,SiO2,106.9,Thermal Evaporation,Glass,1.72,1.63,2.48,53.438581,82.64,Optoelectronics,S25
+2907_A947,TiO2,153.1,CVD,Silicon Wafer,2.01,3.16,1.59,58.087124,77.26,Solar Cells,S17
+1955_A948,ITO,126.2,Sputtering,PET,2.96,1.44,1.45,48.283492,77.12,Transparent Conductors,S8
+1335_A949,MoS2,122.5,Spin Coating,Glass,1.91,3.44,0.8,15.698737,82.74,Solar Cells,S8
+1730_A950,MoS2,82.3,Spin Coating,Glass,2.35,1.25,4.26,89.946133,76.02,Optoelectronics,S23
+1673_A951,Al2O3,143.6,Sputtering,Quartz,3.0,1.88,1.4,47.221273,77.69,Sensors,S22
+351_A952,ITO,131.8,ALD,Glass,2.83,2.46,1.62,22.613813,92.86,Optoelectronics,S21
+2746_A953,ITO,78.8,CVD,Glass,2.73,2.88,4.33,53.686806,89.8,Sensors,S23
+1221_A954,Graphene,74.3,Thermal Evaporation,PET,1.89,3.04,1.27,13.426535,90.95,Sensors,S19
+350_A955,ITO,173.2,Spin Coating,PET,1.84,3.61,2.88,7.092058,96.0,Transparent Conductors,S8
+1519_A956,Al2O3,44.9,CVD,Silicon Wafer,1.68,2.77,3.58,18.756558,82.4,Sensors,S8
+2548_A957,Al2O3,106.0,CVD,Silicon Wafer,2.34,3.19,2.83,10.624531,69.54,Optoelectronics,S24
+644_A958,Graphene,94.5,Spin Coating,Quartz,1.99,3.43,3.81,69.379893,72.31,Sensors,S8
+2836_A959,TiO2,70.0,Spin Coating,Silicon Wafer,1.79,4.02,0.95,83.603536,76.84,Transparent Conductors,S12
+945_A960,ITO,111.2,CVD,Quartz,2.96,2.19,4.68,80.378666,95.26,Sensors,S13
+1463_A961,SnO2,75.2,CVD,Silicon Wafer,2.03,2.58,1.49,55.652465,76.78,Transparent Conductors,S9
+658_A962,ITO,115.0,Sputtering,Silicon Wafer,2.23,1.74,4.5,42.66149,84.66,Optoelectronics,S12
+2703_A963,Al2O3,148.8,ALD,PET,1.87,2.1,1.5,71.948296,84.4,Transparent Conductors,S5
+2894_A964,ITO,113.3,Sputtering,PET,2.66,2.55,1.65,21.673248,74.75,Optoelectronics,S18
+1237_A965,Al2O3,134.8,Thermal Evaporation,Quartz,2.24,1.77,3.07,65.731042,82.83,Solar Cells,S19
+2468_A966,Graphene,37.3,CVD,PET,1.63,4.04,3.0,3.605959,92.1,Sensors,S23
+648_A967,Al2O3,135.5,ALD,Glass,2.42,1.65,3.64,50.767671,80.37,Transparent Conductors,S11
+1126_A968,SnO2,108.0,CVD,Quartz,2.94,3.67,4.27,58.119275,81.76,Transparent Conductors,S11
+1111_A969,MoS2,74.2,Sputtering,Silicon Wafer,1.78,1.91,2.91,17.14271,81.4,Transparent Conductors,S12
+2651_A970,ITO,95.8,Sputtering,Quartz,2.01,2.94,2.91,28.779216,81.67,Solar Cells,S1
+1941_A971,ITO,62.8,ALD,PET,2.22,2.57,3.95,96.354002,88.47,Sensors,S9
+539_A972,Graphene,77.2,CVD,Glass,1.88,3.18,4.06,51.334565,91.48,Transparent Conductors,S14
+1049_A973,ZnO,118.4,ALD,Quartz,2.12,2.27,3.5,16.546763,83.67,Solar Cells,S1
+2984_A974,SnO2,138.5,CVD,Glass,2.58,1.54,4.84,55.240272,83.23,Optoelectronics,S13
+2376_A975,SiO2,134.8,Thermal Evaporation,Quartz,1.67,2.94,3.89,48.436672,90.59,Transparent Conductors,S18
+2210_A976,TiO2,104.0,Spin Coating,Silicon Wafer,2.13,1.46,2.27,16.749704,73.22,Optoelectronics,S12
+2339_A977,SnO2,88.3,CVD,Glass,2.73,1.65,0.88,73.434365,77.02,Optoelectronics,S9
+2163_A978,ITO,114.1,Spin Coating,PET,2.23,2.82,2.71,13.72294,73.59,Transparent Conductors,S12
+802_A979,SiO2,106.4,CVD,Quartz,1.73,2.24,3.55,5.464712,78.44,Sensors,S15
+787_A980,Graphene,120.4,ALD,Silicon Wafer,1.53,1.66,1.52,6.193395,81.46,Sensors,S9
+2695_A981,ITO,144.2,Sputtering,Quartz,2.7,1.08,3.55,40.402607,88.41,Optoelectronics,S6
+2041_A982,ZnO,75.5,Spin Coating,PET,2.61,2.48,2.47,76.021724,72.2,Optoelectronics,S25
+789_A983,ITO,132.3,Sputtering,Silicon Wafer,2.11,3.49,0.75,18.672026,71.99,Solar Cells,S25
+2184_A984,SnO2,103.1,Thermal Evaporation,Silicon Wafer,2.86,1.19,2.23,40.450433,87.38,Optoelectronics,S8
+2469_A985,Al2O3,145.8,ALD,PET,2.79,2.93,1.66,65.61961,74.22,Transparent Conductors,S5
+2014_A986,ZnO,115.2,ALD,Quartz,2.07,1.45,1.85,23.432751,83.53,Solar Cells,S6
+715_A987,SnO2,103.4,Sputtering,Quartz,2.18,2.19,2.57,24.945997,81.26,Transparent Conductors,S25
+804_A988,Graphene,119.0,Sputtering,PET,2.96,2.36,2.46,90.396722,90.72,Sensors,S18
+2009_A989,SnO2,70.1,ALD,Quartz,2.92,1.04,2.9,32.317437,80.38,Optoelectronics,S5
+2762_A990,ZnO,108.9,ALD,Glass,2.98,3.96,1.92,22.613318,94.63,Optoelectronics,S5
+124_A991,ITO,118.9,Spin Coating,Quartz,2.16,3.35,1.84,85.881345,73.28,Transparent Conductors,S14
+1809_A992,Graphene,109.3,Sputtering,Quartz,1.7,1.31,0.66,73.167311,76.49,Solar Cells,S24
+2287_A993,TiO2,83.4,Thermal Evaporation,PET,1.65,1.08,1.62,93.794411,74.61,Optoelectronics,S20
+2148_A994,SnO2,146.6,CVD,Quartz,2.2,1.05,4.08,36.713402,77.41,Optoelectronics,S20
+619_A995,ZnO,97.7,Spin Coating,PET,1.82,3.89,4.92,96.4713,75.48,Sensors,S25
+407_A996,Graphene,108.0,CVD,PET,2.44,2.08,1.8,95.404445,94.58,Optoelectronics,S19
+1158_A997,ITO,143.9,Sputtering,Silicon Wafer,1.68,2.59,1.26,50.086681,87.95,Solar Cells,S7
+1069_A998,ITO,101.7,Sputtering,Silicon Wafer,2.19,2.78,1.43,24.594245,74.03,Solar Cells,S2
+1134_A999,MoS2,97.1,Thermal Evaporation,PET,1.51,3.46,2.82,101.109455,71.52,Optoelectronics,S7
+2906_A1000,ITO,68.9,ALD,PET,2.06,3.87,3.68,10.648059,83.03,Optoelectronics,S3
+498_A1001,ZnO,65.2,Thermal Evaporation,Glass,2.91,2.74,2.6,26.552758,90.18,Sensors,S20
+1062_A1002,SiO2,100.9,CVD,Silicon Wafer,1.71,1.15,2.36,91.65539,85.93,Optoelectronics,S24
+326_A1003,TiO2,113.4,Spin Coating,Silicon Wafer,2.52,1.24,4.42,46.879007,71.18,Sensors,S25
+343_A1004,SiO2,72.4,Spin Coating,Silicon Wafer,3.02,1.71,3.22,10.900854,73.43,Sensors,S17
+2357_A1005,ZnO,74.0,Spin Coating,Glass,2.15,1.42,2.61,23.438808,85.51,Solar Cells,S23
+2267_A1006,TiO2,131.2,Spin Coating,Quartz,1.63,3.42,4.37,6.067176,76.46,Optoelectronics,S17
+783_A1007,Al2O3,112.5,Thermal Evaporation,Glass,1.8,3.91,4.56,21.679757,83.56,Optoelectronics,S9
+2368_A1008,ITO,113.4,ALD,Glass,2.11,2.62,2.29,68.407469,70.42,Solar Cells,S15
+300_A1009,ITO,104.9,Thermal Evaporation,Glass,2.74,3.08,2.91,58.773694,87.95,Solar Cells,S20
+1462_A1010,TiO2,109.1,Thermal Evaporation,Glass,1.59,3.18,0.66,91.967926,79.01,Solar Cells,S17
+2374_A1011,SiO2,131.5,Sputtering,PET,1.9,2.68,4.23,64.751482,84.54,Optoelectronics,S13
+304_A1012,MoS2,67.6,Sputtering,Glass,1.79,2.44,3.97,82.377404,92.57,Transparent Conductors,S10
+1238_A1013,SnO2,77.0,ALD,Glass,2.74,3.35,3.42,3.99237,81.31,Solar Cells,S18
+2572_A1014,MoS2,54.7,CVD,Quartz,1.9,3.77,4.93,87.471409,92.08,Transparent Conductors,S12
+1657_A1015,ZnO,125.0,Thermal Evaporation,PET,2.81,3.43,4.33,99.959553,92.33,Optoelectronics,S21
+665_A1016,TiO2,94.1,ALD,PET,2.82,2.61,1.37,26.732299,82.4,Sensors,S11
+1691_A1017,Al2O3,110.1,Thermal Evaporation,PET,2.68,3.57,4.66,89.393852,81.41,Transparent Conductors,S7
+221_A1018,Graphene,2.9,ALD,Glass,2.72,2.47,4.65,105.373575,78.82,Sensors,S20
+1627_A1019,Al2O3,123.5,Spin Coating,Glass,2.38,1.98,0.9,91.164136,75.32,Solar Cells,S25
+1189_A1020,TiO2,100.9,Sputtering,Glass,2.92,1.06,5.07,23.080954,73.35,Optoelectronics,S24
+1456_A1021,SnO2,120.6,Thermal Evaporation,Silicon Wafer,1.8,1.88,3.73,49.001968,83.54,Solar Cells,S8
+450_A1022,Al2O3,91.4,ALD,Glass,2.12,1.85,3.77,44.779522,75.23,Solar Cells,S12
+2003_A1023,Graphene,105.6,Spin Coating,PET,2.89,1.96,1.84,54.505388,86.9,Solar Cells,S10
+2617_A1024,MoS2,147.2,Spin Coating,PET,2.6,1.8,2.05,13.311942,93.24,Sensors,S21
+85_A1025,MoS2,89.6,Spin Coating,Glass,1.66,1.95,0.81,23.174738,76.03,Solar Cells,S7
+942_A1026,MoS2,139.5,Spin Coating,PET,2.75,2.82,2.29,47.573692,71.99,Transparent Conductors,S14
+962_A1027,SnO2,83.7,CVD,Quartz,2.66,1.68,3.03,91.493424,75.37,Optoelectronics,S23
+842_A1028,ITO,139.1,ALD,Quartz,2.44,1.53,2.01,31.452588,89.42,Sensors,S13
+1327_A1029,Al2O3,221.1,Spin Coating,Glass,1.73,2.47,3.22,75.992062,84.66,Solar Cells,S14
+2379_A1030,TiO2,123.0,Sputtering,Silicon Wafer,1.68,1.29,2.54,75.61171,89.51,Optoelectronics,S4
+2431_A1031,Graphene,35.8,Spin Coating,Glass,1.99,3.62,3.65,10.113957,83.74,Transparent Conductors,S21
+1374_A1032,SnO2,120.0,CVD,Quartz,2.98,3.49,0.7,51.921126,75.6,Transparent Conductors,S14
+291_A1033,Al2O3,88.0,Sputtering,Glass,2.79,2.02,2.15,14.918263,79.86,Sensors,S10
+1868_A1034,ZnO,118.3,Spin Coating,Silicon Wafer,1.98,3.57,1.7,89.535958,83.78,Transparent Conductors,S10
+1555_A1035,Al2O3,86.0,CVD,PET,2.02,3.85,1.46,90.899762,81.84,Sensors,S7
+605_A1036,ZnO,79.3,Spin Coating,Glass,2.05,2.51,2.5,43.169072,95.4,Optoelectronics,S16
+2033_A1037,Al2O3,124.1,CVD,PET,2.36,1.16,4.2,43.654804,82.18,Solar Cells,S6
+917_A1038,ZnO,61.2,ALD,Quartz,1.63,1.11,2.66,32.750125,73.31,Solar Cells,S10
+2633_A1039,ZnO,136.3,CVD,Silicon Wafer,1.92,3.29,1.42,91.158176,82.5,Sensors,S22
+2338_A1040,MoS2,39.0,CVD,Silicon Wafer,2.67,3.47,2.14,70.399679,78.9,Sensors,S18
+2099_A1041,ITO,94.9,ALD,Silicon Wafer,1.65,1.11,2.76,76.854428,79.63,Solar Cells,S25
+2438_A1042,TiO2,150.6,ALD,PET,2.25,2.73,0.99,15.042927,72.85,Transparent Conductors,S19
+822_A1043,Al2O3,85.9,CVD,PET,1.92,1.81,2.42,10.642211,87.26,Sensors,S9
+2470_A1044,TiO2,63.5,CVD,Glass,2.68,2.65,4.47,87.672393,74.08,Transparent Conductors,S5
+1001_A1045,Graphene,94.2,Sputtering,Quartz,2.32,3.9,1.04,31.161246,73.58,Solar Cells,S5
+1704_A1046,Graphene,97.8,ALD,PET,1.73,3.65,2.96,25.554972,79.71,Sensors,S1
+19_A1047,SnO2,125.9,Spin Coating,PET,2.27,4.06,3.54,33.364189,80.8,Transparent Conductors,S25
+1778_A1048,SiO2,160.9,Thermal Evaporation,Quartz,2.88,1.73,4.24,72.395755,77.36,Solar Cells,S25
+1209_A1049,Al2O3,91.1,Thermal Evaporation,Glass,1.81,2.63,3.98,22.038498,93.83,Optoelectronics,S18
+2561_A1050,Al2O3,118.5,ALD,Quartz,1.58,1.39,3.51,84.317141,90.13,Solar Cells,S1
+1937_A1051,TiO2,77.8,Thermal Evaporation,Glass,1.83,2.43,2.98,58.711582,85.04,Optoelectronics,S11
+1719_A1052,SiO2,78.9,ALD,Quartz,2.85,1.61,2.52,4.315376,84.64,Sensors,S11
+1428_A1053,TiO2,163.0,Spin Coating,Glass,1.97,3.21,3.74,104.614467,83.4,Sensors,S20
+2242_A1054,SnO2,107.3,Thermal Evaporation,PET,2.14,1.72,4.5,54.211903,87.62,Sensors,S23
+2311_A1055,SiO2,85.0,CVD,Quartz,2.78,3.12,4.6,72.398364,79.19,Transparent Conductors,S12
+1358_A1056,SnO2,125.9,Thermal Evaporation,Glass,2.49,2.73,3.36,62.070782,84.78,Solar Cells,S25
+2058_A1057,Al2O3,133.8,Spin Coating,Quartz,2.91,1.49,3.87,42.000815,72.99,Sensors,S16
+361_A1058,SiO2,86.8,Sputtering,PET,1.78,2.19,4.54,71.264762,88.51,Sensors,S15
+2271_A1059,TiO2,98.5,Thermal Evaporation,Silicon Wafer,2.13,3.81,2.92,87.115809,77.54,Transparent Conductors,S21
+2085_A1060,TiO2,111.0,CVD,Glass,1.54,3.12,1.34,74.124419,71.01,Sensors,S25
+1565_A1061,MoS2,101.7,CVD,Quartz,1.96,3.87,3.61,26.24997,86.12,Sensors,S12
+345_A1062,MoS2,55.4,Sputtering,Silicon Wafer,2.68,1.17,1.4,15.774608,94.09,Solar Cells,S24
+987_A1063,TiO2,40.3,Spin Coating,Silicon Wafer,2.87,1.64,3.02,28.747377,73.36,Solar Cells,S3
+1261_A1064,TiO2,73.6,CVD,Glass,2.33,0.96,4.76,7.996353,72.3,Transparent Conductors,S12
+1714_A1065,Al2O3,107.4,Sputtering,Quartz,2.05,1.88,1.21,92.498611,75.3,Sensors,S18
+1721_A1066,MoS2,69.4,CVD,PET,1.79,2.42,3.68,1.662668,84.82,Solar Cells,S8
+2647_A1067,ITO,110.8,CVD,Quartz,2.55,1.22,1.61,29.000113,90.28,Sensors,S2
+2887_A1068,ZnO,38.7,Thermal Evaporation,Glass,2.88,2.44,4.84,38.047279,92.23,Transparent Conductors,S25
+1576_A1069,SnO2,101.4,Thermal Evaporation,Silicon Wafer,3.0,3.19,1.14,41.583868,80.93,Sensors,S15
+86_A1070,TiO2,116.6,Sputtering,PET,2.46,2.34,2.89,47.928867,94.18,Sensors,S12
+2064_A1071,ZnO,69.7,Spin Coating,Glass,2.63,1.03,2.86,40.287108,91.11,Transparent Conductors,S21
+669_A1072,TiO2,97.5,CVD,Silicon Wafer,2.61,1.46,3.34,43.17894,85.86,Sensors,S6
+1015_A1073,SiO2,98.0,ALD,Glass,2.76,1.14,0.61,66.614713,91.58,Solar Cells,S17
+129_A1074,Graphene,114.8,Thermal Evaporation,Silicon Wafer,1.53,3.89,1.78,8.569011,72.93,Optoelectronics,S6
+1874_A1075,Al2O3,112.5,Thermal Evaporation,Silicon Wafer,2.05,3.19,2.46,28.712167,76.58,Optoelectronics,S24
+1147_A1076,MoS2,113.3,ALD,PET,2.98,3.26,2.26,38.943355,95.34,Solar Cells,S7
+892_A1077,ITO,157.2,Spin Coating,Quartz,2.67,2.68,2.47,61.892439,72.09,Optoelectronics,S22
+2472_A1078,Al2O3,140.7,ALD,Quartz,1.56,1.9,3.41,10.904054,91.02,Sensors,S19
+308_A1079,MoS2,115.4,CVD,Glass,1.99,1.1,0.94,39.996772,79.01,Transparent Conductors,S4
+384_A1080,SnO2,52.6,Spin Coating,Silicon Wafer,1.79,2.13,3.06,72.181791,94.83,Solar Cells,S18
+1834_A1081,SnO2,140.9,ALD,PET,2.69,1.05,1.08,51.114584,93.68,Sensors,S23
+1128_A1082,ZnO,19.6,ALD,PET,2.89,1.65,1.01,26.651719,79.12,Optoelectronics,S23
+427_A1083,SiO2,183.1,Thermal Evaporation,Glass,2.97,1.22,1.25,84.767759,86.56,Sensors,S14
+495_A1084,SiO2,62.0,ALD,Quartz,2.16,2.11,3.96,92.330397,85.77,Transparent Conductors,S14
+1566_A1085,Al2O3,112.6,Sputtering,Glass,2.5,2.2,0.75,82.142444,84.37,Sensors,S22
+2792_A1086,Graphene,84.5,Spin Coating,PET,2.12,1.55,0.94,11.397117,90.68,Transparent Conductors,S1
+2612_A1087,TiO2,29.2,Sputtering,Glass,2.77,3.44,2.37,37.793471,94.83,Transparent Conductors,S24
+1252_A1088,Al2O3,88.4,Thermal Evaporation,PET,1.87,1.62,5.15,64.800152,69.49,Transparent Conductors,S22
+1296_A1089,Graphene,101.3,ALD,Glass,1.77,3.92,4.41,93.334076,75.32,Transparent Conductors,S13
+276_A1090,SnO2,59.0,ALD,Silicon Wafer,2.5,3.87,4.74,48.524404,71.3,Transparent Conductors,S6
+490_A1091,SiO2,163.7,ALD,PET,2.79,1.76,4.76,3.221896,70.63,Sensors,S15
+1958_A1092,TiO2,85.4,Thermal Evaporation,Glass,1.7,3.29,2.33,69.801309,89.39,Sensors,S25
+691_A1093,Graphene,66.8,CVD,Glass,2.3,3.59,4.36,68.915391,81.01,Sensors,S7
+2052_A1094,SiO2,53.7,Sputtering,Quartz,2.66,2.55,2.06,40.556252,91.0,Sensors,S2
+2239_A1095,Al2O3,73.7,CVD,PET,1.64,2.41,2.5,79.328297,79.34,Solar Cells,S22
+1243_A1096,Al2O3,121.9,CVD,Quartz,2.14,1.78,3.7,18.281395,74.99,Transparent Conductors,S13
+2674_A1097,TiO2,111.1,CVD,Glass,2.93,1.14,3.57,21.694572,79.07,Solar Cells,S15
+2080_A1098,SnO2,109.6,Thermal Evaporation,Silicon Wafer,2.39,1.86,3.54,20.31077,73.2,Transparent Conductors,S6
+1059_A1099,TiO2,100.9,CVD,Silicon Wafer,2.93,3.12,5.3,20.008403,84.34,Solar Cells,S17
+119_A1100,ITO,159.4,Spin Coating,Quartz,1.6,1.98,2.78,9.381293,82.95,Transparent Conductors,S7
+1996_A1101,ZnO,158.2,Thermal Evaporation,Quartz,2.53,3.72,1.64,42.913332,84.57,Optoelectronics,S4
+2286_A1102,SnO2,115.5,Spin Coating,Quartz,1.65,2.45,1.59,67.615585,88.93,Optoelectronics,S12
+282_A1103,MoS2,33.3,Spin Coating,Quartz,2.44,1.42,3.68,77.483031,80.04,Transparent Conductors,S9
+2808_A1104,SiO2,84.6,ALD,Silicon Wafer,2.24,2.52,1.33,8.308624,80.14,Optoelectronics,S25
+2336_A1105,SnO2,91.5,ALD,Glass,2.04,2.79,1.93,23.715892,80.8,Transparent Conductors,S25
+2763_A1106,ZnO,72.3,Spin Coating,Silicon Wafer,1.95,1.28,0.97,57.094494,87.21,Transparent Conductors,S4
+2946_A1107,ZnO,39.5,CVD,PET,2.77,3.56,0.67,5.669383,77.1,Transparent Conductors,S8
+1180_A1108,TiO2,59.1,Thermal Evaporation,Silicon Wafer,2.03,2.83,1.5,31.171522,88.66,Sensors,S15
+1603_A1109,SiO2,72.2,Spin Coating,Glass,2.95,1.7,2.79,74.82134,84.19,Sensors,S20
+2117_A1110,TiO2,110.1,Spin Coating,PET,1.55,3.71,1.65,101.506727,89.89,Optoelectronics,S4
+305_A1111,MoS2,103.1,Sputtering,Silicon Wafer,2.24,3.69,3.18,40.419327,72.28,Sensors,S23
+1845_A1112,ITO,81.8,ALD,Glass,2.26,3.02,3.88,33.760046,84.91,Transparent Conductors,S10
+1357_A1113,ZnO,84.4,ALD,Glass,1.68,3.41,5.05,36.83668,73.38,Transparent Conductors,S8
+2437_A1114,SiO2,114.1,Spin Coating,Glass,1.91,3.15,4.88,8.945317,74.38,Transparent Conductors,S10
+576_A1115,ZnO,172.2,Spin Coating,Glass,2.23,3.37,1.35,62.478211,75.52,Solar Cells,S1
+1872_A1116,Graphene,149.0,ALD,Silicon Wafer,2.77,2.95,4.37,84.502057,79.29,Transparent Conductors,S24
+2846_A1117,ITO,109.1,ALD,Glass,1.76,2.38,1.24,73.472034,74.19,Optoelectronics,S6
+2624_A1118,TiO2,110.0,Spin Coating,Glass,1.56,2.14,4.94,48.051838,81.01,Solar Cells,S11
+1418_A1119,ITO,94.9,Spin Coating,Quartz,1.71,2.09,3.18,5.175644,70.12,Solar Cells,S14
+1796_A1120,SiO2,84.2,Thermal Evaporation,PET,2.44,3.73,4.51,49.293156,78.32,Solar Cells,S16
+844_A1121,ZnO,75.6,ALD,Glass,2.57,2.73,3.42,45.229083,87.15,Transparent Conductors,S9
+2813_A1122,Graphene,56.0,ALD,PET,1.5,2.12,1.39,39.004669,75.58,Optoelectronics,S13
+270_A1123,ZnO,84.2,Thermal Evaporation,Silicon Wafer,1.58,2.47,4.5,44.060579,77.62,Sensors,S11
+630_A1124,TiO2,127.7,Sputtering,Silicon Wafer,1.85,2.67,0.62,29.469282,76.24,Transparent Conductors,S9
+1034_A1125,TiO2,162.6,ALD,Glass,2.36,2.28,2.15,29.386866,88.9,Sensors,S12
+287_A1126,TiO2,95.0,ALD,Quartz,1.89,2.45,4.98,103.562777,82.21,Sensors,S11
+2212_A1127,TiO2,133.5,CVD,Glass,2.98,3.81,2.06,5.800236,78.98,Optoelectronics,S15
+301_A1128,TiO2,101.2,Spin Coating,Silicon Wafer,2.59,1.01,4.6,82.235892,91.53,Sensors,S7
+1511_A1129,SnO2,115.0,Sputtering,Glass,1.84,1.77,1.5,88.415707,82.39,Optoelectronics,S3
+1812_A1130,Graphene,83.9,Thermal Evaporation,Quartz,1.78,3.96,2.19,73.022554,77.46,Sensors,S18
+66_A1131,MoS2,107.5,Sputtering,PET,1.98,2.04,3.72,32.700337,85.1,Sensors,S25
+2398_A1132,ITO,91.9,ALD,Silicon Wafer,2.11,1.32,2.92,42.745582,86.72,Transparent Conductors,S21
+891_A1133,MoS2,80.3,ALD,Glass,2.4,3.49,5.05,65.467048,83.27,Sensors,S11
+1768_A1134,MoS2,141.6,Thermal Evaporation,Quartz,1.65,2.86,1.3,65.815238,84.72,Optoelectronics,S13
+1732_A1135,MoS2,88.8,Sputtering,PET,2.68,2.35,2.24,63.380127,77.21,Optoelectronics,S8
+1377_A1136,SnO2,116.0,ALD,Quartz,1.7,1.61,2.55,62.687463,92.99,Transparent Conductors,S19
+231_A1137,Graphene,125.1,CVD,Glass,1.55,2.71,2.68,51.402003,91.37,Optoelectronics,S1
+504_A1138,MoS2,101.9,Thermal Evaporation,PET,2.8,2.23,0.56,34.504531,94.22,Sensors,S1
+2460_A1139,MoS2,72.4,ALD,Silicon Wafer,2.82,1.73,3.87,14.500756,77.55,Solar Cells,S7
+1351_A1140,Graphene,91.8,Thermal Evaporation,Glass,2.74,2.98,2.33,89.424491,83.49,Transparent Conductors,S22
+1445_A1141,Graphene,100.0,Sputtering,PET,2.97,0.99,4.93,59.056887,76.7,Sensors,S18
+2552_A1142,SiO2,175.2,Spin Coating,Silicon Wafer,2.11,2.48,2.64,84.160445,92.02,Sensors,S14
+1005_A1143,MoS2,70.4,Spin Coating,Quartz,1.8,2.22,1.59,5.279849,73.75,Solar Cells,S12
+837_A1144,Al2O3,127.2,CVD,Quartz,2.03,3.9,5.25,34.785323,81.0,Transparent Conductors,S15
+1589_A1145,Graphene,124.5,CVD,Glass,2.15,3.26,3.66,27.522636,76.1,Transparent Conductors,S6
+375_A1146,Al2O3,131.5,ALD,PET,1.78,3.62,1.48,23.255556,73.02,Transparent Conductors,S10
+1353_A1147,Graphene,130.9,CVD,PET,2.64,1.92,3.28,38.58207,86.81,Transparent Conductors,S11
+2111_A1148,SnO2,87.0,CVD,Glass,1.46,1.96,4.29,82.290563,80.34,Sensors,S6
+1787_A1149,TiO2,97.3,Sputtering,Silicon Wafer,1.93,2.6,1.33,25.334214,91.95,Optoelectronics,S17
+1804_A1150,SnO2,63.5,Sputtering,Silicon Wafer,2.71,1.19,0.85,25.482184,88.44,Sensors,S5
+2072_A1151,ITO,104.6,Thermal Evaporation,Silicon Wafer,1.9,2.44,2.94,61.193535,83.96,Optoelectronics,S16
+752_A1152,ITO,115.5,Sputtering,Silicon Wafer,2.35,1.25,3.43,94.764171,73.13,Optoelectronics,S16
+100_A1153,TiO2,108.3,Sputtering,Silicon Wafer,2.06,2.33,4.05,83.482713,92.6,Solar Cells,S23
+1724_A1154,SnO2,130.7,ALD,Glass,2.44,1.21,2.52,34.984682,92.52,Solar Cells,S21
+867_A1155,SiO2,156.6,ALD,Glass,2.89,2.94,4.03,11.199146,80.54,Optoelectronics,S22
+911_A1156,SnO2,42.4,Thermal Evaporation,PET,1.61,1.01,0.93,48.341688,88.29,Solar Cells,S9
+2010_A1157,ITO,104.7,CVD,Silicon Wafer,2.46,3.0,3.58,86.392065,77.51,Optoelectronics,S6
+530_A1158,SiO2,94.0,Thermal Evaporation,PET,2.38,3.83,0.62,37.14688,94.62,Optoelectronics,S25
+637_A1159,Al2O3,126.2,Sputtering,PET,2.51,1.56,1.64,71.366807,73.97,Sensors,S14
+186_A1160,SnO2,113.8,ALD,Silicon Wafer,2.46,2.0,3.36,72.908028,94.85,Solar Cells,S14
+1188_A1161,TiO2,88.5,Thermal Evaporation,Silicon Wafer,1.78,2.3,1.07,3.401577,85.34,Solar Cells,S21
+1972_A1162,SnO2,122.9,Thermal Evaporation,PET,2.75,2.15,0.49,41.30977,85.0,Sensors,S21
+932_A1163,Al2O3,136.0,Spin Coating,PET,2.45,1.46,1.79,22.818068,81.62,Optoelectronics,S12
+1382_A1164,TiO2,143.3,Sputtering,PET,2.35,2.5,2.37,64.160607,93.84,Optoelectronics,S17
+2296_A1165,ZnO,80.0,Spin Coating,Quartz,2.34,1.26,3.72,0.77339,73.51,Transparent Conductors,S20
+2383_A1166,Al2O3,68.8,Thermal Evaporation,Quartz,2.13,3.64,0.77,98.369692,92.26,Solar Cells,S19
+2402_A1167,ZnO,76.8,CVD,PET,1.64,3.57,3.23,81.805908,88.05,Sensors,S22
+2000_A1168,SnO2,92.3,Thermal Evaporation,PET,2.46,2.95,3.96,76.714175,85.91,Optoelectronics,S5
+608_A1169,SiO2,88.3,Thermal Evaporation,PET,2.12,3.07,1.26,53.895292,80.44,Transparent Conductors,S17
+2897_A1170,Al2O3,113.7,CVD,PET,2.53,3.27,4.38,86.789875,71.9,Sensors,S7
+152_A1171,SnO2,97.7,Spin Coating,Glass,1.98,2.84,2.25,73.716809,79.34,Optoelectronics,S16
+1284_A1172,Al2O3,126.4,Sputtering,PET,2.55,2.55,1.37,78.193332,73.29,Optoelectronics,S23
+2263_A1173,Graphene,100.2,ALD,Quartz,2.4,3.72,0.95,93.622691,87.47,Transparent Conductors,S21
+732_A1174,ITO,84.9,Thermal Evaporation,PET,2.02,1.45,1.37,6.938128,80.84,Solar Cells,S5
+1338_A1175,Graphene,82.4,CVD,Glass,2.9,2.7,2.89,106.281143,82.57,Solar Cells,S5
+1599_A1176,MoS2,118.2,Spin Coating,PET,2.2,3.71,4.41,1.934859,77.7,Sensors,S12
+2841_A1177,SnO2,52.1,ALD,PET,2.7,1.6,1.4,86.186044,71.08,Optoelectronics,S19
+24_A1178,ITO,124.4,ALD,Quartz,2.45,1.95,3.72,54.508647,88.05,Optoelectronics,S8
+2858_A1179,SiO2,133.0,Spin Coating,Quartz,1.98,2.87,5.06,16.888444,84.5,Optoelectronics,S14
+159_A1180,SiO2,122.1,Sputtering,Quartz,2.34,3.25,1.89,89.204626,79.17,Optoelectronics,S2
+862_A1181,SiO2,49.2,Thermal Evaporation,Glass,1.86,1.15,0.61,57.724537,79.78,Transparent Conductors,S6
+903_A1182,SnO2,164.8,Sputtering,Glass,2.62,2.79,3.46,41.156754,71.23,Solar Cells,S12
+2656_A1183,Graphene,118.5,ALD,PET,2.73,2.12,2.84,64.949811,81.02,Optoelectronics,S13
+2938_A1184,Al2O3,70.2,Spin Coating,PET,1.92,1.47,5.02,65.800835,73.92,Optoelectronics,S14
+445_A1185,SnO2,63.9,Spin Coating,Glass,1.55,2.86,3.08,20.039557,89.87,Sensors,S23
+2939_A1186,TiO2,92.9,CVD,Silicon Wafer,2.83,1.66,2.82,83.206293,72.25,Transparent Conductors,S3
+755_A1187,Al2O3,69.7,Thermal Evaporation,PET,2.46,3.83,4.02,65.807848,81.13,Solar Cells,S19
+924_A1188,SiO2,83.9,Spin Coating,Silicon Wafer,2.8,2.72,2.59,51.615666,82.57,Optoelectronics,S20
+2971_A1189,TiO2,104.7,Sputtering,Quartz,2.05,1.18,4.47,99.733708,75.15,Transparent Conductors,S23
+2103_A1190,ITO,100.2,Sputtering,Quartz,2.49,2.13,1.98,70.926061,86.61,Sensors,S23
+312_A1191,ITO,103.8,ALD,Quartz,2.28,3.64,1.16,90.341775,82.38,Sensors,S3
+549_A1192,Al2O3,106.2,ALD,PET,2.34,3.37,3.95,24.06618,74.98,Transparent Conductors,S11
+1946_A1193,Graphene,122.7,Thermal Evaporation,Silicon Wafer,2.29,1.81,1.0,9.351917,89.97,Sensors,S10
+1457_A1194,Al2O3,107.5,Thermal Evaporation,Silicon Wafer,2.72,1.74,3.58,39.99156,77.1,Solar Cells,S7
+307_A1195,ITO,94.9,Sputtering,PET,2.67,1.08,1.82,32.384216,72.88,Optoelectronics,S24
+288_A1196,SnO2,112.9,Sputtering,Quartz,1.8,3.29,1.67,101.580594,94.16,Solar Cells,S21
+695_A1197,Graphene,167.8,Sputtering,Glass,1.99,3.06,4.65,34.830496,86.81,Optoelectronics,S5
+309_A1198,ITO,133.0,CVD,Glass,2.52,2.48,1.36,82.278858,81.26,Sensors,S23
+2321_A1199,ITO,96.6,Spin Coating,Glass,1.8,3.56,1.91,1.556743,94.95,Optoelectronics,S15
+750_A1200,ZnO,142.1,Sputtering,Quartz,1.94,3.35,4.53,15.176692,72.51,Optoelectronics,S24
+2816_A1201,TiO2,125.0,Thermal Evaporation,Quartz,2.37,3.5,1.81,36.442172,76.98,Transparent Conductors,S20
+1240_A1202,ZnO,88.2,Sputtering,PET,1.79,1.22,3.92,13.736301,80.6,Transparent Conductors,S17
+909_A1203,SnO2,52.1,Sputtering,Glass,2.61,2.92,0.91,69.097027,77.19,Optoelectronics,S12
+1881_A1204,ZnO,37.9,Thermal Evaporation,Quartz,2.52,1.2,4.69,86.448917,86.79,Optoelectronics,S6
+2381_A1205,MoS2,33.1,Thermal Evaporation,Glass,2.84,3.62,0.53,28.311986,76.08,Optoelectronics,S4
+1407_A1206,SnO2,129.6,ALD,Silicon Wafer,2.31,1.45,2.87,0.606014,88.7,Optoelectronics,S21
+2495_A1207,ZnO,66.9,Thermal Evaporation,PET,1.81,1.43,0.87,55.325137,85.41,Solar Cells,S3
+971_A1208,SnO2,81.2,Sputtering,Glass,2.98,2.77,2.08,86.123701,78.81,Optoelectronics,S19
+14_A1209,ITO,97.9,Thermal Evaporation,Quartz,1.83,1.17,3.31,26.77924,88.47,Solar Cells,S17
+874_A1210,SnO2,76.7,Thermal Evaporation,Silicon Wafer,1.53,3.46,4.48,75.103243,82.5,Optoelectronics,S6
+809_A1211,MoS2,113.4,CVD,Silicon Wafer,2.66,2.48,4.07,42.23687,89.81,Sensors,S8
+2579_A1212,ZnO,134.6,ALD,Silicon Wafer,1.51,1.12,2.96,77.116265,78.56,Transparent Conductors,S1
+515_A1213,ITO,111.1,CVD,Glass,2.29,2.37,4.49,73.2824,82.44,Transparent Conductors,S12
+2414_A1214,SnO2,57.5,Spin Coating,Quartz,1.8,2.87,4.21,44.012368,72.11,Optoelectronics,S17
+410_A1215,SiO2,100.9,ALD,Quartz,2.99,2.3,4.11,106.94527,81.04,Optoelectronics,S13
+2834_A1216,SnO2,44.8,Spin Coating,Quartz,2.79,3.54,3.24,51.124122,82.58,Optoelectronics,S17
+2260_A1217,Al2O3,65.4,Spin Coating,PET,1.52,3.5,5.09,77.524737,86.6,Transparent Conductors,S10
+2824_A1218,MoS2,116.5,Spin Coating,Glass,1.96,2.95,2.69,30.920959,93.87,Transparent Conductors,S4
+1226_A1219,Al2O3,104.6,Sputtering,PET,2.23,3.58,1.4,58.428383,81.65,Optoelectronics,S4
+1656_A1220,ITO,145.9,CVD,Quartz,2.24,3.5,4.3,9.642574,86.88,Transparent Conductors,S18
+1611_A1221,Al2O3,64.4,Spin Coating,Silicon Wafer,1.52,1.77,4.12,19.928346,75.53,Sensors,S7
+383_A1222,Graphene,89.8,ALD,Quartz,1.99,2.12,3.23,9.236386,80.59,Transparent Conductors,S22
+2107_A1223,SiO2,71.0,Thermal Evaporation,Quartz,1.91,1.4,2.57,17.887653,72.5,Solar Cells,S10
+2188_A1224,Graphene,66.9,Sputtering,Quartz,2.4,2.51,1.22,82.333162,71.01,Optoelectronics,S3
+1622_A1225,ZnO,58.1,Spin Coating,Silicon Wafer,1.53,3.49,3.97,49.987059,83.1,Sensors,S3
+2832_A1226,MoS2,99.8,Spin Coating,PET,2.53,1.21,4.79,66.672989,91.27,Transparent Conductors,S23
+553_A1227,MoS2,87.2,Sputtering,Silicon Wafer,2.75,2.1,2.73,76.078786,77.84,Transparent Conductors,S12
+223_A1228,SnO2,120.9,Sputtering,Glass,1.71,1.89,2.59,80.860452,72.85,Transparent Conductors,S21
+1097_A1229,ZnO,83.9,Thermal Evaporation,Glass,2.48,3.82,4.38,102.206837,80.66,Solar Cells,S21
+2755_A1230,MoS2,123.4,Spin Coating,Silicon Wafer,2.02,3.97,1.61,1.040835,89.34,Solar Cells,S11
+9_A1231,Graphene,100.4,CVD,Silicon Wafer,2.35,1.32,1.37,36.559153,78.46,Sensors,S10
+1477_A1232,ZnO,130.5,Sputtering,PET,1.81,3.73,3.43,105.826852,86.84,Sensors,S3
+317_A1233,TiO2,124.3,Spin Coating,Quartz,2.7,3.08,4.04,9.144071,74.41,Transparent Conductors,S2
+428_A1234,SnO2,77.4,Thermal Evaporation,Glass,2.75,2.57,2.41,32.189441,80.55,Solar Cells,S10
+1986_A1235,SnO2,88.0,Spin Coating,Quartz,2.22,3.32,2.25,94.705088,70.96,Optoelectronics,S4
+106_A1236,Graphene,120.9,Spin Coating,Glass,2.06,1.14,3.69,62.876267,93.42,Sensors,S11
+2016_A1237,Graphene,72.0,Spin Coating,Quartz,2.11,3.59,2.71,20.876345,78.89,Optoelectronics,S9
+143_A1238,Graphene,90.6,Spin Coating,Silicon Wafer,1.63,1.65,4.59,10.794038,85.02,Sensors,S7
+122_A1239,SnO2,77.0,Sputtering,Glass,2.31,3.01,4.41,60.868262,88.97,Optoelectronics,S21
+2372_A1240,Graphene,76.4,CVD,Glass,1.56,3.84,2.28,64.546113,84.55,Optoelectronics,S5
+2866_A1241,SiO2,91.5,Thermal Evaporation,Glass,2.32,2.47,3.97,29.913191,85.3,Sensors,S18
+1190_A1242,Al2O3,126.1,Sputtering,Quartz,2.14,1.61,2.73,48.478157,83.72,Solar Cells,S5
+2962_A1243,ITO,109.2,Sputtering,PET,1.85,1.77,1.45,96.226769,81.52,Optoelectronics,S14
+2601_A1244,Al2O3,112.5,ALD,PET,1.56,2.99,2.63,43.087702,88.48,Transparent Conductors,S16
+1658_A1245,Graphene,119.6,ALD,PET,2.5,3.02,2.21,68.015043,76.79,Sensors,S13
+116_A1246,MoS2,82.0,Thermal Evaporation,Glass,1.5,3.26,2.36,23.417644,70.44,Sensors,S3
+1406_A1247,MoS2,93.4,CVD,Silicon Wafer,2.52,0.91,1.39,34.920438,76.04,Solar Cells,S9
+1512_A1248,Graphene,41.6,ALD,Quartz,2.27,3.44,4.47,79.313917,82.57,Transparent Conductors,S24
+2493_A1249,Al2O3,127.4,Thermal Evaporation,Quartz,2.53,1.22,4.08,59.733602,84.93,Solar Cells,S23
+2798_A1250,Graphene,76.0,Sputtering,PET,2.89,1.95,2.26,3.698385,94.31,Sensors,S13
+2949_A1251,SnO2,95.0,ALD,PET,1.63,3.14,4.05,84.345562,90.59,Solar Cells,S8
+1597_A1252,TiO2,59.0,CVD,PET,2.73,1.03,1.11,97.023927,78.76,Solar Cells,S14
+2890_A1253,MoS2,106.4,ALD,Glass,2.83,2.89,0.57,58.527864,92.37,Optoelectronics,S9
+673_A1254,TiO2,103.3,ALD,Glass,1.84,2.85,1.69,12.269266,94.4,Solar Cells,S1
+1432_A1255,MoS2,68.5,Thermal Evaporation,PET,1.51,2.37,4.13,59.368708,75.21,Solar Cells,S15
+2173_A1256,ZnO,22.7,Spin Coating,Silicon Wafer,1.65,3.43,4.39,44.408653,92.42,Transparent Conductors,S25
+592_A1257,ITO,142.0,Spin Coating,Silicon Wafer,1.89,3.76,1.54,100.528762,75.2,Solar Cells,S7
+1403_A1258,ITO,102.8,Spin Coating,Quartz,2.02,1.88,2.55,52.597511,79.75,Sensors,S18
+889_A1259,Al2O3,84.8,ALD,Silicon Wafer,2.46,2.46,3.23,95.918656,82.98,Transparent Conductors,S12
+1755_A1260,ITO,137.8,Thermal Evaporation,Glass,1.75,1.52,1.47,54.800538,90.4,Solar Cells,S6
+1367_A1261,SiO2,105.4,Spin Coating,Quartz,1.67,2.75,1.84,92.883437,71.0,Sensors,S8
+2397_A1262,ITO,65.1,CVD,PET,2.39,3.04,4.24,31.702052,78.9,Sensors,S16
+214_A1263,MoS2,143.4,ALD,Quartz,2.93,2.33,4.41,3.839622,93.04,Sensors,S5
+2008_A1264,SnO2,34.5,ALD,PET,2.47,3.68,4.24,92.027914,87.76,Sensors,S21
+2149_A1265,Graphene,96.7,CVD,Silicon Wafer,1.84,3.26,1.91,40.428876,70.31,Optoelectronics,S9
+801_A1266,Al2O3,62.4,ALD,Silicon Wafer,1.51,3.94,4.95,16.581384,81.45,Solar Cells,S13
+2481_A1267,ZnO,124.2,Thermal Evaporation,Quartz,2.89,1.85,1.23,32.499026,95.37,Optoelectronics,S22
+2440_A1268,SiO2,141.9,Thermal Evaporation,Glass,2.2,1.25,1.09,77.217909,83.44,Optoelectronics,S17
+2284_A1269,Al2O3,54.2,Spin Coating,PET,2.77,2.1,2.6,38.388455,73.63,Solar Cells,S15
+2663_A1270,SnO2,117.2,CVD,Silicon Wafer,1.57,3.95,2.01,34.813101,69.56,Solar Cells,S3
+2712_A1271,TiO2,105.4,CVD,Silicon Wafer,1.65,3.72,2.83,91.303016,78.21,Optoelectronics,S5
+274_A1272,MoS2,147.5,Thermal Evaporation,Glass,2.92,1.27,2.96,58.320592,90.31,Transparent Conductors,S16
+72_A1273,TiO2,96.3,Spin Coating,Silicon Wafer,1.71,2.32,4.33,54.532723,77.83,Optoelectronics,S2
+1790_A1274,ITO,114.5,ALD,Glass,1.55,2.42,3.93,75.489868,86.75,Transparent Conductors,S15
+1088_A1275,ZnO,119.7,CVD,Silicon Wafer,2.24,2.4,4.04,76.362139,93.81,Optoelectronics,S13
+395_A1276,Al2O3,99.1,Thermal Evaporation,Glass,2.5,3.47,4.57,27.145659,93.66,Transparent Conductors,S6
+584_A1277,SnO2,85.1,ALD,Quartz,1.89,1.34,1.58,63.777905,91.83,Solar Cells,S13
+2081_A1278,ZnO,52.1,Thermal Evaporation,Quartz,2.19,3.88,1.16,16.271466,87.68,Optoelectronics,S10
+1981_A1279,SiO2,120.7,Sputtering,PET,2.68,2.01,1.72,34.154185,72.51,Sensors,S14
+501_A1280,TiO2,104.3,ALD,PET,2.71,2.51,4.46,79.125122,90.94,Sensors,S11
+2015_A1281,ITO,75.8,CVD,Quartz,3.01,2.9,0.93,3.743167,93.3,Transparent Conductors,S24
+2224_A1282,Graphene,75.0,CVD,Quartz,2.71,1.53,1.33,52.29393,75.18,Transparent Conductors,S7
+2980_A1283,ITO,105.7,Thermal Evaporation,Quartz,1.82,1.51,1.26,58.980716,83.67,Sensors,S4
+2741_A1284,Al2O3,90.9,ALD,Glass,1.99,2.49,0.84,30.510023,74.33,Transparent Conductors,S15
+2319_A1285,Al2O3,114.3,Thermal Evaporation,Glass,2.1,1.97,1.95,38.419492,75.2,Sensors,S22
+1260_A1286,SiO2,125.0,Thermal Evaporation,Glass,2.78,3.19,4.16,45.264399,86.27,Solar Cells,S6
+1743_A1287,MoS2,129.4,ALD,Silicon Wafer,2.52,3.67,3.07,94.816817,74.15,Solar Cells,S15
+206_A1288,ZnO,89.8,CVD,Quartz,2.41,2.89,5.07,48.123262,68.97,Transparent Conductors,S15
+734_A1289,Graphene,58.9,CVD,Silicon Wafer,1.54,3.1,1.83,41.781939,75.1,Sensors,S5
+2503_A1290,ITO,149.1,ALD,Quartz,1.72,3.03,1.6,56.882686,92.95,Sensors,S17
+527_A1291,Graphene,119.1,Spin Coating,Glass,2.56,3.32,1.8,2.448682,75.52,Solar Cells,S23
+1376_A1292,ZnO,144.6,ALD,PET,2.03,2.77,0.68,83.685114,68.24,Solar Cells,S6
+899_A1293,MoS2,113.9,CVD,PET,2.15,1.35,0.76,94.997093,95.44,Solar Cells,S21
+378_A1294,ITO,53.0,Sputtering,Silicon Wafer,2.7,1.66,4.03,24.798168,87.09,Transparent Conductors,S14
+1727_A1295,TiO2,112.2,Sputtering,Glass,1.5,3.94,3.54,80.452653,93.94,Transparent Conductors,S5
+2683_A1296,MoS2,120.1,Spin Coating,Glass,2.18,3.49,1.75,98.5126,95.49,Transparent Conductors,S18
+2723_A1297,Al2O3,51.0,Sputtering,PET,3.03,2.1,4.9,59.920703,78.22,Optoelectronics,S14
+387_A1298,SiO2,117.6,Spin Coating,PET,1.86,2.18,2.92,91.152891,82.54,Transparent Conductors,S10
+199_A1299,ITO,76.0,Thermal Evaporation,Glass,1.76,1.48,2.19,46.364554,93.16,Transparent Conductors,S14
+1051_A1300,TiO2,98.4,CVD,PET,1.92,3.13,1.49,59.023994,81.17,Optoelectronics,S10
+591_A1301,MoS2,30.3,CVD,Silicon Wafer,2.09,1.01,2.45,49.488329,80.61,Sensors,S25
+520_A1302,ITO,101.7,ALD,Silicon Wafer,2.2,3.09,1.32,92.773874,72.49,Solar Cells,S17
+2951_A1303,MoS2,89.6,ALD,Silicon Wafer,1.61,3.61,4.6,33.910703,86.57,Sensors,S6
+430_A1304,Graphene,105.4,Sputtering,PET,1.81,1.16,2.48,0.391993,96.48,Sensors,S19
+1084_A1305,SiO2,119.4,Sputtering,Silicon Wafer,1.75,3.72,3.55,24.318532,86.59,Optoelectronics,S13
+208_A1306,Al2O3,90.8,Spin Coating,Glass,2.0,1.29,4.36,70.493643,88.23,Solar Cells,S25
+492_A1307,SiO2,60.5,Spin Coating,Glass,2.64,3.23,1.29,1.670783,85.74,Solar Cells,S11
+1610_A1308,MoS2,52.6,Sputtering,Glass,1.68,1.57,3.91,41.066849,88.84,Solar Cells,S22
+2913_A1309,TiO2,130.8,Spin Coating,Glass,2.48,3.65,5.0,58.621235,80.38,Sensors,S1
+793_A1310,Al2O3,137.9,Spin Coating,Silicon Wafer,2.76,2.33,4.41,84.146245,83.3,Solar Cells,S19
+2020_A1311,TiO2,130.1,Sputtering,PET,2.84,1.34,2.33,27.340038,93.61,Sensors,S9
+1187_A1312,ITO,70.5,ALD,PET,2.35,2.25,4.92,18.152649,87.52,Solar Cells,S9
+1186_A1313,MoS2,122.0,CVD,Glass,2.38,3.87,3.63,53.091067,90.0,Transparent Conductors,S5
+2182_A1314,ZnO,114.2,ALD,PET,1.74,1.36,0.72,6.089686,78.53,Solar Cells,S10
+1341_A1315,SiO2,115.7,ALD,Quartz,2.28,1.66,0.93,2.676629,73.3,Transparent Conductors,S7
+2233_A1316,SnO2,96.9,ALD,PET,2.97,1.04,1.89,36.058587,84.32,Optoelectronics,S13
+84_A1317,Graphene,92.9,CVD,PET,2.46,2.58,3.65,76.838363,77.93,Sensors,S3
+2370_A1318,SiO2,108.2,Thermal Evaporation,Quartz,1.54,1.09,2.33,21.991897,86.26,Transparent Conductors,S3
+2227_A1319,ZnO,86.1,Thermal Evaporation,Quartz,1.97,1.63,2.0,103.84338,92.27,Optoelectronics,S10
+21_A1320,SnO2,116.5,CVD,PET,1.94,3.42,3.7,71.358851,81.93,Solar Cells,S18
+1379_A1321,Graphene,94.3,Sputtering,Quartz,1.99,1.31,1.25,100.257125,75.8,Transparent Conductors,S10
+1559_A1322,Al2O3,138.6,Spin Coating,Glass,1.73,2.67,0.71,43.034036,71.29,Transparent Conductors,S21
+1939_A1323,SiO2,131.7,Spin Coating,Quartz,1.82,2.39,0.81,77.812339,82.69,Transparent Conductors,S18
+2838_A1324,Al2O3,107.2,CVD,Glass,1.52,2.31,2.43,54.125895,72.64,Sensors,S6
+1938_A1325,SnO2,131.0,Thermal Evaporation,Glass,2.89,2.69,4.47,2.905947,69.73,Sensors,S10
+974_A1326,SnO2,94.0,CVD,PET,2.61,2.49,1.4,2.416129,87.81,Optoelectronics,S17
+2790_A1327,SnO2,109.9,Thermal Evaporation,Glass,1.96,3.95,4.3,36.896715,85.39,Solar Cells,S16
+884_A1328,SnO2,108.9,Spin Coating,PET,1.82,2.42,3.37,52.427939,77.87,Optoelectronics,S19
+1099_A1329,MoS2,94.6,Sputtering,Silicon Wafer,2.61,1.79,4.88,60.935286,88.65,Optoelectronics,S15
+157_A1330,Al2O3,90.8,Sputtering,Quartz,2.78,2.52,1.75,88.188747,89.3,Solar Cells,S5
+2277_A1331,SnO2,96.7,Spin Coating,Silicon Wafer,1.91,2.51,1.75,64.096773,75.07,Sensors,S25
+887_A1332,MoS2,92.6,Spin Coating,PET,2.26,2.05,0.52,59.720559,75.7,Solar Cells,S13
+2999_A1333,MoS2,131.9,Thermal Evaporation,Glass,1.79,1.98,1.15,86.637034,86.53,Solar Cells,S15
+1592_A1334,SnO2,47.9,Sputtering,PET,2.26,3.85,3.92,46.571209,84.65,Solar Cells,S6
+2479_A1335,MoS2,126.8,Thermal Evaporation,Glass,1.59,1.78,3.98,12.188275,96.01,Sensors,S19
+2718_A1336,SnO2,65.6,CVD,PET,2.29,3.8,4.41,78.796595,81.67,Solar Cells,S23
+2535_A1337,Al2O3,67.9,ALD,Silicon Wafer,2.63,3.67,3.29,33.415141,74.42,Transparent Conductors,S11
+2118_A1338,ZnO,143.9,Thermal Evaporation,PET,1.86,3.5,4.7,108.129692,89.85,Sensors,S8
+1473_A1339,Al2O3,111.7,CVD,Quartz,1.66,0.96,1.96,25.640003,90.1,Sensors,S13
+2649_A1340,SnO2,23.4,Sputtering,Silicon Wafer,1.77,2.39,3.6,56.126712,70.15,Optoelectronics,S17
+459_A1341,TiO2,108.3,ALD,Glass,2.37,2.72,1.37,20.948241,76.61,Transparent Conductors,S25
+2499_A1342,SnO2,106.2,Sputtering,Quartz,2.88,1.36,2.14,45.571037,86.59,Transparent Conductors,S17
+79_A1343,TiO2,130.7,Thermal Evaporation,Quartz,2.88,1.33,2.72,97.225669,95.36,Transparent Conductors,S12
+2915_A1344,MoS2,86.0,CVD,Glass,1.9,2.79,0.75,93.18574,77.24,Solar Cells,S12
+1057_A1345,SnO2,65.7,Sputtering,Glass,1.62,1.77,4.56,62.003638,88.97,Solar Cells,S9
+907_A1346,SiO2,164.2,CVD,Silicon Wafer,1.48,3.78,4.09,14.789891,80.24,Sensors,S4
+1564_A1347,Al2O3,111.0,Thermal Evaporation,PET,1.55,2.49,0.62,7.236243,96.0,Sensors,S13
+2427_A1348,ZnO,100.4,CVD,PET,1.58,2.85,3.09,3.328522,72.56,Solar Cells,S24
+2697_A1349,SiO2,92.8,CVD,Silicon Wafer,1.59,2.09,3.23,37.491534,74.81,Sensors,S18
+381_A1350,ZnO,122.1,Thermal Evaporation,Glass,2.55,3.05,2.4,90.935565,77.35,Transparent Conductors,S3
+948_A1351,ZnO,98.4,CVD,Glass,2.65,1.37,1.55,83.744923,91.97,Optoelectronics,S1
+1713_A1352,ZnO,116.8,Thermal Evaporation,PET,2.45,1.18,2.51,100.978649,92.1,Sensors,S5
+2757_A1353,ZnO,95.1,Thermal Evaporation,Quartz,2.3,0.95,1.55,71.940294,70.99,Solar Cells,S13
+716_A1354,MoS2,86.4,Sputtering,Quartz,2.39,3.41,2.1,60.832724,79.41,Transparent Conductors,S13
+1914_A1355,SnO2,129.6,Sputtering,PET,1.62,1.49,4.11,51.6446,76.88,Solar Cells,S3
+687_A1356,Graphene,64.2,Sputtering,PET,2.18,2.96,2.53,51.563896,83.0,Transparent Conductors,S14
+2671_A1357,ZnO,77.7,ALD,PET,2.32,3.69,3.24,57.65427,87.56,Transparent Conductors,S20
+1294_A1358,ZnO,89.3,ALD,Silicon Wafer,1.87,3.42,2.99,92.233504,95.08,Solar Cells,S16
+306_A1359,TiO2,102.1,Sputtering,Quartz,2.77,2.07,2.87,44.64906,84.37,Transparent Conductors,S7
+210_A1360,Al2O3,94.5,Spin Coating,Quartz,1.9,2.72,3.81,76.506777,90.38,Transparent Conductors,S19
+2012_A1361,ZnO,58.3,CVD,PET,2.05,2.53,0.71,70.879678,92.35,Solar Cells,S16
+2222_A1362,ITO,114.5,ALD,PET,2.2,1.55,1.29,79.769473,79.25,Solar Cells,S16
+2976_A1363,ITO,94.1,Thermal Evaporation,Silicon Wafer,1.79,1.47,3.16,18.794032,74.67,Sensors,S19
+1538_A1364,ZnO,162.9,Sputtering,Silicon Wafer,2.92,1.67,2.9,57.082598,90.73,Sensors,S14
+886_A1365,Al2O3,98.9,ALD,Quartz,2.71,3.5,4.63,20.542658,83.59,Sensors,S8
+1860_A1366,Al2O3,76.2,Sputtering,Glass,2.97,1.36,1.14,98.08322,86.19,Optoelectronics,S18
+918_A1367,MoS2,62.2,Thermal Evaporation,Silicon Wafer,2.42,3.05,2.42,19.490275,69.73,Sensors,S1
+1887_A1368,Al2O3,109.4,CVD,PET,2.73,1.62,3.12,60.552358,69.92,Optoelectronics,S9
+1661_A1369,ITO,81.2,Thermal Evaporation,Glass,1.73,1.21,4.05,18.684892,86.05,Sensors,S4
+192_A1370,ITO,89.7,Thermal Evaporation,Silicon Wafer,2.75,2.49,4.51,19.206288,78.7,Transparent Conductors,S15
+1748_A1371,ZnO,126.8,Sputtering,Silicon Wafer,1.83,2.35,0.89,36.362701,69.3,Sensors,S3
+2132_A1372,SnO2,130.9,ALD,Silicon Wafer,1.71,3.73,1.59,97.028668,91.96,Sensors,S5
+1266_A1373,TiO2,87.9,CVD,Glass,1.94,2.85,4.42,71.482352,93.44,Optoelectronics,S16
+484_A1374,TiO2,170.3,Thermal Evaporation,Quartz,1.99,1.95,3.28,38.551642,81.49,Optoelectronics,S6
+916_A1375,ZnO,112.9,ALD,Glass,1.59,2.69,2.75,62.206713,83.83,Optoelectronics,S20
+2600_A1376,SnO2,121.7,CVD,Glass,2.59,3.68,3.12,22.187939,91.09,Solar Cells,S4
+278_A1377,SnO2,91.6,Spin Coating,PET,2.72,3.3,1.57,46.801295,78.64,Transparent Conductors,S5
+989_A1378,SnO2,115.3,Thermal Evaporation,PET,2.34,0.98,2.59,94.693334,92.62,Optoelectronics,S12
+1988_A1379,MoS2,106.3,CVD,Glass,1.76,1.59,4.17,50.042692,76.87,Sensors,S7
+1895_A1380,ITO,68.2,Thermal Evaporation,Quartz,2.75,3.9,1.07,82.157298,87.43,Solar Cells,S7
+1870_A1381,ZnO,80.5,ALD,Glass,2.63,1.47,1.87,62.434674,86.57,Sensors,S10
+572_A1382,TiO2,87.7,CVD,PET,2.27,3.39,4.3,12.728704,87.3,Solar Cells,S10
+994_A1383,MoS2,77.4,Spin Coating,Quartz,1.6,3.45,1.14,42.813613,76.11,Transparent Conductors,S20
+2796_A1384,Graphene,87.7,Thermal Evaporation,Silicon Wafer,2.48,2.15,3.81,95.812984,73.03,Solar Cells,S15
+2947_A1385,Al2O3,113.1,Spin Coating,PET,2.23,2.79,2.94,1.731043,82.07,Sensors,S20
+586_A1386,Al2O3,94.9,Sputtering,PET,1.76,2.14,2.52,49.531544,72.91,Optoelectronics,S19
+2329_A1387,SiO2,88.7,Thermal Evaporation,Quartz,1.47,3.42,2.95,0.314328,76.11,Transparent Conductors,S13
+2994_A1388,SiO2,100.6,Spin Coating,Silicon Wafer,2.52,2.03,2.63,90.573118,77.6,Sensors,S9
+1350_A1389,TiO2,72.5,Sputtering,Silicon Wafer,1.88,1.42,3.66,28.203899,87.44,Sensors,S23
+2901_A1390,ITO,94.6,Spin Coating,Silicon Wafer,1.65,1.82,4.75,51.473377,87.05,Optoelectronics,S20
+675_A1391,MoS2,64.3,Sputtering,Quartz,2.08,2.2,1.58,72.662275,79.3,Solar Cells,S22
+2591_A1392,SiO2,105.5,ALD,Silicon Wafer,2.55,1.36,0.78,79.985558,73.66,Sensors,S7
+856_A1393,Graphene,62.2,ALD,Quartz,2.46,1.85,2.37,7.85421,88.97,Optoelectronics,S23
+448_A1394,SiO2,117.9,CVD,Quartz,1.61,2.68,3.56,53.312822,74.12,Transparent Conductors,S25
+1420_A1395,ITO,109.9,ALD,Glass,1.9,2.6,2.39,89.507084,93.78,Transparent Conductors,S22
+2230_A1396,TiO2,128.8,CVD,Quartz,2.06,1.22,3.61,61.511054,83.49,Solar Cells,S22
+1617_A1397,SnO2,114.8,Spin Coating,Quartz,1.66,3.79,4.05,15.486545,85.99,Sensors,S1
+2259_A1398,SiO2,136.5,ALD,Silicon Wafer,2.71,2.82,3.58,42.509427,74.49,Sensors,S1
+2822_A1399,SnO2,108.1,CVD,Silicon Wafer,2.51,1.83,0.74,44.429615,82.2,Transparent Conductors,S20
+2754_A1400,SnO2,120.3,Thermal Evaporation,Quartz,2.23,3.46,2.58,27.663491,94.77,Solar Cells,S3
+1717_A1401,SnO2,98.4,Thermal Evaporation,Quartz,1.8,1.46,4.39,18.131493,96.88,Optoelectronics,S22
+2672_A1402,ITO,87.1,Spin Coating,Glass,2.38,3.14,1.11,90.066472,93.64,Solar Cells,S23
+1248_A1403,SiO2,134.1,Thermal Evaporation,PET,2.69,3.97,2.76,0.00934,92.54,Solar Cells,S12
+295_A1404,MoS2,130.7,Thermal Evaporation,PET,1.61,2.54,2.51,38.810307,86.2,Optoelectronics,S7
+589_A1405,Al2O3,57.6,Sputtering,Quartz,2.12,1.0,3.68,11.039712,85.62,Solar Cells,S14
+1282_A1406,ZnO,104.1,Spin Coating,PET,2.42,2.89,2.46,71.227447,74.98,Optoelectronics,S24
+1423_A1407,ZnO,70.2,ALD,Glass,2.1,2.45,3.91,65.148315,88.02,Transparent Conductors,S2
+2350_A1408,ITO,107.9,ALD,Quartz,2.93,1.77,4.77,68.963109,76.23,Sensors,S4
+1427_A1409,SiO2,119.0,Spin Coating,Glass,2.68,2.33,3.07,64.183713,70.81,Solar Cells,S21
+2253_A1410,ITO,70.4,Thermal Evaporation,Quartz,2.6,3.62,1.55,5.925009,87.73,Sensors,S20
+426_A1411,MoS2,119.9,Spin Coating,Silicon Wafer,2.85,1.77,1.21,46.54392,90.94,Sensors,S14
+535_A1412,Al2O3,63.3,Spin Coating,PET,2.13,1.91,3.47,11.165846,88.15,Optoelectronics,S10
+1055_A1413,TiO2,82.9,Thermal Evaporation,Silicon Wafer,2.16,3.81,4.36,46.977065,86.31,Sensors,S19
+1865_A1414,TiO2,100.6,CVD,Quartz,1.82,2.36,1.21,58.17894,78.17,Optoelectronics,S21
+2505_A1415,Graphene,101.6,Sputtering,Quartz,1.92,1.53,3.49,2.857602,81.29,Transparent Conductors,S15
+1426_A1416,ZnO,128.1,CVD,Glass,2.43,2.4,3.76,77.387383,75.95,Solar Cells,S8
+133_A1417,Al2O3,98.8,Thermal Evaporation,Glass,2.8,2.67,4.7,67.442378,82.44,Optoelectronics,S17
+1838_A1418,SnO2,89.7,CVD,Glass,1.68,1.12,4.32,74.860539,85.01,Sensors,S22
+1826_A1419,TiO2,93.6,Spin Coating,Quartz,1.72,1.79,1.0,74.533404,73.72,Optoelectronics,S15
+422_A1420,SnO2,167.5,CVD,PET,2.26,3.84,1.15,70.903148,74.44,Optoelectronics,S16
+2659_A1421,MoS2,126.4,Spin Coating,Glass,1.88,2.79,2.24,12.010287,95.08,Solar Cells,S17
+2029_A1422,Graphene,98.3,Thermal Evaporation,PET,1.89,2.33,3.69,21.962749,83.69,Optoelectronics,S12
+2990_A1423,Al2O3,97.3,ALD,PET,2.27,2.99,0.94,19.173219,83.49,Transparent Conductors,S22
+1369_A1424,TiO2,63.6,ALD,Glass,2.16,2.32,3.7,85.373774,88.34,Optoelectronics,S18
+557_A1425,SnO2,104.9,Spin Coating,Quartz,1.83,1.59,5.13,56.133676,92.25,Transparent Conductors,S16
+2044_A1426,TiO2,58.0,Sputtering,Quartz,2.85,2.99,3.3,73.620776,79.58,Optoelectronics,S4
+1487_A1427,Al2O3,104.9,ALD,PET,2.78,1.9,4.13,69.073119,91.6,Sensors,S21
+2680_A1428,SiO2,100.9,CVD,Quartz,2.25,3.46,1.29,26.920478,75.5,Solar Cells,S7
+571_A1429,SiO2,86.6,CVD,Silicon Wafer,1.89,3.3,2.22,15.327674,93.47,Transparent Conductors,S24
+353_A1430,SnO2,121.9,CVD,PET,2.19,3.35,0.88,76.810847,88.5,Transparent Conductors,S20
+92_A1431,ZnO,143.3,ALD,Quartz,2.63,1.96,2.63,62.670135,76.1,Transparent Conductors,S10
+2563_A1432,Graphene,78.7,Sputtering,PET,2.8,1.14,0.83,7.594079,84.72,Sensors,S22
+2534_A1433,Al2O3,85.2,Thermal Evaporation,PET,2.87,2.58,3.45,13.903094,81.96,Optoelectronics,S16
+1171_A1434,MoS2,113.5,ALD,Quartz,1.55,3.64,3.4,7.575843,84.31,Optoelectronics,S1
+2249_A1435,SiO2,40.2,CVD,Quartz,1.92,1.46,2.14,41.110523,77.46,Optoelectronics,S6
+1286_A1436,SnO2,91.0,Spin Coating,Quartz,2.69,3.67,4.62,3.147516,73.02,Transparent Conductors,S22
+1703_A1437,SnO2,106.3,Sputtering,PET,2.01,3.74,3.26,55.95911,76.3,Solar Cells,S4
+1469_A1438,MoS2,70.3,Sputtering,Glass,2.75,1.16,4.37,37.579433,86.51,Transparent Conductors,S6
+1908_A1439,Al2O3,61.9,Sputtering,Silicon Wafer,2.8,2.17,2.8,33.368005,82.33,Sensors,S8
+1478_A1440,SnO2,88.4,CVD,Quartz,2.94,1.73,3.14,55.99008,85.95,Transparent Conductors,S2
+698_A1441,MoS2,58.0,Sputtering,PET,2.39,3.63,3.48,53.355475,87.02,Solar Cells,S15
+2507_A1442,Al2O3,138.8,CVD,Quartz,1.97,3.58,4.18,98.392085,86.1,Solar Cells,S2
+349_A1443,TiO2,73.9,CVD,Quartz,2.06,3.85,3.49,52.285726,87.77,Transparent Conductors,S10
+1645_A1444,Graphene,78.6,Thermal Evaporation,Silicon Wafer,2.93,2.21,1.02,65.872338,83.54,Optoelectronics,S10
+2347_A1445,SnO2,116.2,Sputtering,PET,1.79,1.31,3.95,39.691863,83.37,Solar Cells,S4
+2432_A1446,SnO2,65.6,Spin Coating,Quartz,1.97,1.21,1.37,75.83055,84.94,Solar Cells,S23
+2169_A1447,MoS2,141.5,ALD,Silicon Wafer,2.26,2.46,2.95,42.012742,80.59,Optoelectronics,S24
+1138_A1448,MoS2,80.3,ALD,Quartz,1.56,2.85,4.76,27.510969,91.88,Transparent Conductors,S2
+1798_A1449,SnO2,155.3,Sputtering,Quartz,1.84,2.63,1.46,25.358914,77.78,Solar Cells,S9
+1545_A1450,SiO2,86.8,Thermal Evaporation,Quartz,2.34,3.73,2.14,76.111004,84.27,Optoelectronics,S6
+2837_A1451,ZnO,114.4,ALD,PET,2.96,2.43,4.11,40.914886,78.63,Transparent Conductors,S21
+2821_A1452,ITO,63.7,Spin Coating,Silicon Wafer,2.13,1.5,4.07,100.807935,74.6,Transparent Conductors,S16
+1340_A1453,MoS2,38.6,Sputtering,PET,2.26,1.69,2.86,60.684004,76.16,Transparent Conductors,S23
+2491_A1454,TiO2,127.8,Spin Coating,Silicon Wafer,2.87,1.44,1.72,26.490313,78.25,Optoelectronics,S7
+454_A1455,Graphene,153.0,Thermal Evaporation,Glass,2.77,4.0,4.62,40.588713,89.53,Solar Cells,S20
+914_A1456,MoS2,96.2,ALD,PET,2.33,3.4,2.97,71.810863,84.91,Sensors,S8
+1200_A1457,TiO2,53.1,Spin Coating,Glass,1.74,0.99,3.2,41.043117,72.4,Solar Cells,S21
+1275_A1458,SiO2,71.1,CVD,Glass,1.64,2.82,3.27,76.168264,84.7,Transparent Conductors,S7
+1867_A1459,Graphene,77.4,ALD,Quartz,2.43,1.14,1.9,13.083773,77.24,Transparent Conductors,S3
+38_A1460,ITO,80.9,ALD,Quartz,2.91,3.83,0.8,90.522937,90.85,Sensors,S1
+975_A1461,ZnO,57.5,ALD,Silicon Wafer,1.68,3.7,2.35,71.207145,94.54,Transparent Conductors,S15
+2771_A1462,ITO,88.7,Sputtering,Quartz,1.99,3.0,0.6,17.904501,90.02,Sensors,S18
+984_A1463,SnO2,93.4,Sputtering,PET,2.86,3.43,1.98,57.705962,74.29,Optoelectronics,S5
+1806_A1464,ITO,45.5,Sputtering,Silicon Wafer,2.53,2.94,1.04,18.725683,86.28,Solar Cells,S12
+1962_A1465,MoS2,118.4,Spin Coating,PET,1.56,1.53,4.1,65.822105,80.05,Solar Cells,S4
+1419_A1466,ZnO,73.5,CVD,Quartz,1.83,1.21,2.36,27.692397,71.91,Transparent Conductors,S9
+1285_A1467,Graphene,133.0,Spin Coating,Silicon Wafer,2.9,2.43,2.11,21.894712,91.08,Sensors,S6
+40_A1468,Al2O3,82.3,CVD,Glass,2.83,2.63,2.48,13.874777,86.14,Transparent Conductors,S15
+2541_A1469,Al2O3,136.8,Sputtering,Silicon Wafer,2.43,2.02,2.37,78.221125,76.04,Solar Cells,S2
+170_A1470,ITO,115.7,Sputtering,Silicon Wafer,2.21,2.27,3.93,85.085334,87.84,Optoelectronics,S16
+1356_A1471,MoS2,124.8,Spin Coating,Quartz,2.35,1.26,1.22,29.049752,77.08,Transparent Conductors,S24
+738_A1472,Graphene,135.9,CVD,Glass,2.25,3.36,4.48,79.18985,90.39,Transparent Conductors,S19
+1591_A1473,SnO2,104.3,CVD,PET,2.75,1.39,5.16,45.096405,92.66,Transparent Conductors,S9
+2700_A1474,TiO2,87.0,CVD,Silicon Wafer,2.51,2.84,2.88,2.844088,93.38,Optoelectronics,S8
+1898_A1475,SiO2,85.6,Thermal Evaporation,Glass,1.61,3.49,1.57,55.164906,95.99,Solar Cells,S19
+635_A1476,TiO2,86.4,Thermal Evaporation,Glass,2.94,1.93,4.22,53.65663,88.78,Solar Cells,S9
+2648_A1477,ITO,104.1,CVD,Glass,1.79,3.71,4.07,60.006291,88.31,Sensors,S19
+1919_A1478,ITO,120.5,Sputtering,PET,2.94,1.13,4.3,49.720095,93.84,Optoelectronics,S15
+1291_A1479,Al2O3,116.6,Sputtering,Quartz,3.03,3.93,0.78,75.968149,94.04,Solar Cells,S9
+1381_A1480,SnO2,82.9,Sputtering,Quartz,1.95,2.12,3.69,76.294739,91.41,Solar Cells,S22
+580_A1481,ITO,113.9,Thermal Evaporation,Quartz,2.56,1.78,2.62,16.802131,78.19,Optoelectronics,S21
+329_A1482,ITO,74.8,Thermal Evaporation,Quartz,2.37,3.71,3.74,57.612983,73.78,Sensors,S9
+1643_A1483,Al2O3,82.4,Spin Coating,Silicon Wafer,2.85,3.92,1.76,82.959174,71.07,Optoelectronics,S10
+893_A1484,ZnO,75.5,CVD,Silicon Wafer,2.57,1.86,3.58,17.123595,85.19,Solar Cells,S12
+1850_A1485,SiO2,73.6,Thermal Evaporation,Glass,2.49,3.35,5.22,73.575105,87.9,Transparent Conductors,S20
+781_A1486,SnO2,57.5,CVD,Silicon Wafer,2.19,2.01,1.77,79.761399,75.98,Optoelectronics,S11
+160_A1487,ITO,133.8,ALD,Quartz,2.88,2.5,2.97,38.875679,83.93,Optoelectronics,S13
+1546_A1488,Graphene,106.9,Sputtering,PET,2.5,1.64,2.67,98.428095,75.51,Solar Cells,S19
+1934_A1489,ITO,140.6,Spin Coating,PET,1.78,1.69,1.7,75.883492,93.84,Transparent Conductors,S16
+2979_A1490,MoS2,136.4,Spin Coating,Quartz,2.5,2.95,0.72,64.193909,91.26,Sensors,S21
+62_A1491,MoS2,120.5,Thermal Evaporation,Quartz,2.11,3.81,2.53,35.513257,81.57,Transparent Conductors,S20
+850_A1492,Graphene,53.5,CVD,Glass,2.81,2.23,0.61,99.044942,94.22,Sensors,S13
+2130_A1493,SiO2,77.0,ALD,Silicon Wafer,1.63,1.21,4.15,5.474564,88.44,Transparent Conductors,S14
+2893_A1494,SnO2,58.4,Thermal Evaporation,Glass,2.68,1.85,2.82,45.335657,82.02,Optoelectronics,S20
+1044_A1495,Graphene,137.0,Sputtering,Silicon Wafer,2.75,3.39,1.71,48.235829,78.72,Sensors,S13
+2497_A1496,Graphene,117.9,Spin Coating,Quartz,2.52,1.67,2.78,12.434893,70.59,Transparent Conductors,S11
+2261_A1497,Graphene,108.1,Sputtering,Silicon Wafer,2.49,1.79,4.04,66.251047,84.84,Solar Cells,S3
+2122_A1498,Graphene,123.9,Spin Coating,Glass,2.61,1.91,0.87,47.812162,85.78,Transparent Conductors,S5
+1071_A1499,SnO2,50.5,Sputtering,Quartz,1.83,2.98,1.14,72.020748,76.83,Optoelectronics,S9
+54_A1500,Graphene,101.0,Thermal Evaporation,Quartz,1.97,2.84,4.1,31.427192,85.54,Sensors,S18
+259_A1501,ITO,103.6,Sputtering,Silicon Wafer,1.97,1.73,4.27,27.10789,79.29,Sensors,S4
+506_A1502,SnO2,73.6,Sputtering,Quartz,2.34,3.43,2.23,32.066076,75.35,Optoelectronics,S15
+753_A1503,ITO,98.5,CVD,Glass,2.84,1.28,1.24,19.992393,73.59,Solar Cells,S15
+1979_A1504,SiO2,128.4,Sputtering,Silicon Wafer,1.85,3.34,2.99,75.51193,75.14,Sensors,S3
+2948_A1505,MoS2,93.3,Thermal Evaporation,Glass,2.71,1.21,1.64,88.635662,94.68,Sensors,S5
+2411_A1506,SnO2,56.4,ALD,PET,2.71,2.3,4.75,59.31329,70.73,Optoelectronics,S19
+1518_A1507,MoS2,136.2,Spin Coating,PET,1.87,1.77,0.71,57.114786,78.0,Sensors,S9
+2998_A1508,Graphene,108.4,Sputtering,Silicon Wafer,1.54,2.05,5.01,39.468293,78.09,Sensors,S21
+2274_A1509,ZnO,116.5,Spin Coating,Silicon Wafer,2.83,3.24,4.72,94.46589,72.49,Transparent Conductors,S11
+1390_A1510,SiO2,175.4,Sputtering,Glass,2.94,1.77,1.02,91.349834,91.89,Sensors,S1
+1267_A1511,SiO2,113.0,Spin Coating,Glass,1.71,1.97,1.01,85.625889,79.86,Optoelectronics,S17
+2467_A1512,MoS2,34.3,Thermal Evaporation,Glass,1.59,3.3,3.73,3.604715,83.44,Transparent Conductors,S14
+1712_A1513,SnO2,110.0,ALD,Silicon Wafer,2.96,2.08,3.65,3.051994,85.29,Optoelectronics,S2
+772_A1514,TiO2,32.9,ALD,PET,2.76,2.66,2.18,96.897371,76.75,Optoelectronics,S13
+2803_A1515,ITO,139.2,ALD,Silicon Wafer,2.12,2.06,2.68,44.925968,71.91,Transparent Conductors,S24
+1808_A1516,MoS2,118.4,ALD,Glass,1.82,1.34,2.14,21.614627,92.65,Sensors,S24
+2686_A1517,Al2O3,97.1,Thermal Evaporation,Silicon Wafer,1.78,2.73,1.99,16.634361,71.08,Sensors,S3
+1086_A1518,Al2O3,54.1,ALD,Silicon Wafer,1.85,1.42,1.99,95.278706,93.34,Optoelectronics,S3
+2258_A1519,MoS2,140.7,ALD,Quartz,2.01,3.6,0.67,95.33862,91.56,Solar Cells,S17
+1533_A1520,ITO,116.8,Sputtering,PET,2.12,3.72,2.77,58.364792,87.62,Optoelectronics,S3
+1326_A1521,MoS2,111.9,CVD,Glass,2.04,1.99,1.28,70.173117,91.07,Optoelectronics,S15
+2120_A1522,SiO2,79.2,CVD,Quartz,2.1,3.16,0.62,34.378092,79.09,Transparent Conductors,S18
+1813_A1523,Al2O3,105.3,Spin Coating,Glass,2.84,1.93,4.51,50.374151,80.85,Solar Cells,S12
+1715_A1524,SnO2,95.6,CVD,Silicon Wafer,1.84,2.83,3.67,6.387173,70.46,Solar Cells,S18
+2035_A1525,MoS2,88.7,ALD,Quartz,1.96,3.36,3.94,75.596157,83.59,Solar Cells,S24
+2424_A1526,Al2O3,138.0,Thermal Evaporation,Silicon Wafer,2.37,3.64,3.92,42.716765,74.3,Solar Cells,S9
+2435_A1527,Graphene,81.1,ALD,Glass,2.82,3.26,1.93,21.851951,73.73,Optoelectronics,S10
+1682_A1528,Al2O3,84.6,Spin Coating,Silicon Wafer,2.51,2.96,0.7,21.912583,86.56,Optoelectronics,S4
+2228_A1529,SiO2,70.3,Sputtering,Silicon Wafer,2.57,3.66,4.55,3.81534,93.19,Solar Cells,S25
+1164_A1530,Al2O3,102.9,Thermal Evaporation,PET,2.32,3.82,2.1,33.282803,75.87,Solar Cells,S24
+964_A1531,MoS2,142.2,CVD,Glass,2.21,2.7,3.49,37.985968,91.5,Sensors,S18
+2903_A1532,ZnO,154.8,CVD,Glass,2.27,3.75,3.04,35.923318,77.26,Sensors,S1
+1663_A1533,ZnO,106.3,ALD,Glass,2.14,1.71,2.96,50.877571,83.01,Solar Cells,S25
+399_A1534,TiO2,141.0,CVD,Silicon Wafer,2.53,2.94,2.96,21.248302,72.48,Transparent Conductors,S18
+585_A1535,Al2O3,161.2,ALD,PET,2.87,1.89,2.6,55.311965,83.83,Solar Cells,S22
+949_A1536,TiO2,37.8,CVD,PET,1.57,3.93,4.3,51.721404,70.47,Sensors,S12
+705_A1537,SnO2,99.0,Thermal Evaporation,Quartz,2.94,1.13,5.44,81.607454,73.23,Solar Cells,S13
+432_A1538,TiO2,162.9,Sputtering,Quartz,1.98,2.69,3.06,41.190329,85.39,Optoelectronics,S25
+293_A1539,SnO2,92.3,CVD,Glass,1.69,3.3,1.21,40.869219,78.57,Optoelectronics,S10
+146_A1540,Al2O3,78.5,Sputtering,Glass,1.85,1.02,1.53,49.047255,80.53,Solar Cells,S23
+324_A1541,Graphene,83.6,Sputtering,Glass,2.19,2.85,1.56,70.928793,82.26,Transparent Conductors,S10
+2109_A1542,SnO2,117.5,Spin Coating,Quartz,2.07,2.31,4.6,60.436713,92.29,Sensors,S1
+1166_A1543,ITO,65.7,Sputtering,Glass,2.74,3.53,4.06,63.980587,70.2,Transparent Conductors,S17
+1453_A1544,Al2O3,84.7,Sputtering,PET,2.29,1.82,4.8,67.90536,80.98,Sensors,S21
+3_A1545,MoS2,78.1,CVD,Quartz,1.72,1.39,2.25,47.58287,95.52,Sensors,S6
+577_A1546,Graphene,84.9,ALD,Silicon Wafer,2.2,1.34,3.84,76.330879,79.77,Solar Cells,S11
+2658_A1547,Graphene,97.4,Sputtering,Quartz,2.55,2.74,1.07,90.630405,89.3,Solar Cells,S13
+340_A1548,SiO2,88.6,Thermal Evaporation,Quartz,2.13,2.7,3.19,40.486573,77.15,Optoelectronics,S20
+2540_A1549,TiO2,91.7,CVD,Quartz,2.55,1.34,4.46,71.826037,90.33,Optoelectronics,S15
+2936_A1550,Graphene,66.3,Thermal Evaporation,PET,2.82,2.63,4.75,38.896811,78.06,Optoelectronics,S2
+926_A1551,Al2O3,122.8,Thermal Evaporation,Quartz,1.57,2.33,0.73,90.592745,75.58,Transparent Conductors,S16
+266_A1552,ITO,140.0,Thermal Evaporation,Silicon Wafer,1.9,3.37,3.98,71.481372,79.31,Optoelectronics,S7
+377_A1553,MoS2,104.8,ALD,PET,3.03,3.76,3.99,13.790889,81.13,Optoelectronics,S13
+2023_A1554,SnO2,136.0,CVD,Quartz,2.78,3.71,1.33,18.571016,74.25,Optoelectronics,S5
+1464_A1555,TiO2,106.3,Sputtering,Silicon Wafer,2.84,2.86,3.54,66.12217,86.54,Solar Cells,S6
+272_A1556,SiO2,69.6,Thermal Evaporation,Glass,1.89,2.27,4.34,86.646791,77.89,Transparent Conductors,S5
+697_A1557,Al2O3,96.9,Sputtering,Quartz,1.69,3.81,2.2,34.322342,83.17,Solar Cells,S9
+2974_A1558,SiO2,143.3,Thermal Evaporation,PET,2.85,4.02,3.65,52.041589,91.26,Optoelectronics,S6
+245_A1559,ZnO,103.1,Thermal Evaporation,Quartz,1.99,2.25,1.95,14.850767,76.73,Solar Cells,S7
+2814_A1560,Al2O3,103.6,Sputtering,Glass,1.7,3.54,1.76,55.735368,87.56,Solar Cells,S19
+477_A1561,MoS2,102.7,CVD,Glass,2.53,2.07,0.98,3.605251,86.72,Sensors,S9
+2786_A1562,SiO2,128.7,Sputtering,Glass,2.77,3.07,4.39,12.490997,82.87,Transparent Conductors,S5
+2844_A1563,ZnO,116.6,Sputtering,PET,2.1,1.03,4.69,33.023499,87.53,Optoelectronics,S20
+2299_A1564,Al2O3,91.9,Sputtering,Silicon Wafer,2.52,2.58,3.12,69.029775,90.46,Transparent Conductors,S24
+2449_A1565,SiO2,133.1,Sputtering,Silicon Wafer,1.58,2.51,1.9,15.387871,77.79,Solar Cells,S7
+2784_A1566,ITO,68.7,Spin Coating,PET,1.75,3.05,1.19,98.060252,95.25,Optoelectronics,S18
+2954_A1567,SiO2,56.4,Spin Coating,Quartz,2.13,2.17,1.92,50.015764,80.38,Sensors,S9
+2983_A1568,ZnO,72.8,ALD,PET,2.07,3.5,2.71,73.348356,74.77,Optoelectronics,S24
+2160_A1569,ZnO,76.3,Thermal Evaporation,Glass,1.9,2.4,4.58,66.562596,75.61,Sensors,S18
+251_A1570,Graphene,85.3,Thermal Evaporation,Glass,2.37,3.17,3.25,24.409133,87.64,Optoelectronics,S1
+414_A1571,ZnO,172.7,Thermal Evaporation,PET,2.44,2.16,3.86,30.898521,75.67,Optoelectronics,S10
+546_A1572,TiO2,121.6,CVD,Quartz,2.45,1.61,1.77,70.624052,76.87,Solar Cells,S20
+1194_A1573,Al2O3,136.0,Spin Coating,Quartz,2.47,1.22,4.03,5.593967,78.02,Optoelectronics,S4
+739_A1574,Graphene,125.1,Spin Coating,PET,2.91,3.12,0.81,15.266586,87.92,Optoelectronics,S11
+311_A1575,Al2O3,109.4,Spin Coating,PET,2.57,2.7,3.01,71.912548,84.38,Optoelectronics,S11
+1980_A1576,ZnO,90.2,Spin Coating,Glass,2.69,3.18,4.14,82.369594,77.71,Optoelectronics,S16
+894_A1577,ITO,151.9,Spin Coating,PET,2.1,3.11,0.52,56.505624,87.34,Optoelectronics,S19
+1132_A1578,Al2O3,128.9,Sputtering,PET,2.19,3.04,3.16,40.154899,78.09,Optoelectronics,S9
+1450_A1579,ZnO,56.5,ALD,Glass,1.94,1.52,1.06,92.752952,71.72,Sensors,S19
+2908_A1580,ITO,79.4,Sputtering,PET,2.98,2.49,2.46,13.571074,73.07,Solar Cells,S16
+16_A1581,ZnO,96.3,ALD,PET,2.31,2.45,1.97,3.270524,91.57,Solar Cells,S25
+1951_A1582,Al2O3,85.2,CVD,PET,2.68,2.2,3.15,18.517358,86.53,Transparent Conductors,S20
+722_A1583,TiO2,84.9,CVD,PET,2.87,3.56,3.99,34.360416,73.16,Sensors,S14
+1421_A1584,SiO2,138.5,Thermal Evaporation,PET,2.68,2.95,3.42,4.739555,82.34,Optoelectronics,S9
+2634_A1585,MoS2,127.6,ALD,Glass,1.87,3.47,3.55,83.680877,88.14,Sensors,S3
+982_A1586,TiO2,79.3,Sputtering,Quartz,2.66,3.3,5.17,61.475468,74.19,Sensors,S19
+1875_A1587,Graphene,43.2,Thermal Evaporation,Silicon Wafer,2.62,1.63,1.66,74.998552,74.35,Sensors,S23
+1540_A1588,MoS2,114.4,Thermal Evaporation,Quartz,2.72,3.56,4.53,57.083002,71.37,Sensors,S14
+2531_A1589,Al2O3,156.4,Sputtering,PET,2.32,1.56,1.37,45.199008,96.1,Transparent Conductors,S21
+1551_A1590,SiO2,88.8,Sputtering,Silicon Wafer,1.62,1.83,4.43,51.473085,71.74,Solar Cells,S7
+2423_A1591,TiO2,71.9,Sputtering,Silicon Wafer,1.93,2.05,1.79,53.359251,87.97,Optoelectronics,S17
+364_A1592,SnO2,32.7,Thermal Evaporation,Silicon Wafer,2.11,1.76,3.06,86.986708,69.77,Solar Cells,S14
+2769_A1593,SnO2,85.5,Thermal Evaporation,Quartz,2.57,1.39,1.86,48.237185,71.29,Optoelectronics,S14
+183_A1594,SnO2,90.1,Spin Coating,Silicon Wafer,1.52,1.54,4.51,55.575063,92.93,Optoelectronics,S5
+986_A1595,SiO2,53.7,Spin Coating,Silicon Wafer,1.93,1.37,1.59,44.840802,81.71,Solar Cells,S10
+1991_A1596,MoS2,95.3,CVD,Glass,2.7,1.35,4.77,45.116299,97.0,Transparent Conductors,S12
+1195_A1597,SnO2,75.1,CVD,Quartz,2.32,2.13,2.98,30.717918,94.13,Transparent Conductors,S6
+1770_A1598,ITO,135.2,Sputtering,Silicon Wafer,1.84,1.16,4.83,44.454795,93.3,Transparent Conductors,S7
+1676_A1599,Graphene,114.0,Thermal Evaporation,Quartz,1.51,2.65,4.26,19.851399,75.91,Solar Cells,S14
+1122_A1600,MoS2,70.8,Thermal Evaporation,Glass,1.66,1.78,3.78,66.586621,78.51,Solar Cells,S13
+188_A1601,Al2O3,72.4,Spin Coating,Silicon Wafer,1.98,1.51,1.76,53.680535,75.58,Sensors,S5
+620_A1602,ITO,77.8,Thermal Evaporation,Quartz,2.05,3.39,3.59,36.674948,86.07,Optoelectronics,S24
+1613_A1603,TiO2,115.9,CVD,Quartz,2.64,1.5,3.24,88.678,72.04,Optoelectronics,S10
+1176_A1604,SnO2,121.0,Sputtering,PET,1.95,2.97,0.73,24.910517,88.94,Solar Cells,S12
+1183_A1605,SiO2,101.5,Spin Coating,PET,1.97,3.1,1.19,47.484002,71.45,Transparent Conductors,S23
+2385_A1606,Graphene,78.7,Sputtering,Glass,2.19,3.03,1.38,31.234896,77.39,Optoelectronics,S19
+2716_A1607,SiO2,66.0,CVD,Silicon Wafer,2.06,1.42,1.04,7.150862,74.31,Sensors,S18
+615_A1608,Al2O3,106.5,Thermal Evaporation,Quartz,2.48,3.04,0.83,75.448075,87.94,Solar Cells,S23
+1514_A1609,Al2O3,149.8,Thermal Evaporation,Glass,1.48,2.17,1.08,72.963439,70.99,Transparent Conductors,S20
+1467_A1610,Al2O3,122.2,CVD,Glass,2.0,3.83,2.32,7.218575,70.26,Transparent Conductors,S2
+402_A1611,MoS2,26.2,Spin Coating,PET,2.6,1.14,4.51,50.898993,79.87,Sensors,S18
+995_A1612,SiO2,66.7,Spin Coating,Silicon Wafer,1.66,3.11,4.15,18.559428,79.63,Optoelectronics,S18
+935_A1613,MoS2,149.7,Spin Coating,Glass,2.24,2.35,2.91,7.271324,91.4,Sensors,S21
+372_A1614,ITO,77.7,Thermal Evaporation,PET,2.49,2.54,1.62,77.032902,94.19,Sensors,S8
+1923_A1615,Al2O3,129.7,Sputtering,Silicon Wafer,2.91,1.6,2.18,67.640678,70.54,Optoelectronics,S7
+2307_A1616,MoS2,171.1,Spin Coating,Quartz,2.21,2.55,4.97,22.147274,79.01,Solar Cells,S7
+594_A1617,Al2O3,33.2,Spin Coating,Glass,2.24,2.46,3.15,69.118739,85.92,Solar Cells,S24
+1911_A1618,ITO,96.1,Sputtering,PET,2.13,1.75,1.69,49.212449,86.04,Transparent Conductors,S4
+727_A1619,ZnO,110.8,Sputtering,Silicon Wafer,3.01,1.1,4.08,76.008784,74.36,Sensors,S17
+827_A1620,SnO2,117.6,Thermal Evaporation,Quartz,2.56,2.66,3.24,12.665959,71.37,Sensors,S8
+1675_A1621,ZnO,109.9,ALD,Quartz,1.57,2.85,1.08,46.046946,82.34,Optoelectronics,S18
+688_A1622,MoS2,53.0,Sputtering,PET,2.06,3.22,1.05,85.783458,73.33,Optoelectronics,S17
+2216_A1623,Al2O3,157.8,CVD,PET,1.78,1.67,4.61,13.853507,73.97,Transparent Conductors,S1
+137_A1624,SnO2,47.9,Thermal Evaporation,Glass,2.48,2.42,3.47,7.795112,82.18,Transparent Conductors,S17
+2765_A1625,Graphene,129.7,Thermal Evaporation,Quartz,2.61,1.93,5.3,47.199596,86.63,Solar Cells,S13
+629_A1626,SnO2,92.3,CVD,Silicon Wafer,1.47,3.61,4.46,22.188286,84.87,Optoelectronics,S22
+335_A1627,Al2O3,103.8,Sputtering,PET,2.85,1.61,4.88,61.628121,79.48,Solar Cells,S25
+391_A1628,TiO2,117.3,Spin Coating,PET,2.15,2.99,1.1,72.948344,85.19,Optoelectronics,S15
+2310_A1629,MoS2,49.5,CVD,Glass,1.61,2.31,1.79,88.350202,78.14,Sensors,S7
+1110_A1630,SiO2,64.5,Thermal Evaporation,Silicon Wafer,2.68,3.98,3.69,44.487523,80.72,Solar Cells,S20
+1738_A1631,MoS2,55.5,Thermal Evaporation,Silicon Wafer,2.02,3.92,1.92,58.497632,70.38,Transparent Conductors,S5
+2699_A1632,ZnO,110.3,Spin Coating,Quartz,2.89,2.49,0.86,62.869874,96.61,Solar Cells,S25
+711_A1633,ZnO,68.0,Spin Coating,Glass,1.81,3.4,1.16,53.656012,70.9,Sensors,S14
+1040_A1634,Al2O3,87.8,ALD,Quartz,1.96,3.8,1.98,50.793558,83.43,Transparent Conductors,S9
+2715_A1635,Al2O3,116.7,Thermal Evaporation,Glass,2.18,2.33,0.47,85.141789,72.87,Transparent Conductors,S9
+1851_A1636,ITO,71.6,Thermal Evaporation,Silicon Wafer,2.9,3.4,0.87,26.15474,74.53,Solar Cells,S20
+2596_A1637,ITO,96.3,CVD,Quartz,2.19,3.95,3.83,82.388938,80.84,Sensors,S10
+1562_A1638,SnO2,133.3,Thermal Evaporation,PET,2.02,2.02,4.54,90.478012,74.58,Sensors,S23
+2758_A1639,SiO2,115.9,ALD,Glass,1.83,3.99,2.02,55.464049,94.4,Sensors,S19
+1595_A1640,TiO2,108.8,Sputtering,PET,2.61,1.85,2.64,33.705355,75.86,Sensors,S18
+2751_A1641,SiO2,151.1,ALD,Silicon Wafer,2.74,2.44,1.21,16.158183,75.69,Transparent Conductors,S4
+1113_A1642,Al2O3,93.2,Spin Coating,Silicon Wafer,1.7,1.04,4.54,61.742667,80.08,Optoelectronics,S15
+466_A1643,SnO2,111.3,CVD,Silicon Wafer,2.97,3.6,0.96,50.476599,84.35,Solar Cells,S5
+1561_A1644,Graphene,103.9,Spin Coating,Silicon Wafer,1.79,3.56,0.92,15.020629,81.23,Sensors,S24
+1224_A1645,ITO,117.7,Sputtering,Quartz,2.54,2.43,2.01,79.674587,71.34,Transparent Conductors,S15
+1954_A1646,SnO2,91.9,Sputtering,PET,2.02,3.21,2.75,12.813647,80.17,Solar Cells,S13
+2967_A1647,MoS2,69.2,Thermal Evaporation,Quartz,1.64,3.56,2.58,90.473133,91.79,Transparent Conductors,S15
+2349_A1648,TiO2,71.1,ALD,PET,2.25,1.94,4.06,41.506569,70.09,Sensors,S5
+1509_A1649,MoS2,81.3,Spin Coating,Glass,2.31,1.1,3.22,76.050212,94.97,Transparent Conductors,S17
+1105_A1650,TiO2,57.1,ALD,Silicon Wafer,2.45,1.34,3.94,81.896885,88.98,Sensors,S23
+1989_A1651,TiO2,119.9,CVD,Quartz,1.72,2.43,3.37,58.461468,96.04,Optoelectronics,S1
+339_A1652,Al2O3,80.7,ALD,Glass,2.77,3.39,4.64,86.034834,78.68,Optoelectronics,S7
+216_A1653,MoS2,93.3,CVD,Glass,1.86,3.62,1.25,14.87692,78.43,Optoelectronics,S22
+1616_A1654,ZnO,135.4,ALD,Quartz,2.23,2.17,0.88,76.166848,73.14,Solar Cells,S10
+1917_A1655,ITO,140.4,Thermal Evaporation,PET,1.88,2.64,1.47,22.708481,79.06,Sensors,S2
+2515_A1656,SiO2,121.9,CVD,Silicon Wafer,2.45,3.46,3.9,73.646671,79.99,Transparent Conductors,S17
+2805_A1657,Graphene,130.4,CVD,Glass,1.68,1.69,1.96,30.603758,97.35,Transparent Conductors,S1
+1593_A1658,SnO2,82.2,Thermal Evaporation,Quartz,2.57,3.22,2.77,45.711053,92.02,Solar Cells,S7
+2241_A1659,MoS2,97.1,Sputtering,PET,1.75,3.84,3.07,1.086461,94.65,Sensors,S25
+1685_A1660,SiO2,128.0,ALD,Quartz,2.15,1.83,2.41,93.240167,93.32,Solar Cells,S2
+2523_A1661,SnO2,95.3,Sputtering,Glass,1.85,3.11,2.59,57.795241,74.72,Transparent Conductors,S1
+817_A1662,TiO2,148.1,ALD,Silicon Wafer,2.6,1.21,4.69,55.699861,81.53,Transparent Conductors,S3
+1068_A1663,Graphene,51.1,Sputtering,Quartz,2.08,1.66,2.67,101.673095,88.89,Transparent Conductors,S24
+2004_A1664,SiO2,90.6,Thermal Evaporation,Quartz,2.77,1.04,2.44,27.179586,81.22,Transparent Conductors,S8
+275_A1665,ITO,36.3,Spin Coating,Glass,1.87,1.93,0.56,51.657049,96.01,Transparent Conductors,S3
+2245_A1666,MoS2,125.7,ALD,Quartz,1.75,2.35,4.86,65.983705,88.14,Optoelectronics,S17
+866_A1667,TiO2,141.7,ALD,Glass,2.16,2.78,4.07,32.493501,84.15,Solar Cells,S8
+102_A1668,MoS2,86.7,Sputtering,Glass,2.77,3.98,0.94,2.716864,84.65,Transparent Conductors,S6
+1502_A1669,Al2O3,108.2,CVD,PET,2.15,1.93,3.16,23.664103,81.67,Optoelectronics,S5
+2150_A1670,SiO2,125.6,Thermal Evaporation,Quartz,2.12,1.77,3.35,19.791243,75.12,Sensors,S25
+172_A1671,ITO,91.9,ALD,PET,2.3,3.48,0.82,61.519537,87.64,Transparent Conductors,S7
+108_A1672,SnO2,94.9,Thermal Evaporation,Silicon Wafer,2.19,1.45,3.55,9.098774,69.55,Sensors,S11
+1863_A1673,Al2O3,109.1,Thermal Evaporation,Silicon Wafer,2.11,3.72,3.75,60.355207,86.01,Solar Cells,S3
+1522_A1674,Graphene,101.5,CVD,Glass,2.38,3.87,1.96,21.932767,85.37,Sensors,S23
+2988_A1675,MoS2,84.9,ALD,Quartz,2.88,2.29,4.34,64.983927,69.94,Solar Cells,S20
+2203_A1676,MoS2,117.9,ALD,Glass,2.35,1.43,2.74,72.108514,76.19,Optoelectronics,S14
+2055_A1677,Graphene,85.4,Spin Coating,Silicon Wafer,2.03,1.2,4.55,58.796047,80.22,Solar Cells,S8
+1765_A1678,Graphene,112.2,Sputtering,PET,2.32,3.3,3.19,28.688922,90.39,Solar Cells,S15
+2034_A1679,Graphene,113.5,ALD,Quartz,2.72,3.88,1.29,19.142959,84.35,Transparent Conductors,S13
+1963_A1680,SiO2,82.7,Spin Coating,Quartz,2.11,3.91,0.57,13.644915,85.91,Optoelectronics,S12
+2251_A1681,SnO2,108.2,Thermal Evaporation,PET,2.93,3.71,1.11,90.435621,87.78,Solar Cells,S20
+2341_A1682,Al2O3,85.3,Thermal Evaporation,Silicon Wafer,1.58,1.11,4.38,9.013666,70.83,Transparent Conductors,S12
+2576_A1683,SnO2,169.0,Spin Coating,Quartz,2.97,1.31,4.65,33.285876,71.64,Solar Cells,S20
+1925_A1684,MoS2,60.6,CVD,Quartz,2.25,2.25,1.64,92.789597,78.77,Optoelectronics,S22
+296_A1685,MoS2,139.0,Spin Coating,Silicon Wafer,2.19,3.32,4.26,48.725888,89.27,Optoelectronics,S22
+713_A1686,ZnO,93.5,Thermal Evaporation,Quartz,2.29,1.75,1.35,12.350032,81.47,Solar Cells,S8
+73_A1687,ZnO,106.0,ALD,PET,2.25,3.22,5.19,33.147563,83.74,Optoelectronics,S7
+1953_A1688,MoS2,87.7,Spin Coating,Silicon Wafer,2.67,3.81,0.5,90.096471,77.42,Sensors,S21
+2270_A1689,TiO2,70.7,Sputtering,Glass,2.21,2.46,3.16,42.066689,79.82,Sensors,S12
+2562_A1690,MoS2,69.4,Sputtering,Quartz,2.7,2.79,2.6,68.691047,93.35,Solar Cells,S12
+2886_A1691,SnO2,39.6,Spin Coating,Glass,2.37,3.89,1.25,95.539389,88.95,Sensors,S13
+482_A1692,ITO,75.7,CVD,Quartz,2.94,2.92,1.63,55.946375,85.89,Optoelectronics,S23
+2219_A1693,ZnO,14.7,Spin Coating,Quartz,2.23,1.7,2.86,32.081783,82.47,Transparent Conductors,S12
+1531_A1694,Al2O3,130.7,Thermal Evaporation,Quartz,2.05,1.66,1.86,64.393768,77.22,Solar Cells,S10
+2116_A1695,ZnO,67.0,Thermal Evaporation,Glass,1.96,2.43,1.27,23.65852,82.27,Solar Cells,S7
+1515_A1696,ZnO,117.5,Thermal Evaporation,PET,2.51,1.5,4.33,55.89067,90.72,Solar Cells,S10
+2961_A1697,SnO2,101.7,Sputtering,Glass,1.83,2.37,1.74,2.80544,69.98,Sensors,S12
+1491_A1698,SnO2,107.6,Spin Coating,Glass,2.24,2.98,2.23,69.527256,88.56,Sensors,S3
+1172_A1699,TiO2,127.2,ALD,Silicon Wafer,1.67,3.56,3.38,18.234004,89.78,Solar Cells,S14
+2453_A1700,TiO2,63.7,Thermal Evaporation,Glass,1.55,3.91,4.14,73.64692,85.21,Sensors,S6
+2430_A1701,Graphene,133.2,Sputtering,Silicon Wafer,2.4,2.88,2.04,14.713891,83.65,Sensors,S5
+2074_A1702,MoS2,85.9,Sputtering,PET,1.89,3.9,2.77,3.917542,94.23,Sensors,S18
+2217_A1703,Graphene,124.5,Sputtering,Silicon Wafer,2.15,1.5,2.33,67.859303,86.15,Optoelectronics,S25
+2272_A1704,SnO2,86.4,CVD,Silicon Wafer,2.64,3.92,3.64,73.646898,93.69,Sensors,S13
+406_A1705,MoS2,146.4,CVD,Silicon Wafer,2.87,2.11,1.69,51.293306,85.28,Solar Cells,S15
+758_A1706,SnO2,117.3,Sputtering,Quartz,2.57,3.79,1.27,60.308621,82.97,Sensors,S23
+1957_A1707,ZnO,67.1,CVD,PET,1.88,2.6,4.81,71.695975,72.45,Sensors,S5
+2185_A1708,TiO2,139.4,Sputtering,Glass,1.69,1.3,2.46,23.491716,78.89,Sensors,S16
+1952_A1709,SiO2,160.0,ALD,PET,2.18,2.54,2.73,12.377356,89.73,Solar Cells,S12
+98_A1710,TiO2,78.7,CVD,Quartz,2.42,2.7,4.35,16.593579,71.78,Solar Cells,S9
+1334_A1711,ZnO,97.1,CVD,Glass,2.34,3.37,2.83,72.007282,72.06,Optoelectronics,S7
+2390_A1712,Al2O3,53.5,Sputtering,PET,1.63,2.61,4.01,102.865972,76.59,Solar Cells,S2
+744_A1713,SiO2,138.0,CVD,PET,1.57,3.5,2.52,43.315308,85.22,Optoelectronics,S3
+807_A1714,ZnO,101.2,ALD,Silicon Wafer,2.51,1.42,0.95,85.96493,82.71,Optoelectronics,S9
+2770_A1715,SiO2,141.4,Spin Coating,Silicon Wafer,2.16,1.59,3.13,25.706259,90.07,Optoelectronics,S10
+1897_A1716,TiO2,167.2,Thermal Evaporation,Quartz,2.45,2.05,2.89,11.046987,75.71,Solar Cells,S9
+2500_A1717,SnO2,113.9,Sputtering,Silicon Wafer,1.96,2.27,2.75,10.325991,84.83,Optoelectronics,S12
+1536_A1718,SnO2,95.3,CVD,Silicon Wafer,2.8,3.26,2.43,65.737431,87.74,Solar Cells,S15
+2051_A1719,ITO,115.2,ALD,PET,2.69,3.46,4.53,40.375192,74.65,Sensors,S4
+2011_A1720,SiO2,172.2,Sputtering,PET,1.8,1.72,0.7,57.452455,85.47,Sensors,S9
+149_A1721,SiO2,65.5,ALD,PET,1.9,3.69,3.4,55.800898,72.77,Solar Cells,S16
+2555_A1722,MoS2,96.2,Thermal Evaporation,Quartz,1.82,3.82,2.1,70.682983,81.42,Transparent Conductors,S14
+2054_A1723,ITO,128.0,CVD,Quartz,2.98,1.51,0.48,21.456176,93.19,Sensors,S9
+1903_A1724,Graphene,103.6,Sputtering,Quartz,2.39,1.84,2.91,29.977147,86.86,Optoelectronics,S19
+1316_A1725,TiO2,68.7,ALD,Glass,2.73,1.03,0.69,42.489237,73.99,Optoelectronics,S24
+693_A1726,ZnO,73.9,Spin Coating,PET,1.89,1.5,3.39,96.365321,86.11,Sensors,S1
+819_A1727,Al2O3,90.5,ALD,Glass,2.85,1.47,3.66,80.956054,85.91,Sensors,S21
+1729_A1728,SnO2,75.4,Spin Coating,Silicon Wafer,2.81,1.24,2.58,60.26881,73.8,Optoelectronics,S24
+1387_A1729,Al2O3,142.5,Sputtering,Silicon Wafer,2.44,3.54,4.51,5.42724,85.97,Optoelectronics,S25
+2282_A1730,MoS2,110.7,ALD,Quartz,2.14,3.61,1.8,29.559274,89.19,Optoelectronics,S7
+2734_A1731,SnO2,24.1,Thermal Evaporation,Glass,1.92,2.11,2.02,16.760996,89.67,Sensors,S3
+1600_A1732,ZnO,90.1,CVD,PET,2.89,1.22,3.99,8.983469,81.7,Sensors,S7
+2611_A1733,MoS2,127.9,Sputtering,Glass,2.97,2.74,2.91,19.569333,84.27,Sensors,S2
+2458_A1734,TiO2,91.9,CVD,Quartz,2.48,3.43,4.51,56.862396,83.93,Solar Cells,S15
+702_A1735,TiO2,119.3,Thermal Evaporation,Quartz,1.5,1.67,1.86,35.502209,90.22,Sensors,S18
+1879_A1736,Graphene,86.2,CVD,Silicon Wafer,2.12,2.62,1.79,28.711483,78.63,Solar Cells,S18
+2657_A1737,SnO2,125.6,Sputtering,PET,2.29,3.73,0.81,86.240408,85.73,Solar Cells,S7
+922_A1738,ITO,118.6,ALD,PET,1.68,3.05,3.33,93.333482,81.33,Sensors,S6
+1425_A1739,MoS2,104.4,Sputtering,Glass,1.57,2.32,2.07,23.248139,76.64,Solar Cells,S1
+1709_A1740,TiO2,92.8,CVD,Glass,2.14,3.67,1.06,16.023792,79.46,Sensors,S17
+906_A1741,Al2O3,87.7,Sputtering,Quartz,2.36,1.11,0.81,56.52292,91.54,Sensors,S4
+455_A1742,Graphene,171.3,Sputtering,Silicon Wafer,2.63,1.56,5.19,82.491873,89.26,Solar Cells,S13
+2186_A1743,Graphene,89.8,Thermal Evaporation,Quartz,1.7,2.05,1.14,56.516133,71.57,Sensors,S19
+2305_A1744,Al2O3,70.7,CVD,PET,2.36,2.16,1.29,35.541127,74.57,Transparent Conductors,S8
+1772_A1745,MoS2,121.7,ALD,Glass,2.58,2.07,2.22,78.67548,85.3,Sensors,S22
+168_A1746,SnO2,96.3,Spin Coating,Glass,1.88,1.84,1.34,23.79889,87.81,Optoelectronics,S3
+731_A1747,Graphene,99.2,Spin Coating,PET,1.64,2.32,3.98,91.502608,70.44,Transparent Conductors,S5
+2189_A1748,SiO2,79.0,ALD,Quartz,2.97,2.03,4.63,69.899424,88.86,Sensors,S1
+1311_A1749,TiO2,78.3,ALD,Glass,2.96,3.25,1.0,14.043085,85.24,Sensors,S19
+27_A1750,TiO2,84.4,CVD,Quartz,2.6,2.51,4.3,72.289988,77.68,Solar Cells,S6
+2060_A1751,Al2O3,131.0,Thermal Evaporation,Glass,1.56,1.5,2.08,88.097538,79.92,Transparent Conductors,S21
+1653_A1752,MoS2,84.8,Sputtering,PET,2.68,3.91,0.86,2.937914,82.45,Optoelectronics,S5
+1623_A1753,Al2O3,61.9,Thermal Evaporation,Silicon Wafer,1.54,3.87,1.75,11.247983,75.8,Sensors,S15
+588_A1754,Graphene,78.6,Spin Coating,PET,2.35,2.8,3.11,80.032957,78.67,Sensors,S20
+2017_A1755,TiO2,127.9,Spin Coating,PET,2.72,1.17,2.86,91.855426,72.11,Sensors,S2
+998_A1756,Al2O3,119.7,CVD,PET,2.83,1.13,2.05,1.092932,84.94,Sensors,S5
+1177_A1757,ITO,126.8,Thermal Evaporation,Silicon Wafer,2.48,2.78,2.22,54.230403,80.08,Transparent Conductors,S10
+1701_A1758,SnO2,92.2,CVD,Glass,2.74,3.44,1.62,43.942348,86.44,Optoelectronics,S1
+1041_A1759,Al2O3,92.1,Spin Coating,Silicon Wafer,2.25,2.77,2.77,48.482016,95.02,Solar Cells,S23
+34_A1760,Graphene,101.0,CVD,Silicon Wafer,2.38,1.46,1.57,89.000539,87.88,Transparent Conductors,S23
+1810_A1761,TiO2,69.6,ALD,PET,2.9,3.14,2.8,79.678246,78.01,Optoelectronics,S14
+2627_A1762,SiO2,73.2,CVD,PET,2.4,3.51,4.66,42.768497,75.22,Optoelectronics,S9
+1380_A1763,Al2O3,144.2,Sputtering,PET,2.5,2.29,1.6,13.678664,80.77,Optoelectronics,S3
+42_A1764,Graphene,85.3,ALD,Glass,1.78,3.77,3.57,95.678741,72.37,Solar Cells,S6
+1792_A1765,SiO2,109.2,CVD,Quartz,1.56,2.83,1.44,29.148992,86.51,Sensors,S20
+2190_A1766,TiO2,114.9,CVD,Silicon Wafer,2.61,2.76,2.61,19.041611,93.29,Transparent Conductors,S16
+2607_A1767,MoS2,115.9,Sputtering,Silicon Wafer,1.94,1.71,2.88,35.346327,88.06,Transparent Conductors,S8
+1973_A1768,TiO2,89.4,CVD,Silicon Wafer,1.94,3.23,3.99,9.590903,92.56,Transparent Conductors,S7
+2290_A1769,SnO2,85.3,ALD,PET,2.66,2.67,3.04,88.010051,83.65,Optoelectronics,S16
+1926_A1770,Al2O3,113.4,CVD,PET,2.53,1.43,3.81,29.957622,85.5,Sensors,S9
+610_A1771,TiO2,98.0,ALD,Silicon Wafer,2.73,2.3,0.78,1.522648,69.02,Solar Cells,S8
+1133_A1772,TiO2,135.7,CVD,PET,1.67,1.7,5.2,2.699195,71.18,Solar Cells,S2
+29_A1773,TiO2,99.7,CVD,Glass,1.84,3.04,3.7,76.476858,87.85,Sensors,S21
+442_A1774,ZnO,127.2,CVD,Quartz,1.95,2.33,1.14,12.456414,88.14,Sensors,S15
+2356_A1775,ITO,122.0,Sputtering,Glass,2.2,1.22,4.03,20.461962,83.68,Solar Cells,S16
+2799_A1776,MoS2,115.0,ALD,Silicon Wafer,2.6,3.25,4.27,23.786387,93.52,Solar Cells,S7
+494_A1777,SnO2,37.9,Sputtering,PET,2.42,1.52,3.37,21.060612,80.79,Optoelectronics,S22
+1259_A1778,SnO2,79.3,CVD,Glass,1.95,2.49,3.45,52.781174,94.1,Solar Cells,S6
+1302_A1779,Graphene,115.4,CVD,Quartz,2.3,1.29,3.03,73.437344,71.91,Transparent Conductors,S3
+2366_A1780,SiO2,128.7,Thermal Evaporation,Quartz,2.05,2.0,4.3,107.266509,95.57,Sensors,S25
+1383_A1781,Al2O3,122.2,ALD,PET,2.75,3.09,1.78,20.057138,93.64,Transparent Conductors,S15
+1305_A1782,Al2O3,112.2,Thermal Evaporation,PET,2.66,1.88,0.92,82.173316,77.02,Sensors,S13
+237_A1783,Al2O3,151.6,Sputtering,Quartz,2.58,3.85,0.56,88.574227,85.72,Sensors,S6
+552_A1784,Graphene,114.0,Sputtering,Glass,2.66,3.23,0.71,97.450114,86.32,Transparent Conductors,S14
+521_A1785,Al2O3,99.2,CVD,Glass,1.46,1.08,0.97,38.932929,71.92,Transparent Conductors,S19
+2447_A1786,TiO2,109.1,Sputtering,Glass,1.76,1.31,3.58,44.088851,92.53,Transparent Conductors,S16
+1233_A1787,ZnO,91.1,Thermal Evaporation,Silicon Wafer,2.54,3.33,1.01,38.11867,86.3,Solar Cells,S11
+1139_A1788,ZnO,72.7,Sputtering,PET,1.74,3.92,0.49,91.581936,93.2,Solar Cells,S24
+721_A1789,Al2O3,88.7,Sputtering,Silicon Wafer,2.87,3.91,3.73,50.445118,82.99,Transparent Conductors,S24
+736_A1790,Al2O3,103.1,CVD,PET,2.65,1.09,2.61,4.103638,73.95,Optoelectronics,S11
+2654_A1791,TiO2,121.2,ALD,Quartz,1.97,2.87,4.69,5.770228,72.67,Optoelectronics,S20
+1751_A1792,SiO2,96.9,Sputtering,PET,2.75,2.72,3.56,2.065535,79.89,Optoelectronics,S22
+59_A1793,SnO2,104.7,CVD,PET,1.75,2.46,2.52,28.471932,73.05,Optoelectronics,S9
+632_A1794,Graphene,134.8,Spin Coating,Quartz,2.3,2.38,4.32,44.05854,85.22,Optoelectronics,S12
+1182_A1795,ZnO,103.1,Thermal Evaporation,Silicon Wafer,1.65,1.12,3.42,69.716283,78.69,Solar Cells,S8
+2204_A1796,SnO2,74.4,Thermal Evaporation,Glass,2.65,3.49,3.84,47.178567,73.44,Transparent Conductors,S19
+593_A1797,ITO,126.8,Thermal Evaporation,PET,2.47,3.11,2.83,79.190554,76.97,Sensors,S18
+1304_A1798,SnO2,156.7,CVD,Quartz,2.39,2.2,4.99,17.459221,74.03,Solar Cells,S2
+1388_A1799,ZnO,110.0,Spin Coating,Silicon Wafer,2.82,1.14,3.97,56.154982,73.17,Optoelectronics,S9
+2616_A1800,ITO,106.7,Spin Coating,PET,2.17,3.8,1.24,109.188724,82.11,Solar Cells,S25
+2631_A1801,MoS2,67.1,Thermal Evaporation,Glass,1.66,2.63,3.09,102.62386,77.82,Sensors,S21
+1846_A1802,SiO2,95.1,ALD,PET,1.63,1.64,1.55,74.841418,90.25,Sensors,S22
+940_A1803,Graphene,73.7,Thermal Evaporation,Glass,2.98,3.73,2.64,58.886058,88.62,Solar Cells,S13
+2789_A1804,TiO2,129.6,Spin Coating,Silicon Wafer,2.67,1.89,4.72,4.417103,74.99,Transparent Conductors,S1
+1250_A1805,Graphene,53.7,Spin Coating,Silicon Wafer,2.22,2.29,3.38,75.835113,91.68,Sensors,S3
+905_A1806,ZnO,101.4,Thermal Evaporation,Silicon Wafer,1.69,2.93,2.5,37.22692,91.74,Transparent Conductors,S15
+2544_A1807,TiO2,87.2,Sputtering,Glass,1.87,1.11,1.22,7.104688,89.4,Transparent Conductors,S24
+1280_A1808,SnO2,73.6,CVD,Quartz,2.33,3.42,2.86,45.38239,91.04,Sensors,S19
+2403_A1809,MoS2,109.9,Thermal Evaporation,Quartz,2.89,3.97,4.47,60.845013,92.19,Transparent Conductors,S1
+2960_A1810,SnO2,74.1,ALD,Quartz,1.9,2.95,3.27,73.570132,84.72,Transparent Conductors,S25
+2127_A1811,Al2O3,107.8,Sputtering,PET,2.36,2.48,4.16,30.490638,87.6,Optoelectronics,S19
+2388_A1812,ZnO,61.3,Thermal Evaporation,Quartz,1.71,3.55,2.49,44.072079,70.04,Transparent Conductors,S3
+2043_A1813,MoS2,112.0,Thermal Evaporation,Silicon Wafer,2.17,2.18,1.67,38.691301,74.46,Optoelectronics,S13
+1143_A1814,ITO,95.8,Sputtering,Silicon Wafer,2.88,2.67,1.04,92.298556,79.79,Sensors,S23
+2382_A1815,ZnO,92.6,Thermal Evaporation,PET,2.69,3.32,1.49,73.366466,78.67,Optoelectronics,S25
+707_A1816,TiO2,99.7,Sputtering,PET,1.64,3.15,1.27,62.964789,96.52,Optoelectronics,S16
+2642_A1817,ZnO,81.4,ALD,Silicon Wafer,2.22,1.48,2.53,75.202938,73.34,Transparent Conductors,S20
+1023_A1818,TiO2,91.8,Spin Coating,Silicon Wafer,2.39,1.44,1.53,40.93471,73.94,Solar Cells,S9
+746_A1819,Graphene,107.7,Thermal Evaporation,Quartz,2.7,1.58,1.73,10.767658,84.83,Transparent Conductors,S2
+1547_A1820,TiO2,79.2,ALD,PET,2.07,2.98,2.75,24.668866,96.01,Solar Cells,S17
+2358_A1821,MoS2,127.0,ALD,Quartz,1.91,3.92,2.09,21.953877,84.49,Solar Cells,S14
+2047_A1822,ITO,57.6,CVD,Glass,2.25,3.59,3.02,92.883719,94.62,Transparent Conductors,S6
+514_A1823,TiO2,94.5,Thermal Evaporation,PET,2.26,2.05,1.79,70.426467,91.88,Sensors,S2
+82_A1824,ITO,83.4,Sputtering,PET,2.49,2.06,2.79,86.049757,75.92,Sensors,S9
+2662_A1825,Al2O3,68.1,Sputtering,PET,2.75,2.71,2.5,76.874311,74.7,Sensors,S4
+1309_A1826,MoS2,106.4,Thermal Evaporation,Silicon Wafer,1.6,2.04,2.96,43.49226,89.39,Transparent Conductors,S18
+2496_A1827,TiO2,112.6,Thermal Evaporation,Glass,2.22,3.45,2.75,40.135827,79.44,Solar Cells,S15
+915_A1828,SiO2,138.5,CVD,Glass,2.61,2.16,4.72,33.509859,93.67,Sensors,S7
+1405_A1829,Graphene,99.2,Spin Coating,PET,2.11,2.15,0.61,11.324954,79.72,Sensors,S19
+1648_A1830,SnO2,109.9,Spin Coating,PET,1.77,2.97,0.57,26.653557,94.2,Optoelectronics,S15
+2761_A1831,ITO,121.1,Spin Coating,PET,1.54,2.82,3.05,93.485024,80.47,Sensors,S16
+1109_A1832,Al2O3,42.3,Thermal Evaporation,Quartz,1.57,1.13,0.68,67.908152,91.2,Sensors,S25
+151_A1833,SnO2,146.5,ALD,PET,2.46,2.5,2.26,80.628982,90.61,Sensors,S10
+2727_A1834,SnO2,52.0,Spin Coating,Glass,2.43,3.46,2.87,33.618796,81.77,Optoelectronics,S24
+775_A1835,SiO2,125.1,Spin Coating,Glass,2.29,2.27,2.24,3.005474,84.05,Optoelectronics,S3
+330_A1836,ZnO,58.8,CVD,PET,2.69,3.99,3.93,9.93446,72.22,Optoelectronics,S12
+7_A1837,SiO2,120.8,ALD,Silicon Wafer,2.79,1.37,3.66,60.126824,91.27,Solar Cells,S22
+944_A1838,SiO2,98.0,Spin Coating,Quartz,2.63,2.11,3.13,19.397527,77.22,Solar Cells,S4
+823_A1839,Al2O3,60.8,CVD,Quartz,2.39,3.79,2.08,101.894978,88.25,Sensors,S10
+735_A1840,SnO2,59.7,Spin Coating,PET,2.7,2.56,0.6,87.384963,92.06,Sensors,S17
+910_A1841,TiO2,80.8,Spin Coating,PET,1.57,2.11,3.3,92.603046,79.54,Transparent Conductors,S25
+469_A1842,SnO2,122.8,Spin Coating,Glass,2.04,1.66,2.09,58.339617,69.24,Sensors,S20
+182_A1843,ITO,70.8,Thermal Evaporation,Silicon Wafer,2.33,1.74,1.21,74.786483,91.48,Sensors,S16
+165_A1844,SnO2,39.6,CVD,Silicon Wafer,1.85,2.21,3.24,47.905783,74.86,Solar Cells,S8
+1524_A1845,Graphene,85.0,Thermal Evaporation,Glass,1.76,1.9,3.63,89.089235,76.01,Transparent Conductors,S1
+452_A1846,MoS2,106.8,Sputtering,Glass,2.41,2.47,2.75,61.697447,78.9,Solar Cells,S17
+491_A1847,Al2O3,109.8,CVD,PET,1.94,4.01,1.98,25.457691,90.85,Sensors,S10
+2005_A1848,ITO,26.8,Thermal Evaporation,Glass,2.6,1.71,3.09,80.315787,92.98,Transparent Conductors,S5
+1144_A1849,ZnO,106.5,ALD,Glass,2.19,3.36,2.75,34.391405,70.06,Optoelectronics,S10
+1312_A1850,MoS2,125.4,Sputtering,Silicon Wafer,2.03,1.6,2.57,5.229755,88.76,Solar Cells,S8
+2243_A1851,MoS2,42.7,ALD,Quartz,2.09,1.08,1.16,10.152534,71.65,Optoelectronics,S5
+1112_A1852,SnO2,103.0,Thermal Evaporation,PET,2.54,3.24,1.24,99.841217,84.68,Optoelectronics,S20
+2855_A1853,Graphene,108.1,Sputtering,Silicon Wafer,2.22,1.3,1.3,2.831757,88.79,Optoelectronics,S19
+1978_A1854,Al2O3,110.2,CVD,Silicon Wafer,2.49,3.13,2.12,25.358382,69.81,Optoelectronics,S2
+1442_A1855,MoS2,102.7,ALD,Quartz,2.58,2.23,1.92,73.097812,78.24,Transparent Conductors,S4
+1890_A1856,SnO2,99.1,Spin Coating,PET,2.37,3.56,4.4,54.923141,91.9,Solar Cells,S8
+1007_A1857,Graphene,66.0,Sputtering,Glass,2.64,2.93,4.06,82.670047,69.4,Sensors,S20
+1628_A1858,MoS2,108.8,ALD,Silicon Wafer,2.33,3.33,3.73,41.615783,69.3,Optoelectronics,S15
+1633_A1859,Al2O3,65.1,ALD,Glass,2.62,3.52,3.75,67.294339,92.37,Sensors,S7
+1075_A1860,SiO2,99.9,Thermal Evaporation,Quartz,1.75,3.78,1.03,86.754682,77.99,Sensors,S6
+579_A1861,TiO2,92.3,Sputtering,Glass,2.06,2.2,1.55,89.308445,95.79,Transparent Conductors,S22
+2728_A1862,ZnO,113.5,ALD,Silicon Wafer,2.4,2.7,1.12,65.560132,81.86,Solar Cells,S10
+2346_A1863,ZnO,101.3,Thermal Evaporation,Glass,2.57,2.99,3.46,12.58934,71.92,Sensors,S23
+2264_A1864,Graphene,66.0,Thermal Evaporation,Glass,2.97,3.2,4.1,68.215037,80.58,Solar Cells,S4
+2303_A1865,SiO2,62.1,CVD,Quartz,1.64,1.61,3.67,10.291148,72.23,Optoelectronics,S12
+328_A1866,Al2O3,67.7,CVD,Silicon Wafer,2.64,2.73,4.97,75.038075,90.19,Solar Cells,S9
+1791_A1867,TiO2,94.3,Spin Coating,Glass,2.87,3.86,0.9,66.905114,74.52,Solar Cells,S18
+443_A1868,TiO2,81.8,Spin Coating,Quartz,1.91,4.07,3.03,95.504471,94.15,Optoelectronics,S16
+1859_A1869,TiO2,57.7,Sputtering,Quartz,2.17,2.61,3.77,101.590547,88.8,Sensors,S18
+2171_A1870,TiO2,145.8,Spin Coating,Quartz,2.05,3.64,2.99,24.070163,85.23,Transparent Conductors,S8
+2833_A1871,ITO,160.3,CVD,PET,2.84,2.2,3.36,28.390604,75.61,Sensors,S13
+833_A1872,ZnO,122.3,Thermal Evaporation,Glass,1.5,1.86,2.03,41.731778,90.44,Transparent Conductors,S22
+2375_A1873,TiO2,107.4,Spin Coating,Silicon Wafer,2.71,1.99,2.16,49.90006,74.15,Transparent Conductors,S15
+2104_A1874,Graphene,132.7,Sputtering,PET,2.1,3.03,2.14,53.119786,76.17,Sensors,S25
+1415_A1875,ITO,104.9,ALD,Glass,2.75,3.77,4.4,38.931216,90.65,Solar Cells,S4
+1202_A1876,TiO2,48.1,Thermal Evaporation,Silicon Wafer,2.99,1.9,0.48,66.142811,86.48,Optoelectronics,S20
+2315_A1877,SiO2,130.0,ALD,Quartz,2.24,3.07,3.23,88.994711,92.04,Sensors,S20
+1500_A1878,Al2O3,133.1,ALD,Quartz,2.73,3.8,3.31,88.394293,74.21,Transparent Conductors,S4
+2878_A1879,ZnO,75.1,Spin Coating,Quartz,1.62,3.89,4.25,89.832468,92.58,Optoelectronics,S17
+87_A1880,ITO,122.9,Spin Coating,Quartz,2.92,3.41,0.55,87.242308,77.66,Optoelectronics,S3
+1404_A1881,SnO2,113.5,Spin Coating,Glass,1.9,3.66,2.18,19.161044,94.07,Sensors,S21
+2927_A1882,ITO,169.7,CVD,Glass,2.54,3.05,3.68,14.397164,87.02,Sensors,S14
+1482_A1883,Al2O3,122.4,ALD,PET,2.17,3.21,1.84,30.012261,88.66,Solar Cells,S12
+778_A1884,ITO,77.1,Spin Coating,PET,2.33,1.59,1.55,66.674837,75.22,Optoelectronics,S21
+800_A1885,TiO2,86.9,ALD,Silicon Wafer,2.42,3.9,0.88,48.653504,75.36,Sensors,S25
+1667_A1886,ITO,54.7,ALD,Quartz,2.35,3.84,1.12,20.500702,97.42,Transparent Conductors,S3
+55_A1887,SiO2,101.6,ALD,Quartz,2.78,1.3,4.57,4.308231,83.62,Solar Cells,S21
+2363_A1888,ITO,86.3,Spin Coating,PET,2.04,1.3,2.53,37.86158,82.07,Sensors,S7
+1288_A1889,SnO2,98.9,Sputtering,Quartz,1.91,1.72,1.32,16.345142,70.45,Solar Cells,S20
+1668_A1890,SnO2,72.6,ALD,Glass,2.5,2.07,2.3,23.339224,74.59,Sensors,S4
+2587_A1891,Graphene,101.7,CVD,Silicon Wafer,1.94,3.25,3.85,86.863003,92.44,Transparent Conductors,S11
+2155_A1892,ITO,94.8,Spin Coating,Glass,2.95,1.28,0.59,68.099596,83.6,Optoelectronics,S3
+1702_A1893,SiO2,63.2,Sputtering,Glass,2.85,2.25,4.25,30.825365,88.75,Solar Cells,S23
+1246_A1894,ZnO,138.5,CVD,Quartz,2.06,2.34,5.2,39.345207,84.82,Sensors,S22
+114_A1895,SiO2,95.8,ALD,Silicon Wafer,2.51,1.61,1.04,6.597208,84.4,Transparent Conductors,S3
+2807_A1896,SiO2,112.9,Sputtering,Glass,1.58,2.86,1.77,5.524427,77.82,Transparent Conductors,S5
+988_A1897,SnO2,161.4,Spin Coating,Quartz,1.75,2.11,1.52,67.79512,89.31,Sensors,S1
+502_A1898,TiO2,98.0,CVD,Silicon Wafer,1.83,1.27,2.28,33.445847,79.04,Sensors,S23
+2892_A1899,TiO2,143.0,Sputtering,Silicon Wafer,2.02,3.44,4.45,51.561393,71.86,Transparent Conductors,S14
+1010_A1900,TiO2,132.3,Sputtering,Silicon Wafer,1.94,2.95,1.98,64.834129,70.1,Sensors,S11
+1199_A1901,SiO2,86.2,ALD,Quartz,2.39,1.54,4.89,2.458139,82.56,Optoelectronics,S25
+1395_A1902,TiO2,19.4,Spin Coating,Glass,2.01,2.54,4.32,21.416027,82.34,Sensors,S1
+590_A1903,SiO2,136.2,Spin Coating,Glass,2.55,3.12,1.2,17.197235,80.15,Transparent Conductors,S24
+769_A1904,Graphene,97.8,Sputtering,Silicon Wafer,1.69,3.62,1.58,17.811043,76.85,Optoelectronics,S13
+18_A1905,SnO2,80.7,Spin Coating,Quartz,2.76,1.79,1.53,73.541635,74.37,Sensors,S5
+1043_A1906,ZnO,64.1,Spin Coating,PET,1.66,3.08,1.09,81.545746,94.76,Transparent Conductors,S22
+1448_A1907,Al2O3,96.8,ALD,Quartz,1.61,2.35,1.73,6.108201,76.41,Optoelectronics,S25
+2464_A1908,TiO2,90.9,CVD,PET,1.59,2.3,1.04,13.375746,76.86,Sensors,S18
+286_A1909,Graphene,105.7,Thermal Evaporation,Silicon Wafer,2.03,1.1,3.78,8.55938,89.71,Sensors,S16
+2639_A1910,Al2O3,84.8,Thermal Evaporation,Glass,2.78,1.27,0.74,107.957866,78.15,Sensors,S10
+429_A1911,ZnO,85.6,Sputtering,Glass,2.8,2.33,3.17,12.487438,85.19,Optoelectronics,S22
+1329_A1912,SnO2,126.8,CVD,Silicon Wafer,2.48,1.98,4.29,19.608338,79.03,Transparent Conductors,S18
+1949_A1913,MoS2,97.0,Spin Coating,Quartz,1.91,1.05,4.2,7.39155,71.21,Optoelectronics,S21
+670_A1914,Al2O3,127.8,Sputtering,Glass,2.79,2.51,2.46,49.680228,82.27,Optoelectronics,S1
+32_A1915,Al2O3,95.6,Spin Coating,Silicon Wafer,2.18,1.24,2.62,93.009101,88.16,Sensors,S1
+1342_A1916,SiO2,71.4,Spin Coating,Glass,1.83,2.54,4.1,13.109236,83.44,Transparent Conductors,S9
+723_A1917,TiO2,129.1,Thermal Evaporation,PET,1.92,2.67,4.01,90.36932,73.29,Optoelectronics,S2
+952_A1918,SiO2,121.2,Sputtering,Silicon Wafer,2.47,2.4,1.75,49.204498,78.52,Solar Cells,S10
+1915_A1919,SnO2,115.9,Spin Coating,Quartz,2.53,3.93,0.79,19.207594,82.06,Transparent Conductors,S16
+2294_A1920,Graphene,80.1,CVD,Silicon Wafer,2.67,1.99,1.9,12.642814,75.56,Sensors,S5
+215_A1921,SiO2,103.1,ALD,Glass,2.03,1.79,1.64,51.574982,94.56,Transparent Conductors,S25
+990_A1922,ITO,112.2,Thermal Evaporation,Quartz,2.56,2.62,3.74,61.372061,87.79,Transparent Conductors,S7
+1165_A1923,ZnO,133.2,Sputtering,Quartz,2.01,1.92,1.8,30.19768,77.4,Optoelectronics,S19
+2793_A1924,TiO2,136.2,ALD,PET,1.81,3.81,1.56,39.207643,75.31,Sensors,S10
+2006_A1925,Graphene,66.0,CVD,Silicon Wafer,2.67,3.6,3.52,49.904548,69.8,Solar Cells,S12
+327_A1926,SnO2,117.9,ALD,PET,1.8,2.42,2.43,16.497529,90.69,Sensors,S19
+561_A1927,Al2O3,48.9,Thermal Evaporation,Quartz,2.18,3.13,4.45,28.791559,75.85,Solar Cells,S24
+1384_A1928,Graphene,102.3,Thermal Evaporation,Glass,2.55,1.97,5.02,36.830898,85.57,Optoelectronics,S12
+1725_A1929,ZnO,105.8,Thermal Evaporation,Glass,2.12,1.2,4.66,84.896007,78.13,Sensors,S19
+1087_A1930,ITO,63.2,Sputtering,Silicon Wafer,1.9,2.11,5.03,62.750095,91.39,Optoelectronics,S1
+2684_A1931,ITO,15.1,CVD,Glass,2.95,2.4,1.89,92.434303,74.71,Optoelectronics,S22
+342_A1932,TiO2,116.5,Spin Coating,Silicon Wafer,2.32,3.43,1.86,71.682292,93.32,Solar Cells,S15
+1654_A1933,SiO2,119.2,Thermal Evaporation,PET,1.79,1.52,4.51,33.722659,71.81,Solar Cells,S6
+148_A1934,Graphene,90.2,Sputtering,PET,1.9,2.51,2.52,49.178256,84.31,Transparent Conductors,S3
+2340_A1935,SiO2,11.2,Thermal Evaporation,PET,2.78,2.68,4.88,39.875637,81.03,Transparent Conductors,S25
+2413_A1936,TiO2,103.0,Sputtering,PET,2.05,2.73,2.76,96.393204,85.75,Optoelectronics,S17
+1108_A1937,SnO2,34.2,Sputtering,Glass,2.51,3.94,2.83,74.683038,90.98,Sensors,S17
+849_A1938,MoS2,115.7,Sputtering,PET,1.68,3.34,0.98,23.911577,81.87,Solar Cells,S24
+967_A1939,SiO2,124.1,CVD,Quartz,2.45,1.85,2.96,73.0615,70.1,Sensors,S19
+1073_A1940,ITO,100.6,Spin Coating,Glass,1.7,2.18,1.73,12.169488,75.66,Optoelectronics,S2
+2465_A1941,SnO2,74.1,Spin Coating,Glass,2.85,3.49,3.65,48.955207,72.0,Sensors,S20
+1906_A1942,ZnO,82.0,ALD,Silicon Wafer,2.44,3.16,2.31,48.813319,93.57,Sensors,S25
+156_A1943,ZnO,125.1,Thermal Evaporation,PET,2.65,2.55,0.57,81.534996,71.0,Sensors,S8
+666_A1944,ZnO,151.5,CVD,Quartz,1.67,3.55,4.14,14.599741,86.36,Transparent Conductors,S18
+662_A1945,TiO2,96.1,Spin Coating,PET,1.66,1.98,5.29,56.310176,83.82,Sensors,S13
+1003_A1946,Al2O3,123.5,CVD,Silicon Wafer,2.31,3.24,1.87,74.690317,86.15,Sensors,S23
+2342_A1947,Graphene,47.2,ALD,PET,1.74,1.32,2.84,100.684451,89.06,Sensors,S2
+2517_A1948,SnO2,37.4,Spin Coating,Silicon Wafer,1.77,2.57,1.28,85.953892,72.05,Transparent Conductors,S16
+177_A1949,SnO2,155.5,Sputtering,PET,1.98,2.13,4.35,66.99083,94.28,Transparent Conductors,S24
+2655_A1950,ITO,107.0,Spin Coating,Glass,1.95,2.06,1.3,3.469556,78.32,Solar Cells,S25
+1880_A1951,SiO2,105.7,Spin Coating,PET,2.29,1.71,3.14,10.460979,85.69,Solar Cells,S18
+1525_A1952,MoS2,90.3,CVD,PET,1.5,1.73,4.47,54.971707,88.45,Sensors,S5
+2818_A1953,TiO2,109.3,Thermal Evaporation,Quartz,1.55,2.95,0.72,57.182348,86.8,Solar Cells,S7
+1204_A1954,ITO,96.7,Spin Coating,Quartz,2.9,3.8,1.07,18.359184,90.19,Optoelectronics,S23
+25_A1955,TiO2,88.6,CVD,Quartz,2.97,1.67,4.17,15.146342,85.26,Solar Cells,S7
+2811_A1956,TiO2,96.8,Thermal Evaporation,Quartz,2.93,1.42,4.83,78.442018,80.63,Transparent Conductors,S20
+2810_A1957,TiO2,145.1,ALD,PET,2.08,1.98,1.93,7.483535,68.37,Optoelectronics,S11
+2078_A1958,SnO2,35.3,CVD,Glass,2.6,1.28,0.52,49.927868,84.08,Sensors,S22
+2300_A1959,TiO2,110.3,CVD,Quartz,2.64,1.8,0.71,29.238892,80.0,Solar Cells,S5
+876_A1960,Graphene,135.2,Thermal Evaporation,Glass,2.16,2.47,1.99,8.682219,76.77,Optoelectronics,S17
+2900_A1961,ITO,109.9,Spin Coating,Quartz,2.09,3.21,3.76,17.72235,81.07,Sensors,S21
+939_A1962,MoS2,119.3,Thermal Evaporation,Quartz,2.19,1.92,2.28,43.09152,82.53,Optoelectronics,S12
+2698_A1963,ZnO,111.9,ALD,Quartz,2.8,3.57,2.35,98.032496,91.4,Solar Cells,S24
+1553_A1964,SiO2,104.8,CVD,Glass,1.78,2.07,4.05,90.094354,72.19,Sensors,S23
+347_A1965,SnO2,140.8,CVD,Silicon Wafer,2.94,2.69,1.22,71.762715,80.67,Optoelectronics,S14
+2508_A1966,Graphene,106.3,Spin Coating,Silicon Wafer,2.12,1.92,1.59,17.993171,86.81,Transparent Conductors,S22
+2972_A1967,ITO,95.4,Spin Coating,Quartz,2.04,1.14,1.41,77.920269,88.05,Transparent Conductors,S4
+2038_A1968,ITO,160.6,Thermal Evaporation,PET,2.64,1.83,0.6,92.513278,77.28,Optoelectronics,S3
+1927_A1969,SnO2,93.3,Thermal Evaporation,PET,2.48,1.49,2.01,28.694917,85.34,Solar Cells,S15
+386_A1970,MoS2,69.2,Spin Coating,Glass,2.34,1.45,1.7,55.150683,82.97,Optoelectronics,S2
+1830_A1971,TiO2,126.0,Thermal Evaporation,PET,2.41,1.73,1.21,71.834551,74.13,Solar Cells,S1
+2162_A1972,TiO2,105.6,ALD,Quartz,2.09,1.28,2.41,61.640122,74.57,Optoelectronics,S5
+2509_A1973,TiO2,115.1,ALD,Quartz,1.54,2.22,2.04,24.574414,73.88,Transparent Conductors,S11
+2197_A1974,Graphene,109.9,Sputtering,Silicon Wafer,1.84,3.8,2.95,50.232685,82.49,Sensors,S5
+244_A1975,SiO2,100.6,Thermal Evaporation,Glass,1.86,1.52,2.66,82.237881,70.23,Sensors,S24
+2087_A1976,SnO2,41.5,CVD,PET,1.62,2.23,4.69,10.215946,91.81,Transparent Conductors,S12
+1827_A1977,SiO2,67.8,Thermal Evaporation,Quartz,1.85,2.8,4.91,36.609412,75.51,Transparent Conductors,S16
+937_A1978,SiO2,70.6,CVD,Glass,2.57,1.55,1.64,2.342956,74.54,Sensors,S9
+1690_A1979,SiO2,63.3,Thermal Evaporation,PET,2.32,1.94,1.24,63.41451,74.33,Transparent Conductors,S20
+2581_A1980,SiO2,52.3,ALD,Silicon Wafer,1.75,2.98,1.61,87.048239,72.83,Optoelectronics,S14
+313_A1981,SnO2,122.8,Sputtering,Silicon Wafer,1.92,3.63,3.43,24.713133,73.02,Transparent Conductors,S15
+1460_A1982,TiO2,107.0,CVD,Quartz,1.52,3.31,4.07,79.482227,70.66,Transparent Conductors,S3
+2926_A1983,MoS2,152.1,Spin Coating,Quartz,1.6,2.19,1.64,0.549937,74.06,Transparent Conductors,S25
+2108_A1984,Graphene,99.9,CVD,Silicon Wafer,2.58,3.94,0.79,55.44861,87.3,Transparent Conductors,S4
+1333_A1985,TiO2,150.9,Thermal Evaporation,Quartz,2.96,2.69,1.43,15.62017,96.21,Optoelectronics,S10
+969_A1986,SnO2,120.8,CVD,Quartz,2.94,1.88,4.81,9.469227,73.53,Sensors,S4
+1455_A1987,SnO2,123.0,ALD,PET,2.39,3.83,4.23,18.911967,74.55,Optoelectronics,S8
+661_A1988,SiO2,113.5,CVD,Quartz,2.05,3.22,5.16,50.646447,76.07,Sensors,S9
+1935_A1989,Al2O3,108.6,CVD,PET,2.19,2.5,1.61,15.268688,81.56,Transparent Conductors,S4
+936_A1990,SiO2,116.3,ALD,Glass,2.43,1.88,2.38,87.233988,76.45,Solar Cells,S11
+371_A1991,ITO,135.1,Sputtering,Glass,1.77,1.76,4.51,17.019959,87.78,Solar Cells,S2
+567_A1992,SnO2,99.8,ALD,Glass,2.8,2.99,4.66,43.631593,86.83,Optoelectronics,S18
+1974_A1993,ZnO,147.6,Spin Coating,Quartz,3.01,1.94,1.74,0.286302,84.57,Solar Cells,S11
+1855_A1994,SiO2,148.8,Spin Coating,PET,2.36,1.83,2.95,23.270661,85.37,Optoelectronics,S8
+1025_A1995,Al2O3,119.1,CVD,Silicon Wafer,2.05,2.51,4.16,47.606615,85.25,Solar Cells,S22
+825_A1996,SiO2,70.3,CVD,PET,2.96,1.74,4.89,43.127899,80.81,Transparent Conductors,S17
+983_A1997,SiO2,61.2,CVD,Quartz,1.97,2.44,4.6,35.35395,80.62,Sensors,S24
+2673_A1998,Graphene,59.7,Sputtering,Silicon Wafer,1.96,2.48,4.34,79.999475,75.19,Transparent Conductors,S17
+2957_A1999,ZnO,67.0,CVD,Glass,2.77,2.88,4.36,78.427863,90.08,Optoelectronics,S1
