@@ -1,0 +1,34 @@
+# main.py
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+import numpy as np
+
+from data_collection import scrape_sample_data
+from data_augmentation import augment_data
+from model_proposed import build_proposed_model
+from model_existing import train_existing_models
+from evaluation import plot_roc_curves
+
+# Step 1: Load and augment data
+df = scrape_sample_data()
+df_aug = augment_data(df, 10000)
+
+# Flatten intensity profile into features
+intensity_cols = pd.DataFrame(df_aug['intensity_profile'].tolist(), columns=[f'intensity_{i}' for i in range(3)])
+X = pd.concat([df_aug.drop(['intensity_profile', 'label', 'material'], axis=1), intensity_cols], axis=1)
+y = df_aug['label']
+
+# Step 2: Train/test split
+X_train, X_test, y_train, y_test = train_test_split(X.values, y.values, test_size=0.2, random_state=42)
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+
+# Step 3: Train models
+deep_model = build_proposed_model(input_shape=X_train_scaled.shape[1])
+deep_model.fit(X_train_scaled, y_train, epochs=10, batch_size=32, verbose=0)
+
+existing_models = train_existing_models(X_train_scaled, y_train)
+
+# Step 4: Evaluate and plot
+plot_roc_curves(existing_models, X_test_scaled, y_test, deep_model=deep_model)
